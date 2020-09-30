@@ -1,0 +1,4130 @@
+pbdid,target
+1D4H,HIV-1 Protease
+3EKP,HIV-1 protease M1
+1W0E,Cytochrome P450 3A
+1WUU,Galactokinase (GALK)
+1EBY,HIV-1 Protease
+1GFW,Caspase-3
+1IBC,Caspase-1
+3LZS,HIV-1 protease M2
+4ZG9,Autotaxin
+1I4O,Caspase-7
+2WDP,Caspase-6
+1F9E,Caspase-8
+1PYO,Caspase-2
+2P3C,HIV-1 protease M3
+1D4K,HIV-1 Protease
+1HII,HIV-2 Protease
+1MT7,HIV-1 Protease Mutant (L23I)
+1MT7,HIV-1 Protease Mutant (L23V)
+1MT7,HIV-1 Protease Mutant (V32I)
+1MT7,HIV-1 Protease Mutant (I47L)
+1MT7,HIV-1 Protease Mutant (I50L)
+1MT7,HIV-1 Protease Mutant (L76M)
+2P3A,HIV-1 Protease Mutant (V82I)
+1MER,HIV-1 Protease Mutant (I84V)
+1FFF,HIV-1 Protease Mutant (D30N)
+1D4K,HIV-1 Protease Mutant (M36I)
+1D4K,HIV-1 Protease Mutant (A71V)
+1MT7,HIV-1 Protease Mutant (D30N/M36I)
+1MT7,HIV-1 Protease Mutant (D30N/A71V)
+1MT7,HIV-1 Protease Mutant (M36I/A71V)
+1CPI,HIV-1 Protease Mutant (D30N/M36I/A71V)
+1CPI,HIV-1 Protease Mutant (A71V/V82T/I84V)
+2B60,HIV-1 Protease
+1CPI,"HIV-1 Protease Mutant, A-1"
+1IKV,HIV-1 Reverse Transcriptase
+1DLO,HIV-1 Reverse Transcriptase
+1HMV,HIV-1 Reverse Transcriptase Mutant (Y181C)
+3GMD,11-beta-Hydroxysteroid Dehydrogenase 1 (11-beta-HSD1)
+6QWA,Beta-lactamase (KPC-2)
+4X68,Beta-lactamase (AmpC)
+1HMV,HIV-1 Reverse Transcriptase Mutant (Y188L)
+1HMV,HIV-1 Reverse Transcriptase Mutant (K103N)
+1HMV,HIV-1 Reverse Transcriptase Mutant (V106A)
+1HMV,HIV-1 Reverse Transcriptase Mutant (G190A)
+1HMV,HIV-1 Reverse Transcriptase Mutant (P236L)
+1DLO,HIV-1 Reverse Transcriptase Mutant (L100I)
+1DLO,HIV-1 Reverse Transcriptase Mutant (Y181C)
+1DLO,HIV-1 Reverse Transcriptase Mutant (K103N)
+1DLO,HIV-1 Reverse Transcriptase Mutant (P236L)
+1K04,Focal adhesion kinase 1
+1MU2,HIV-2 Reverse Transcriptase
+2B7A,Tyrosine-protein kinase JAK2
+3PJC,Tyrosine-protein kinase JAK3
+2BXR,Amine oxidase [flavin-containing] A
+2I0E,Protein Kinase C
+1Q8T,cAMP-Dependent Protein Kinase (PKA)
+2C1A,cAMP-Dependent Protein Kinase (PKA)
+1I44,Insulin receptor
+1IVO,Epidermal growth factor receptor
+1FPU,Tyrosine-protein kinase transforming protein Abl
+1FMK,Proto-oncogene tyrosine-protein kinase Src
+2ELI,"Protein Kinase C, alpha"
+4Y72,Cyclin-Dependent Kinase 1 (CDK1)
+1ZXA,cGMP-Dependent Protein Kinase
+3MJG,Platelet-derived growth factor receptor beta
+1EVT,Fibroblast growth factor receptor 1
+4DNL,Protein kinase C alpha type
+2E73,"Protein kinase C, gamma"
+1YRK,Protein kinase C delta type
+2FK9,"Protein kinase C, eta"
+1SSL,Hepatocyte growth factor receptor
+1NN6,Chymase
+1IS0,Tyrosine-protein kinase transforming protein Src
+1DXW,HCV NS3-NS4A Serine Proteinase
+1CKP,Cyclin-dependent kinase 2
+4Y72,Cyclin-dependent kinase 1
+1Y6A,Vascular endothelial growth factor receptor 2
+1N8Z,Receptor tyrosine-protein kinase erbB-2
+1FLT,Vascular endothelial growth factor receptor 1
+1MT7,HIV-1 Protease Mutant (I50V)
+3OQ7,"HIV-1 Protease Mutant (L10I,L19Q,K20R,E35D,M36I, ..)"
+1F8B,Neuraminidase A
+1INF,Neuraminidase B
+2EC8,Mast/stem cell growth factor receptor Kit
+2AEP,Neuraminidase A
+4CPL,Neuraminidase B
+2RFT,Neuraminidase B
+1M61,Tyrosine-protein kinase ZAP-70
+1XBA,Tyrosine-protein kinase SYK
+1CJ1,Grb2-SH2
+2BAT,Neuraminidase A
+3SDY,Neuraminidase A
+1GOS,Amine oxidase [flavin-containing] B
+4CPO,Neuraminidase B
+1CKP,Cyclin-Dependent Kinase 2 (CDK2)
+3G33,Cyclin-Dependent Kinase 4 (CDK4)
+1CKP,CDK2/CycE
+1FVR,Angiopoietin-1 receptor
+1JU5,Tyrosine-protein kinase ABL1
+1DJS,Fibroblast growth factor receptor 2
+1CWD,Tyrosine-protein kinase Lck
+1HKX,CaM Kinase II
+2W9Z,Cyclin-Dependent Kinase 4 (CDK4)
+1CKI,Casein kinase I delta
+1ERK,ERK-2
+1FKN,Beta-secretase 1
+1MS6,Cathepsin S
+2BVA,Serine/threonine-protein kinase PAK 4
+2L27,Corticotropin releasing factor receptor 1
+4AU8,Cyclin-Dependent Kinase 5 (CDK5)
+1Q3D,"Glycogen Synthase Kinase-3, beta"
+1Q5H,Deoxyuridine 5&#39;-triphosphate nucleotidohydrolase (dUTPase)
+4NM0,"Glycogen Synthase Kinase-3, beta"
+1G3N,Cyclin-Dependent Kinase 6 (CDK6)
+1H4L,Cyclin-Dependent Kinase 5 (CDK5)
+1IGR,Insulin-like growth factor I receptor
+2DN8,Acetyl-CoA carboxylase 2 (ACC2)
+5LUQ,DNA-dependent protein kinase
+3G33,Cyclin-dependent kinase 4
+1ERE,Estrogen receptor
+2AFM,Glutaminyl Cyclase
+1T4E,E3 ubiquitin-protein ligase Mdm2
+3SI1,Glutaminyl Cyclase
+1LF3,Plasmepsin 2
+3QRV,Plasmepsin I
+1LYA,Cathepsin D
+1KXU,Cyclin-Dependent Kinase 7 (CDK7)
+3MI9,Cyclin-Dependent Kinase 9 (CDK9)
+1JWH,Casein kinase II alpha
+1GNG,Glycogen synthase kinase-3 beta
+1FGC,HIV-1 Protease
+1F7A,HIV-1 Protease Mutant (I50V)
+1F7A,HIV-1 Protease Mutant (V82A)
+1F7A,HIV-1 Protease Mutant (I84V)
+1DW6,HIV-1 Protease Mutant (L90M)
+2UVL,Baculoviral IAP repeat-containing protein 3 (IAP1 BIR3)
+2L0R,Anthrax Lethal Factor (LF)
+3EQM,Aromatase (CYP19)
+1EZQ,Coagulation factor X
+3GNS,Enoyl-ACP Reductase (FabI)
+1D8A,Enoyl-ACP Reductase (FabI)
+2Z6I,Enoyl-ACP Reductase (FabK)
+3RUK,Cytochrome P450 17A1
+1MAA,Cholinesterases
+1P0I,Butyrylcholinesterase (BChE)
+6O4W,Acetylcholinesterase
+1KU6,Acetylcholinesterase
+1P0I,Cholinesterases
+2AZ8,HIV-1 Protease
+1K6C,HIV-1 Protease Mutant K-60C
+2AZC,HIV-1 Protease Mutant Q-60C
+1J06,Acetylcholinesterase
+1CWX,HCV NS3-NS4A Serine Proteinase
+3DY8,Phosphodiesterase 9 (PDE9)
+4ZJ8,Orexin receptor type 1
+1DLO,HIV-1 Reverse Transcriptase Mutant (K103N/Y181C)
+4RHW,Caspase-9
+1CFJ,Acetylcholinesterase
+1D3G,Dihydroorotate dehydrogenase
+1H10,RAC-alpha serine/threonine-protein kinase AKT1
+1Z1L,"cGMP-dependent 3',5'-cyclic phosphodiesterase"
+1RY7,Fibroblast growth factor receptor 3 
+5FQD,Casein Kinase I
+1W9P,Endochitinase B1
+2QYK,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A"
+1HKK,Chitinase
+1WNO,Chitinase Mutant (A217G)
+1WNO,Chitinase Mutant (D175A)
+1WNO,Chitinase Mutant (D246A)
+1WNO,Chitinase Mutant (E322A)
+1WNO,Chitinase Mutant (M243A)
+1WNO,Chitinase Mutant (E177A)
+1WNO,Chitinase Mutant (R301K)
+1WNO,Chitinase Mutant (T138A)
+1WNO,Chitinase Mutant (Y245F)
+3WD0,Chitinase B
+1CZM,Carbonic anhydrase 1
+1CAH,Carbonic anhydrase 2
+1TVO,Mitogen-activated protein kinase 1
+2VX3,Dual-specificity tyrosine-phosphorylation regulated kinase 1A
+2Z5Y,Monoamine Oxidase Type A (MAO-A)
+2C72,Monoamine Oxidase Type B (MAO-B)
+1J2E,Dipeptidyl peptidase 4
+3JYH,Dipeptidyl peptidase 2 (DPP II)
+6EOO,Dipeptidyl peptidase VIII
+6EOQ,Dipeptidyl peptidase 9
+2BK4,Monoamine oxidase type B (MAO-B) Mutant (I199F)
+1Q2W,3C-like proteinase (3CL-PRO)
+1DAW,Casein Kinase II
+1ZNC,Carbonic anhydrase 4
+1CGF,Matrix metalloproteinase-1 (MMP1)
+1CXW,Collagenase
+1I73,Matrix Metalloproteinase-8 (MMP-8)
+1L6J,Collagenase
+1NQD,Collagenase (ChC)
+1EUB,Collagenase
+1J2E,Dipeptidyl peptidase IV
+1U8E,Dipeptidyl peptidase IV
+1CAQ,Stromelysin-1
+1G3Z,Carbonic Anhydrase II Mutant (F131V)
+1E9H,Cyclin-Dependent Kinase 2 (CDK2) Mutant (K89T)
+1E9H,Cyclin-Dependent Kinase 2 (CDK2) Mutant (L83V/H84D)
+1E9H,Cyclin-Dependent Kinase 2 (CDK2) Mutant (F82H)
+1E9H,Cyclin-Dependent Kinase 2 (CDK2) Mutant (F82H/L83V/H84D)
+1E9H,Cyclin-Dependent Kinase 2 (CDK2) Mutant (F82H/L83V/H84D/K89T)
+1MQ4,Aurora kinase A
+1IA8,Serine/threonine-protein kinase Chk1
+1Z68,Fibroblast Activation Protein (FAP)
+6DZV,Sodium-dependent serotonin transporter
+2PG5,Cytochrome P450 2A6
+1D3D,Thrombin and coagulation factor X
+1CE5,Trypsin
+6O1G,Plasma kallikrein
+1CFH,Coagulation factor IX
+1CVW,Coagulation factor VII
+2F3K,HIV-1 Protease
+1D4S,"HIV-1 Protease Mutant M1 (L10I, G48V, I54V, L63P, V82A)"
+1DAZ,"HIV-1 Protease Mutant M2 (D30N, L63P, N88D)"
+1D4H,"HIV-1 Protease Mutant M3 (L10I, L63P, A71V, G73S, I84V, L90M)"
+1XQZ,Serine/threonine-protein kinase pim-1
+1XX9,Coagulation factor XI
+1HNN,Phenylethanolamine N-methyltransferase
+3MDZ,Carbonic anhydrase 7
+1JCZ,Carbonic anhydrase 12
+4LU3,Carbonic Anhydrase XIV
+1F9X,XIAP-BIR3
+1FBZ,Lck
+1D8D,Protein farnesyltransferase
+1DI9,Mitogen-activated protein kinase 14
+1JCQ,Protein farnesyl/geranylgeranyl transferase
+1G7G,Protein-Tyrosine Phosphatase 1B (PTP1B)
+2E2B,ABL
+2HYY,ABL Mutant (Q252H)
+2HYY,ABL Mutant (Y253F)
+2HYY,ABL Mutant (E255K)
+2HYY,ABL Mutant (M351T)
+2HYY,ABL Mutant (F359V)
+2G2F,ABL Mutant (H396P)
+2HYY,ABL Mutant (T315I)
+2HYY,ABL Mutant (T315N)
+2EC8,Tyrosine Kinase c-Kit Mutant (N822K)
+2EC8,Tyrosine Kinase c-Kit Mutant (V559D)
+2EC8,Tyrosine Kinase c-Kit Mutant (V559D/T670I)
+1L8K,Tyrosine-protein phosphatase non-receptor type 2
+1LQF,Protein-Tyrosine Phosphatase 1B (PTP1B)
+2FJM,Protein-Tyrosine Phosphatase 1B (PTP1B) Mutant (L119V)
+1L8K,T-Cell Protein-Tyrosine Phosphatase (TCPTP) Mutant (V121L)
+1LQF,Protein-Tyrosine Phosphatase 1B (PTP1B) Mutant (V113I)
+1LQF,Protein-Tyrosine Phosphatase 1B (PTP1B) Mutant (M114V)
+5KA0,Protein-Tyrosine Phosphatase 1B (PTP1B) Mutant (V113L/M114V)
+1LQF,Protein-Tyrosine Phosphatase 1B (PTP1B) Mutant (G117E)
+1D4S,HIV-1 Protease Mutant V6
+7UPJ,HIV-1 Protease Mutant V6(46)
+1D4H,HIV-1 Protease Mutant V6(54)
+1D4H,HIV-1 Protease Mutant V6(84)
+1D4S,HIV-1 Protease Mutant V6(54/84)
+1LZQ,HIV-1 Protease Mutant V6(46/54/84)
+1D4H,HIV-1 Protease B Subtype
+1D4K,HIV-1 Protease B Subtype Mutant (V82F)
+1CPI,HIV-1 Protease AE
+1DMP,HIV-1 Protease AE Mutant (V82F)
+2FXE,HIV-1 Protease AE-P
+1EBY,HIV-1 Protease AE-P Mutant (F82V)
+1F7A,HIV-1 Protease Mutant (L24I)
+1F7A,HIV-1 Protease Mutant (G73S)
+1EJN,Urokinase-type plasminogen activator
+1JCQ,Protein Farnesyltransferase (PFT)
+1JCQ,Geranylgeranyl Transferase (GGTase-I)
+4AE6,cAMP-Dependent Protein Kinase (PKA) Mutant (L49I)
+3AMA,cAMP-Dependent Protein Kinase (PKA) Mutant (V123M)
+4AE6,cAMP-Dependent Protein Kinase (PKA) Mutant (T183A)
+4AE6,cAMP-Dependent Protein Kinase (PKA) Mutant (E127D)
+1XH9,cAMP-Dependent Protein Kinase (PKA) Mutant (L49I/T183A)
+2UZT,cAMP-Dependent Protein Kinase (PKA) Mutant (Q181K/T183A)
+2UZT,cAMP-Dependent Protein Kinase (PKA) Mutant (V123M/T183A)
+1CDK,cAMP-Dependent Protein Kinase (PKA) Mutant (L49I/Q181K/T183A)
+1CDK,cAMP-Dependent Protein Kinase (PKA) Mutant (V123M/Q181K/T183A)
+1CTP,cAMP-Dependent Protein Kinase (PKA) Mutant (L49I/V123M/Q181K/T183A)
+1XH9,cAMP-Dependent Protein Kinase (PKA) Mutant (L49I/V123M/E127D/Q181K/T183A)
+1UIX,Rho-kinase (ROCK II)
+1S1C,Rho-associated protein kinase 1
+1FMO,cAMP-Dependent Protein Kinase (PKA)
+1CEA,Plasminogen
+1PK2,Tissue-type plasminogen activator
+2ZEB,Tryptase
+4UY9,Mixed Lineage Kinase 1 (MLK1)
+5K26,Mixed Lineage Kinase 3 (MLK3)
+2RF0,Mixed Lineage Kinase 2 (MLK2)
+2W1C,Serine/threonine-protein kinase Aurora-A
+1TRN,Trypsin-1
+1TB5,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B"
+2PW3,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C"
+1OYN,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D"
+1UDT,"cGMP-specific 3',5'-cyclic phosphodiesterase"
+1FQJ,Phosphodiesterase Type 6 (PDE6)
+1FV9,Urokinase (uPA) Mutant (S190A)
+1O5E,Hepsin
+1HCS,Proto-oncogene tyrosine-protein kinase Src (aa 145-252)
+1TV5,"Dihydroorotate dehydrogenase (quinone), mitochondrial"
+3F6U,Vitamin K-dependent protein C
+5ZTY,Cannabinoid receptor 2
+2O8H,Phosphodiesterase Type 10 (PDE10A)
+1SO2,"cGMP-inhibited 3',5'-cyclic phosphodiesterase B"
+3VG9,Adenosine A2 receptor
+1TAZ,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B"
+1Z1L,Phosphodiesterase Type 2 (PDE2A)
+1SO2,Phosphodiesterase Type 3 (PDE3B)
+1TB5,Phosphodiesterase Type 4 (PDE4B)
+1TB7,Phosphodiesterase Type 4 (PDE4D)
+1T9R,Phosphodiesterase Type 5 (PDE5A)
+3ECM,Phosphodiesterase 8
+2HD1,Phosphodiesterase Type 9 (PDE9A)
+1FMO,cAMP-dependent protein kinase (PKA)
+1LEW,MAP kinase p38
+1QPC,Lck
+3CQU,Protein kinase B (Akt 1)
+1GZK,Serine/threonine-protein kinase AKT2
+2X18,Serine/threonine-protein kinase AKT
+1PBW,p110&alpha;/p85&alpha;
+1E7V,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"
+1XOZ,Phosphodiesterase Type 5 (PDE5A) Mutant (663-678 deletion)
+1UDT,Phosphodiesterase Type 5 (PDE5A) Mutant (661-681 deletion)
+1TV5,Dihydroorotate Dehydrogenase (DHODH)
+1D3G,Dihydroorotate Dehydrogenase (DHODH)
+1UYM,HSP90 and hnRNPA2/B1
+1HK7,Heat Shock Protein 90 (Hsp90)
+1JNK,Mitogen-activated protein kinase 10
+1ENY,Enoyl-ACP Reductase (InhA)
+2B1P,"c-Jun N-terminal kinase, JNK"
+1PMN,Mitogen-activated protein kinase 9
+1FKN,beta-Secretase (BACE-1)
+1EET,HIV-1 Reverse Transcriptase Mutant (L100I/K103N)
+1EF3,Aldose reductase (AR)
+2EWY,Beta-secretase 2
+1UUM,Dihydroorotate Dehydrogenase (DHODH)
+4H4F,Chymotrypsin
+1EF3,Aldose Reductase (ALR2) Mutant (C298A/W219Y)
+1PWL,Aldose Reductase (ALR2) Mutant (C298A)
+2ALR,Aldehyde reductase
+1CSB,Cathepsin B
+3GC8,MAP Kinase p38 beta
+1H1W,3-phosphoinositide dependent protein kinase-1
+1KEQ,Carbonic Anhydrase VA
+3OMV,RAF-1
+2FB8,B-Raf Protein Kinase
+1UWJ,B-Raf Protein Kinase Mutant (V599E)
+1PSN,Pepsin
+1H1W,3-phosphoinositide-dependent protein kinase 1 (51-359)
+3NAX,3-Phosphoinositide-Dependent Protein Kinase 1 (PDK1) Mutant (V143T/T222A)
+2Y5F,Coagulation factor X
+1MRQ,"17-beta-Hydroxysteroid Dehydrogenase 5 (17-beta-HSD5, AKR1C3)"
+6CGC,17-beta-Hydroxysteroid Dehydrogenase 1 (17-beta-HSD1)
+1TW6,ML-IAP-BIR
+3UW4,cIAP1-BIR3
+3UW4,cIAP2-BIR3
+5CLS,Methionine aminopeptidase 2
+2B3H,Methionine Aminopeptidase Type 1 (MetAP1)
+1Z8L,Glutamate Carboxypeptidase II (GCPII)
+3LCO,Macrophage colony-stimulating factor 1 receptor
+3EQP,Tyrosine kinase non-receptor protein 2
+1K2P,Tyrosine-protein kinase BTK
+2I1M,cFMS -Tie-2 Chimera
+1HRN,Renin
+1MAT,Methionine Aminopeptidase (MAP)
+1QXW,Methionine Aminopeptidase
+1F34,Pepsin A
+1DHF,Dihydrofolate reductase
+1DDR,Dihydrofolate Reductase (DHFR)
+2KGK,Dihydrofolate Reductase (DHFR)
+2W3V,Dihydrofolate reductase
+2W9G,Dihydrofolate Reductase (DHFR)
+1CD2,Dihydrofolate Reductase (DHFR)
+3F0U,Dihydrofolate Reductase (DHFR) Mutant (F98Y)
+1EUQ,tRNA synthetase (GlnRS)
+1EQR,tRNA synthetase (AspRS)
+1JII,tRNA synthetase (TyrRS)
+1E3G,Androgen Receptor
+1E3K,Progesterone receptor
+1GDC,Glucocorticoid receptor
+4ECK,Dihydrofolate reductase (DHFR)
+2WKL,Glucosylceramidase
+1QZF,Dihydrofolate Reductase (DHFR)
+1GLU,Mineralocorticoid receptor
+1E3G,Androgen receptor
+2C7A,Progesterone Receptor (PR)
+2AAZ,Thymidylate Synthase (TS)
+1DDU,Thymidylate Synthase (TS)
+1LCA,Thymidylate Synthase (TS)
+1CI7,Thymidylate Synthase (TS)
+1HVY,Thymidylate synthase
+2BLA,Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant SP21
+1J3I,Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS)
+1J3I,Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant KICB1
+1J3I,Dihydrofolate Reductase-Thymidylate Synthase (DHFR-TS) Mutant V1/S
+1NAV,Thyroid Hormone Receptor (TR-alpha)
+1N46,Thyroid Hormone Receptor (TR-beta)
+1NAV,Thyroid hormone receptor
+3UVV,Thyroid Hormone Receptor (TR-alpha)
+3M9E,thyroid beta
+3VI3,Integrin alpha2beta1
+3VI3,Integrin alpha5beta1
+3MAX,Histone deacetylase 1
+2VQJ,Histone deacetylase 4
+1GLU,mineralocorticoid
+1GDC,Glucocorticoid
+1NF7,Inosine Monophosphate Dehydrogenase Type 2 (IMPDH2)
+4LXZ,Histone deacetylase 2
+4A69,Histone deacetylase 3
+1T64,Histone deacetylase 8
+1NDE,Estradiol receptor beta (ER&#946;)
+1ICF,Cathepsin L1
+1MEM,Cathepsin K
+1CSB,Cathepsin (B and K)
+5J94,Cathepsin K
+1U9V,Cathepsin K
+3IPQ,Liver X Receptor alpha (LXR-alpha)
+1PQ6,Liver X Receptor beta (LXR-beta)
+2WK5,Thymidine Phosphorylase (TP)
+1KHP,Papain
+3IPQ,Liver X receptor (LXR alpha AND LXR beta)
+1PQ6,Liver X receptor (LXR alpha AND LXR beta)
+3CWG,Transcription Factor STAT3
+1YVL,Transcription Factor STAT1
+3CWG,Transcription Factor STAT1:STAT3 Dimer
+2NYJ,Vanilloid receptor
+1SGU,HIV-1 Protease Mutant (V82A)
+1OSF,Heat shock protein HSP 90-alpha
+4RWA,Delta-type opioid receptor
+4DKL,Nociceptin/mu opioid receptor
+2KS9,Substance-P receptor
+1E7V,"Phosphoinositide 3-Kinase (PI3K), gamma"
+3O5Z,"Phosphoinositide 3-Kinase (PI3K), delta"
+1FAP,Peptidyl-prolyl cis-trans isomerase FKBP1B/Serine/threonine-protein kinase mTOR
+5UEN,Adenosine receptor A1
+3EML,Adenosine receptor A2a
+3VG9,Adenosine Receptors A2a (A2a)
+1UJL,Potassium voltage-gated channel subfamily H member 2
+5TGZ,Cannabinoid receptor 1
+2F84,Orotidine Monophosphate Decarboxylase (ODCase)
+2FFC,Orotidine Monophosphate Decarboxylase (ODCase)
+2HI4,Cytochrome P450 1A
+6CSB,Cytochrome P450 2D6 (2D6)
+1PQ0,Bcl-2-like protein 1
+2XA0,Apoptosis regulator Bcl-2
+1R42,Angiotensin-converting enzyme
+1O86,Angiotensin-converting enzyme
+1HDQ,Carboxypeptidase A1
+1IAS,TGF-beta receptor type I
+1GZW,Galectin-1
+1KJL,Galectin-3
+2GAL,Galectin-7
+2YRO,Galectin-8
+2EAK,Galectin-9
+2VCQ,Prostaglandin D Synthase
+1ILG,Pregnane X receptor (PXR)
+1DEF,Peptide Deformylase
+1LM4,Peptide deformylase
+1LM6,Peptide Deformylase
+2HNH,DNA polymerase IIIE
+4DDQ,DNA Gyrase
+1EAW,Matriptase
+1D3D,Thrombin
+4DJH,Opioid receptors; mu/kappa/delta
+4DKL,Cannabinoid receptor 1/Mu-type opioid receptor
+1OF1,Thymidine kinase
+4Y83,Mitogen-activated protein kinase kinase kinase 8
+1F20,"Nitric-oxide synthase, brain"
+1M9J,"Nitric Oxide Synthase, endothelial"
+1DD7,"Nitric Oxide Synthase, inducible"
+2D0T,"Indoleamine 2,3-dioxygenase 1"
+1F20,"Nitric Oxide Synthase, brain Mutant (D597N)"
+1RS8,"Nitric Oxide Synthase, endothelial Mutant (N368D)"
+3MOR,Cathepsin B-Like Cysteine Protease (TbcatB)
+2QPL,Purine Nucleoside Phosphorylase (PNP)
+1SQ6,Purine Nucleoside Phosphorylase (PNP)
+1CB0,Methylthioadenosine Phosphorylase (MTAP)
+1JYS,Methylthioadenosine Nucleosidase(MTAN)
+1ZOS,Methylthioadenosine Nucleosidase(MTAN)
+6DZV,Monoamine transporters; Norepinephrine & serotonin
+2P0M,Arachidonate 15-lipoxygenase
+1F8N,Lipoxygenase-1
+1U67,Prostaglandin G/H synthase (cyclooxygenase)
+4PH9,Cyclooxygenase
+1XB7,"Estrogen-Related Receptor, alpha"
+1KV6,"Estrogen-Related Receptor, gamma"
+3GV4,Histone deacetylase 6
+1P4R,AICAR Tfase
+1P4R,IMP Cyclohydrolase (IMPCH)
+1CDD,GAR Tfase
+1MEJ,Glycinamide ribonucleotide formyltransferase (GARFTase)
+1DTQ,Gag-Pol polyprotein
+4XDE,Factor XIIa
+1K4Y,Carboxylesterase 1
+3IAR,Adenosine deaminase
+1CX2,Cyclooxygenase-2 (COX-2)
+1ZAU,DNA Ligase (MtuLigA)
+5WFY,Bacteriophage T4 DNA Ligase
+6P09,DNA Ligase I
+1MT5,Anandamide amidohydrolase
+6P09,Fatty Acid Amide Hydrolase
+1MT5,Fatty-acid amide hydrolase 1
+1YVB,Falcipain-2
+1DAO,D-Amino Acid Oxidase (DAAO)
+1E1Y,"Glycogen phosphorylase, muscle form"
+1T24,Lactate Dehydrogenase
+5NFR,Malate Dehydrogenase (pfMDH)
+1MLD,"Malate Dehydrogenase, mitochondrial"
+4MDH,Malate dehydrogenase cytoplasmic
+1I0Z,Lactate dehydrogenase B (LDHB)
+1E1H,Botulinum Neurotoxin Type A
+1FKK,Immunophilin FKBP12
+1D6O,Peptidyl-prolyl cis-trans isomerase FKBP1A
+1QMC,HIV-1 Integrase
+1JXJ,alpha-Amylase
+1UCH,Ubiquitin C-terminal Hydrolase L3 (UCH-L3)
+1XXE,UDP-3-O-Acyl-GlcNAc Deacetylase (LpxC)
+1ZXC,TNF-alpha-Converting Enzyme
+2M2F,ADAM17
+1MMP,Matrix metalloproteinase-7 (MMP7)
+2MQS,Matrix metalloproteinase-14 (MMP14)
+4WK7,A disintegrin and metalloproteinase with thrombospondin motifs 4 (ADAMTS-4)
+3IL5,beta-Ketoacyl-ACP Synthase III (FabH)
+3IL3,beta-Ketoacyl-ACP Synthase III (FabH)
+1H1B,Leukocyte elastase
+1DB4,"Phospholipase A2, membrane associated"
+1FX9,"Phospholipase A2, major isoenzyme"
+1II6,Kinesin Spindle Protein Eg5
+1KIG,Factor Xa (fXa)
+1LAM,Cytosol aminopeptidase
+1CP6,Bacterial leucyl aminopeptidase
+4NZ8,Aminopeptidase N
+1HS6,Leukotriene A4 hydrolase
+2RJQ,ADAMTS-5 (Aggrecanase-2)
+1JIZ,Matrix metalloproteinase-12 (MMP12)
+2RJQ,A disintegrin and metalloproteinase with thrombospondin motifs 5 (ADAMTS-5)
+1SRZ,gamma-Aminobutyric Acid Type B Receptor
+1EM6,Glycogen Phosphorylase (PYGL)
+3VW8,Tyrosine Kinase c-Met
+3DKG,Tyrosine Kinase c-Met Mutant (V1092I)
+3DKG,Tyrosine Kinase c-Met Mutant (D1228H)
+3DKG,Tyrosine Kinase c-Met Mutant (M1250T)
+3DKG,Tyrosine Kinase c-Met Mutant (H1094R)
+5HOA,Tyrosine Kinase c-Met Mutant (Y1230H)
+3B7O,Tyrosine-protein phosphatase non-receptor type 11
+3B7O,Protein-Tyrosine Phosphatase SHP-2
+1GWZ,Protein-Tyrosine Phosphatase SHP-1
+1G7G,Protein-tyrosine phosphatase 1B
+2PX6,Fatty Acid Synthase
+1X75,DNA Gyrase
+1ZVT,DNA Topoisomerase IV
+3C0Y,Histone deacetylase 7
+1WWB,BDNF/NT-3 growth factors receptor
+1WWA,High affinity nerve growth factor receptor
+5FM2,Proto-oncogene tyrosine-protein kinase receptor Ret  
+1Q4K,Serine/threonine-protein kinase PLK1
+4XB0,Serine/threonine-protein kinase PLK2
+4B6L,Polo-Like Kinase 3
+2RKU,Polo-Like Kinase 1
+1RJA,Tyrosine-protein kinase BRK
+2EKX,Cytoplasmic tyrosine-protein kinase BMX
+1FYN,Tyrosine-protein kinase Fyn
+3KN5,Ribosomal protein S6 kinase alpha 5
+2V55,Rho-associated protein kinase 1 (ROCK I)
+2Z7Q,Ribosomal protein S6 kinase alpha 1
+4EL9,Ribosomal protein S6 kinase alpha-3
+6G76,Ribosomal protein S6 kinase alpha 6
+3WWS,Serine/threonine-protein kinase MST2
+1ZMV,MAP-Microtubule Affinity-Regulating Kinase 3 (MARK3)
+5FQD,Casein kinase I isoform alpha
+1PBW,"Phosphoinositide 3-Kinase (PI3K), alpha Mutant (H1047R)"
+1PBW,"Phosphoinositide 3-Kinase (PI3K), alpha Mutant (E545K)"
+1PBW,p110&beta;/p85&alpha;
+1PBW,"Phosphoinositide 3-Kinase (PI3K), delta"
+3IHY,Phosphatidylinositol 3-kinase catalytic subunit type 3
+2ENQ,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"
+2N19,Polo-Like Kinase 4
+2VQJ,Histone Deacetylase 4 (HDAC4) Mutant (H976Y)
+2BBA,Ephrin type-B receptor 4
+2Q80,Geranylgeranyl Diphosphate Synthase (GGPPS)
+1NH7,ATP Phosphoribosyltransferase
+2FB8,Serine/threonine-protein kinase B-raf
+2R4R,Beta-2 adrenergic receptor and beta-3 adrenergic receptor
+1NHG,Enoyl-ACP Reductase (PfENR)
+2F2U,Rho-kinase (ROCK II)
+1XJD,Protein kinase C theta type
+1UWJ,B-RAF V600E
+1JEG,Tyrosine-protein kinase CSK
+4OBO,Mitogen-activated protein kinase kinase kinase kinase 4
+1E9X,Cytochrome P450 51(CYP51)
+6D6T,"GABAA Receptor, alpha-1, beta-3, gamma-2"
+6D6T,"GABAA Receptor, alpha-2, beta-3, gamma-2"
+6D6T,"GABAA Receptor, alpha-3, beta-3, gamma-2"
+6D6T,"GABAA Receptor, alpha-4, beta-3, gamma-2"
+6D6T,"GABAA Receptor, alpha-5, beta-3, gamma-2"
+6D6T,"GABAA Receptor, alpha-6, beta-3, gamma-2"
+1JNK,Mitogen-Activated Protein Kinase 10 (JNK3)
+1FAQ,RAF proto-oncogene serine/threonine-protein kinase
+1YWF,Protein Tyrosine Phosphatase PTPB
+1U2P,Probable low molecular weight protein-tyrosine-phosphatase
+1VHR,Dual specificity protein phosphatase (VHR)
+5FN7,Leukocyte common antigen
+1LAR,Receptor-type tyrosine-protein phosphatase F (LAR)
+2EB2,EGF-R Tyrosine Kinase Mutant (G719S)
+2EB3,EGF-R Tyrosine Kinase Mutant (L858R)
+2JIT,EGF-R Tyrosine Kinase Mutant (T790M)
+2RGP,EGF-R Tyrosine Kinase Mutant (L858R/T790M)
+2W2I,Histone Lysine Demethylase
+3JW8,Monoglyceride lipase
+1QBH,cIAP-1 BIR3
+6D6T,"GABAA Receptor, alpha-1, beta-2, gamma-2"
+6D6T,"GABAA Receptor, alpha-2, beta-2, gamma-2"
+6D6T,"GABAA Receptor, alpha-3, beta-2, gamma-2"
+6D6T,"GABAA Receptor, alpha-5, beta-2, gamma-2"
+6D6T,"GABAA Receptor, alpha-4, beta-2, gamma-2"
+6D6T,"GABAA Receptor, alpha-6, beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (F99C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (G157C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (A160C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (T162C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (G200C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (V202C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (S204C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (S205C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (T206C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1 (V211C), beta-2, gamma-2"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (D56C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (A79C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (T81C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (T126C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (M130C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (R132C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (L140C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (T142C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (R144C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (Chimera)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (R185C)"
+6D6T,"GABAA Receptor Mutant, alpha-1, beta-2, gamma-2 (R194C)"
+1MRQ,Aldo-keto reductase family 1 member C1
+1RY0,20-alpha-Hydroxysteroid Dehydrogenase (AKR1C1) Mutant (L54V)
+4DZ5,20-alpha-Hydroxysteroid Dehydrogenase (AKR1C1) Mutant (H222S)
+4DZ5,20-alpha-Hydroxysteroid Dehydrogenase (AKR1C1) Mutant (L306A)
+4DZ5,20-alpha-Hydroxysteroid Dehydrogenase (AKR1C1) Mutant (L308A)
+1IHI,Aldo-keto reductase family 1 member C2
+2W1C,Aurora Kinase A (Aurora-A)
+1E0D,MurD
+1E9N,Apurinic-apyrimidinic endonuclease 1 (APE-1)
+2IWI,Serine/threonine-protein kinase pim-2
+2WAP,Anandamide amidohydrolase
+1USN,Matrix Metalloproteinase-10 (MMP-10)
+1LUI,Tyrosine-protein kinase ITK/TSK
+4DJH,Kappa-type opioid receptor
+1UK0,Poly [ADP-ribose] polymerase 1
+2F2U,Rho-associated protein kinase 2
+1GS0,poly-ADP-ribose polymerase 2 (PARP2)
+3UDD,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD5 or PARP5a)
+1DTQ,HIV-1 Reverse Transcriptase
+1DLO,HIV-1 Reverse Transcriptase Mutant (Y181I)
+1DLO,HIV-1 Reverse Transcriptase Mutant (V106A)
+1DLO,HIV-1 Reverse Transcriptase Mutant (V179D)
+1DLO,HIV-1 Reverse Transcriptase Mutant (Y188L)
+1EET,HIV-1 Reverse Transcriptase Mutant (103N/181C)
+2OQB,Histone-Arginine Methyltransferase CARM1
+3QS7,Tyrosine-protein kinase receptor FLT3
+2C5D,Tyrosine-protein kinase receptor UFO
+4AOJ,Tyrosine Kinase TrkA
+1OXN,ML-IAP-BIR
+2EAW,Orotate phosphoribosyltransferase (HsOPRT)
+1Z9I,EGF-R Tyrosine Kinase Mutant (L858R)
+2R4B,Receptor tyrosine-protein kinase erbB-4
+5FBH,Calcium-sensing receptor (CaSR)
+1S9J,Dual specificity mitogen-activated protein kinase kinase 1
+4B6L,Serine/threonine-protein kinase PLK3
+1NDA,Trypanothione reductase
+1I72,S-adenosylmethionine decarboxylase 1
+1GWX,Peroxisome proliferator-activated receptor delta
+1I7G,Peroxisome proliferator-activated receptor alpha (PPAR alpha)
+1FM6,Peroxisome proliferator-activated receptor
+4ZZH,NAD-Dependent Deacetylase Sirtuin-1
+1J8F,NAD-dependent deacetylase sirtuin 2
+4ERS,Glucagon receptor
+2QKH,Gastric Inhibitory Polypeptide Receptor (GIPR)
+5LBT,Ribosyldihydronicotinamide dehydrogenase [quinone]
+1F20,"Nitric Oxide Synthase, brain Mutant (D597N/M336V)"
+1YLK,Carbonic Anhydrase (mtCA 1)
+1CU1,HCV NS3 Helicase
+2WUZ,Sterol 14-alpha demethylase (CYP51)
+1CO1,Runt-Related Transcription Factor 1 Isoform AML1C
+1KWP,MAP kinase-activated protein kinase 2
+3FHR,MAP kinase-activated protein kinase 3
+1KWP,MAPK-Activated Protein Kinase 2 (MK2)
+1OSH,Bile acid receptor
+1CWX,Non-structural protein 5B (NS5B)
+1JU5,ABL Mutant (T315I)
+2XB7,ALK tyrosine kinase receptor
+2DU8,D-amino-acid oxidase
+2HLQ,Bone Morphogenetic Protein Receptor type II (BMPR2)
+5IDN,Cyclin-dependent kinase 19
+2FE8,SARS Coronavirus Coronavirus Papain-Like Protease
+1DVE,Heme Oxygenase 1 (HO-1)
+2LMG,Heat Shock 70kDa Protein 1
+1UA2,CDK7/Cyclin H/MNAT1
+3RGF,Cyclin-dependent kinase 8
+3BLH,Cyclin-dependent kinase 9
+1Z57,CLK1
+6FYV,Dual specificity protein kinase CLK4
+2C7V,Pteridine Reductase 1 (PTR1)
+2KBW,Induced myeloid leukemia cell differentiation protein Mcl-1
+2VM6,Bcl-2-related protein A1
+2OIQ,Src Mutant (T338M)
+1M14,EGF-R Tyrosine Kinase
+2HWO,Src Mutant (S345C)
+1YI6,Src Mutant (S345C/T338M)
+3FVS,Kynurenine Aminotransferase 1/Glutamine Transaminase K
+1EXA,"Retinoic Acid Receptor, gamma"
+1DKF,"Retinoic Acid Receptor, alpha"
+1XAP,"Retinoic Acid Receptor, beta"
+1GX1,"2C-methyl-D-erythritol-2,4-cyclodiphosphate synthase (IspF)"
+1ICF,Cathepsin L
+3ZOS,Epithelial discoidin domain-containing receptor 1
+1IVO,EGF-R Tyrosine Kinase Mutant (G719C)
+6IN0,Tyrosine Kinase EPHA3
+1HJO,Heat Shock 70kDa Protein 1
+1LS5,Plasmepsin IV
+1H1W,3-Phosphoinositide-Dependent Protein Kinase 1 (PDK1)
+4L7F,Mitogen-Activated Protein Kinase 10 (JNK3)
+3CH6,11-beta-Hydroxysteroid Dehydrogenase 1 (11-beta-HSD1)
+1XU7,11-beta-Hydroxysteroid Dehydrogenase 1 (11-beta-HSD1)
+2UVL,XIAP-BIR3
+1F9X,X-linked inhibitor of apoptosis protein (XIAP)
+5NJ3,ATP-binding cassette sub-family G member 2
+1DV1,Biotin Carboxylase
+2REI,Ephrin type-A receptor 7
+3P1I,Tyrosine Kinase EPHB3
+1GXC,Checkpoint Kinase (Chk2)
+2FP7,West Nile Virus (WNV) NS2B-NS3 Protease
+1CBW,Alpha-chymotrypsin
+1IJA,Sortase A (SrtA)
+1DK2,DNA Polymerase beta
+2FZJ,Dihydrofolate reductase
+1HRH,HIV-1 Reverse Transcriptase RNase H
+2QK9,Ribonuclease H1
+1RJB,FLT3(D835H)
+1RJB,FLT3(D835Y)
+1DLO,HIV-1 Reverse Transcriptase RNase H
+1DTQ,HIV-1 Reverse Transcriptase RNase H Mutant (Y181C)
+1DTQ,HIV-1 Reverse Transcriptase RNase H Mutant (Y188L)
+1EET,HIV-1 Reverse Transcriptase RNase H Mutant (V106A/Y181C)
+1EET,HIV-1 Reverse Transcriptase RNase H Mutant (L100I/K103N)
+1DTQ,HIV-1 Reverse Transcriptase RNase H Mutant (D67N/K70R/T215F/K219Q)
+1G15,Ribonuclease H
+2FK9,"Protein Kinase C, eta"
+1F8A,PPIase Pin1
+1PJK,Casein Kinase II
+2CN5,Checkpoint Kinase (Chk2)
+1E1Y,Glycogen Phosphorylase (PYGM)
+6GWU,beta-Carbonic Anhydrase
+2W3N,Carbonic Anhydrase 2 (Can2)
+1IWO,Sarco/endoplasmic Reticulum Ca2+ ATPase 1
+1RJB,Tyrosine Kinase FLT3 Mutant (N841I)
+2MWY,p53-Binding Protein HDMX
+1D4A,NAD(P)H dehydrogenase [quinone] 1
+1GX5,HCV NS5B Polymerase Mutant (P495A)
+1GX5,HCV NS5B Polymerase Mutant (R501E)
+1GX5,HCV NS5B Polymerase Mutant (M423K)
+1GX5,HCV NS5B Polymerase Mutant (M414T)
+1CWX,HCV NS5B Polymerase
+1DXW,Genome polyprotein
+2XWH,HCV NS5B Polymerase
+3O8B,HCV NS5B Polymerase
+3KQL,HCV NS5B Polymerase
+1YTV,Vasopressin V1a receptor
+1V9E,Carbonic anhydrase
+3U5Z,ATP-dependent clamp loaders gp44/62
+1JR3,DNA polymerase III subunit gamma
+3U5Z,ATP-dependent clamp loaders gp44/62 (R175K)
+3U5Z,ATP-dependent clamp loaders gp44/62 (R175L)
+1CTE,Cathepsin B
+4N6N,Legumain
+1II6,kinesin spindle protein
+4A1Z,kinesin spindle protein Mutant (D130V)
+6FYK,AMP-activated protein kinase (AMPK)
+2VJX,Beta-mannosidase
+1M8D,"Nitric oxide synthase, inducible"
+1M9J,"Nitric oxide synthase, endothelial"
+1QAU,"Nitric oxide synthase, brain"
+2ENQ,PI3K-alpha/ p110-beta
+2ENQ,PI3K-alpha/ p110-delta
+2ENQ,PI3K-alpha/ DNA-PK
+2ENQ,PI3K-alpha/ mTOR
+2ENQ,PI3K-alpha/ Abl
+2ENQ,PI3K-alpha/ Hck
+1FMK,PI3K-alpha/ Src
+2ENQ,PI3K-alpha/ Src Mutant (T338I)
+1Y6A,PI3K-alpha/ VEGFR2
+2ENQ,PI3K-alpha/ EGFR
+2ENQ,PI3K-alpha/ EphB4
+2ENQ,PI3K-alpha/ PDGFR
+5DXU,mTOR/ p110-delta
+1FAP,mTOR/ DNA-PK
+1FAP,mTOR/ Abl
+1FAP,mTOR/ Hck
+1FMK,mTOR/ Src
+1FAP,mTOR/ Src Mutant (T338I)
+1Y6A,mTOR/ VEGFR2
+1FAP,mTOR/ EGFR
+1FAP,mTOR/ EphB4
+1FAP,mTOR/ PDGFR
+5DXU,DNA-PK/ p110-delta
+5LUQ,DNA-PK/ Abl
+5LUQ,DNA-PK/ Hck
+1FMK,DNA-PK/ Src
+1FMK,DNA-PK/ Src Mutant (T338I)
+1Y6A,DNA-PK/ VEGFR2
+5LUQ,DNA-PK/ EGFR
+5LUQ,DNA-PK/ EphB4
+5LUQ,DNA-PK/ PDGFR
+5DXU,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform/gamma isoform"
+5DXU,p110-delta/ Abl
+5DXU,p110-delta/ Hck
+1FMK,p110-delta/ Src
+5DXU,p110-delta/ Src Mutant (T338I)
+1Y6A,p110-delta/ VEGFR2
+5DXU,p110-delta/ EGFR
+5DXU,p110-delta/ EphB4
+5DXU,p110-delta/ PDGFR
+1FCO,Beta-lactamase AmpC
+1EMH,Uracil-DNA glycosylase (UNG)
+2X9E,Dual specificity protein kinase TTK
+3EEI,Methylthioadenosine Nucleosidase (MTAN)
+4BMY,Methylthioadenosine Nucleosidase (MTAN)
+3BL6,Methylthioadenosine Nucleosidase (MTAN)
+1YQ7,Farnesyl diphosphate synthase
+1XMM,Scavenger mRNA-decapping enzyme (DcpS)
+1EFN,Tryrosine-Protein Kinase (HCK) + Protein Nef (NEF)
+2HK5,Tyrosine-protein kinase HCK
+5M7R,N-acetyl-beta-D-glucosaminidase (O-GlcNAcase)
+1NOU,Beta-hexosaminidase subunit beta (Hex B)
+2GU8,Cyclic AMP-dependent protein kinase (PKA)
+1FBY,Retinoic acid receptor RXR-alpha
+1FBY,Retinoid X receptor alpha (F313I/L436F)
+1FBY,Retinoid X receptor alpha (F313I/L436V)
+1ITQ,Dehydropeptidase-I (DHP-1)
+1EBY,HIV-1 protease
+1M9F,Gag polyprotein
+6NFY,MAP4K1
+2AC5,MAP kinase-interacting serine/threonine-protein kinase 2
+4LG4,Serine/threonine-protein kinase 4 (STK4)
+5FM2,RET Mutant (M918T)
+1KB2,Vitamin D3 receptor
+1KW2,Vitamin D-binding protein
+1EXA,Retinoic Acid Receptors Gamma / Alpha
+6KZC,NT-3 growth factor receptor
+4TYE,Fibroblast growth factor receptor 4
+1NYF,Tyrosine-protein kinase Fgr
+6N3L,GCN2(Kin.Dom.2 S808G)
+1W1F,Tyrosine-protein kinase Lyn
+4YFF,TNNI3K
+5X5O,ZAK
+1JU5,ABL1(Q252H)
+2ECD,Tyrosine-protein kinase ABL2
+4F2L,5'-AMP-activated protein kinase catalytic subunit alpha-1
+4FG7,CaM kinase I alpha
+2ZV2,CaM-kinase kinase beta
+6FYK,Dual specificity protein kinase CLK2
+1CKI,Casein kinase I isoform delta
+4HNI,Casein kinase I delta/epsilon
+2CHL,Casein kinase I
+4G16,Casein kinase I isoform gamma-3
+1YRP,Death-associated protein kinase 3
+5CEN,DLK
+1IVO,EGFR(L858R)
+1MQB,Ephrin type-A receptor 2
+3GXU,Ephrin receptor
+1UCV,EPHA8
+2EAO,EPHB1
+1NUK,Ephrin type-B receptor 2
+2KK6,Tyrosine-protein kinase FER
+1WQU,Tyrosine-protein kinase Fes/Fps
+4C57,Serine/threonine-protein kinase GAK
+1JNK,JNK3
+5B5W,Serine/threonine-protein kinase LATS1
+5TVT,Maternal embryonic leucine zipper kinase (MELK)
+6JLE,Myosin IIIA
+1Q24,cAMP-dependent protein kinase (PKA)
+1QU6,"Interferon-induced, double-stranded RNA-activated protein kinase"
+3CC6,PTK2B protein tyrosine kinase 2 beta (PTK2B)
+2N7Z,Serine/threonine-protein kinase RIPK2
+1KTZ,TGF-beta receptor type II
+2X7F,TRAF2 and NCK-interacting protein kinase (TNIK)
+3NZ0,Non-receptor tyrosine-protein kinase TYK2
+1YOJ,Tyrosine-protein kinase Yes
+2XIK,Serine/threonine-protein kinase 25
+3GC8,Mitogen-activated protein kinase 11
+1CM8,p38 delta/gamma
+1S9I,Dual specificity mitogen-activated protein kinase kinase 2
+2N19,PLK4
+3HIL,Ephrin type-A receptor 1 (EPHA1)
+3QFV,Serine/threonine-protein kinase MRCK beta
+1MG4,DCAMKL1
+5IP4,DCAMKL2
+4B99,Extracellular signal-regulated kinase 5 (ERK5)
+4ZJI,p21-Activated kinase 3 (PAK3)
+4WSQ,AP2-associated protein kinase 1
+2H6D,AMPK subunit alpha-2
+3E3B,Casein kinase II subunit alpha
+3LM0,Serine/threonine-protein kinase 17B (STK17B)
+3EYG,Tyrosine-protein kinase JAK1
+2HAK,Serine/threonine-protein kinase MARK1
+1ZMU,MAP/microtubule affinity-regulating kinase 2
+1ZMV,MARK3
+5ES1,MARK4
+4UY9,MLK1
+5K26,Mitogen-activated protein kinase kinase kinase 11
+3GGF,Serine/threonine-protein kinase MST4
+2CQV,"Myosin light chain kinase, smooth muscle"
+2W5A,Serine/threonine-protein kinase Nek2
+2WQM,Serine/threonine-protein kinase NEK7
+3WZZ,Phosphatidylinositol-5-phosphate 4-kinase type-2 beta
+1CXZ,PKN1
+4OTP,Serine/threonine-protein kinase RIO1
+3BEG,Serine/threonine-protein kinase SRPK1
+2X7G,SRPK2
+1RHF,Tyrosine-protein kinase receptor TYRO3
+1X8B,Serine/threonine-protein kinase WEE1
+4PED,"Chaperone activity of bc1 complex-like, mitochondrial"
+2LUL,Tyrosine-protein kinase TEC
+5E8U,Activin receptor type-1B
+3Q4T,Activin receptor type-2A
+1NYS,Activin receptor type-2B
+3MY0,Serine/threonine-protein kinase receptor R3
+1WT6,Myotonin-protein kinase
+3S95,LIM domain kinase 1
+3P1A,PKMYT1
+2JC6,CAMK1D
+2EU9,CDC2-like kinase 3 (CLK3)
+1F3M,PAK1
+1HKX,CAMK2A
+2RF0,Mitogen-activated protein kinase kinase kinase 10
+2JAM,CaM kinase I gamma
+3ALN,Dual specificity mitogen-activated protein kinase kinase 4
+3VN9,Dual specificity mitogen-activated protein kinase kinase 6
+2W2C,Calcium/calmodulin-dependent protein kinase type II subunit delta
+1WVW,DAPK1
+5BV6,cGMP-dependent protein kinase 2
+1ZXA,cGMP-dependent protein kinase
+5XQZ,Serine/threonine-protein kinase 38-like
+1ES7,Activin receptor-like kinase 3 (ALK-3)
+1GOL,Mitogen-activated protein kinase 3
+2CLQ,MAP3K5
+1CWR,Dual specificity phosphatase Cdc25B
+2OI2,mevalonate kinase
+1N83,Nuclear receptor ROR-alpha
+2FF0,Steroidogenic Factor 1
+2QCJ,Tyrosine-protein phosphatase non-receptor type 22
+2FP7,Genome polyprotein
+1OME,Beta-lactamase
+1XX2,Beta-lactamase
+1ERM,Beta-lactamase (TEM-1)
+2B05,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide"
+1DEV,mothers against decapentaplegic homolog 3
+1CIT,"nuclear receptor subfamily 4, group A, member 1"
+2GK1,Beta-hexosaminidase subunit alpha (HexA)
+2HV6,Protein phosphatase 2A regulatory subunit B'
+1NZI,Complement C1s
+3IYD,RNA polymerase beta subunit (EC 2.7.7.6)
+1CGH,Cathepsin G
+1S8O,Epoxide hydratase
+1U8F,Glyceraldehyde-3-phosphate dehydrogenase liver
+1LYV,YopH
+1H3N,Aminoacyl-tRNA synthetase
+1IYK,Myristoyl-CoA:protein N-myristoyltransferase (Nmt)
+3IU1,Myristoyl-CoA:protein N-myristoyltransferase (Nmt)
+6C26,Oligosaccharyl transferase (OT)
+1D0G,Tumor necrosis factor ligand superfamily member 10
+2HEL,Eph receptor A4
+1CKR,heat shock 70kDa protein 8 isoform 2
+3CF1,Valosin-containing protein
+2AMY,phosphomannomutase 2
+2Q6D,3C-like protease
+1UG3,"eukaryotic translation initiation factor 4 gamma, 1 isoform 4"
+1N0W,DNA repair protein RAD51 homolog 1
+1PM7,"dTDP-4-dehydrorhamnose 3,5-epimerase RmlC"
+1ERM,Beta lactamase
+1DD6,metallo-beta-lactamase IMP-1
+3IRT,Ubiquitin carboxyl-terminal hydrolase isozyme L1 (UCH-L1)
+1CKR,heat shock 70kDa protein 8 isoform 1
+4J3B,Zinc aminopeptidase
+1CEE,"cell division cycle 42 (GTP binding protein, 25kDa)"
+1KPS,ubiquitin-conjugating enzyme E2I
+1FOE,Ras-related C3 botulinum toxin substrate 1
+1VG1,GTP-binding protein (rab7)
+1Z0A,Ras-related protein Rab-2A.
+1U37,neuronal munc18-1 binding protein
+3PDY,plectin 1
+1DET,unnamed protein product
+2F55,NS3
+6PEV,M18 aspartyl aminopeptidase
+2PSX,Kallikrein 5
+2W96,G1/S-specific cyclin-D1
+1W98,G1/S-specific cyclin-E1
+1F0X,D-lactate dehydrogenase
+1DIH,Dihydrodipicolinate reductase (DHPR)
+1JVS,1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1H4L,Cyclin-dependent kinase 5 regulatory subunit 1
+2R7E,Coagulation Factor VIII
+1CDL,Calmodulin
+3LY6,Protein-glutamine gamma-glutamyltransferase 2 (TG2)
+1G3N,CDK6/G1/S-specific cyclin D3
+1W98,CDK3/E
+1G25,CDK-activating kinase assembly factor MAT1 (CDK7/H/MAT1)
+1GH6,large T antigen
+1Y8Q,SUMO1 activating enzyme subunit 1
+1CVJ,"poly(A) binding protein, cytoplasmic 1"
+2B1W,nucleotide-binding oligomerization domain containing 1
+2BT2,regulator of G-protein signalling 16
+2IHD,Regulator of G-protein signaling 8
+2AZ5,Tumor necrosis factor
+2C9N,BZLF1
+6NPP,EBNA-1 protein
+1FJM,"protein phosphatase 1, catalytic subunit, alpha isoform 3"
+1IKL,Interleukin-8
+1DPG,glucose-6-phosphate dehydrogenase
+2XKY,inward rectifier potassium channel 2
+2V1Z,beta-lactamase
+1XC5,nuclear receptor corepressor 2 isoform 2
+2LOT,Apelin receptor
+2MJH,defective in Germ Line Development family member (gld-1)
+1V0J,Uridine 5&#39;-diphosphate-galactopyranose mutase (UGM)
+1HN9,Beta-ketoacyl-ACP synthase III (FabH)
+1HZP,Beta-ketoacyl-ACP synthase III (FabH)
+6E8W,envelope glycoprotein
+3A1F,Cytochrome b-245 heavy chain
+1EEM,Glutathione transferase omega 1
+2NAQ,NLRP3 protein
+1PN5,"NACHT, LRR and PYD domains-containing protein 1 isoform 1"
+4QBQ,tyrosine-protein phosphatase non-receptor type 12 isoform 2
+1XT9,SUMO/sentrin specific peptidase family member 8
+1G18,DNA recombination protein RecA
+1W36,"exonuclease V (RecBCD complex), alpha chain"
+3APM,protein-arginine deiminase type-4
+5Z96,alternatively spliced Trp4
+3DXR,TPA: Essential protein of the mitochondrial intermembrane space
+1J7D,ubiquitin-conjugating enzyme E2 N
+1JM7,BRCA1-associated RING domain protein 1
+1DP0,Beta-galactosidase
+3E1U,DNA dC->dU-editing enzyme APOBEC-3G
+2M65,probable DNA dC->dU-editing enzyme APOBEC-3A
+2D3E,cardiac alpha tropomyosin
+2BH9,Glucose 6-phosphate dehydrogenase (G6PD)
+2WV2,Sterol 14-alpha demethylase (CYP51)
+3FFS,Inosine-5-monophosphate dehydrogenase (IMPDH)
+2R6R,FtsZ
+4DNL,TGM2/ cRaf Kinase
+3LY6,TGM2/ Janus Kinase 3
+3LY6,TGM2/ Tyrosine Phosphatase
+1IVO,TGM2/ EGFR
+3LY6,TGM2/ Cdc25
+3CSE,Dihydrofolate Reductase (DHFR)
+1K4K,Nicotinate-nucleotide adenylyltransferase (NadD)
+2QTR,Nicotinate-nucleotide adenylyltransferase (NadD)
+1JU5,Tyrosine-protein kinase ABL (E255V)
+1JU5,Tyrosine-protein kinase ABL (Y253H)
+1FMK,Tyrosine-protein kinase SRC (E280V)
+1FMK,Tyrosine-protein kinase SRC (F278H)
+6FYO,Dual specificty protein kinase CLK1
+2CLQ,Mitogen-activated protein kinase kinase kinase 5 (MAP3K5)
+2NRU,Interleukin-1 receptor-associated kinase 4
+1H2M,Hypoxia-inducible factor 1-alpha
+2E5B,Nicotinamide phosphoribosyltransferase
+1EEP,Inosine-5-monophosphate dehydrogenase (IMPDH)
+6DW0,Gamma-aminobutyric acid receptor subunit alpha-1 (GABA(A) alpha-1)
+1SRZ,Gamma-aminobutyric acid type B receptor subunit 1
+6OIK,Muscarinic acetylcholine receptor M2
+6HIN,Serotonin (5-HT) receptor
+2XTK,Chitinase (chiA1)
+1IWG,AcrAB-TolC
+3FXY,Acidic mammalian chitinase (AMCase)
+2IYC,Sentrin-specific protease 1 (SENP1)
+1TGZ,Sentrin-specific protease 2 (SENP2)
+3EAY,Sentrin-specific protease 7 (SENP7)
+1ZXM,Topoisomerase II alpha (HuTopoII&#945;)
+6P5S,Homeodomain-interacting protein kinase 2 (HIPK2)
+2BV6,HTH-type transcriptional regulator mgrA (MgrA)
+1FHI,Bis(5'adenosyl)-triphosphatase
+2HDP,HDM2-p53 protein
+1D4K,HIV-1 protease
+4J3D,UDP-3-O-acyl-GlcNAc deacetylase (LpxC)
+1HCS,Neuronal proto-oncogene tyrosine-protein kinase Src
+1FFX,Tubulin
+6KUW,adrenergic Alpha2
+2WXZ,Angiotensin
+3OXQ,Calcium channel
+1LB8,GRIA3
+1TXF,Glutamate kainate
+1PB7,Ionotropic glutamate receptor NMDA 1/2D
+1JDW,Glycine
+5OKN,Inositol Triphosphate
+1CJK,Adenylate cyclase
+6D6T,GABA A receptor alpha-1/beta-1/gamma-2
+6DG7,5-HT3A Serotonin Receptor
+2PE4,Hyaluronidase
+2C1C,Carboxypeptidase B
+5UEN,Adenosine receptor A1 (A1)
+5N2S,Adenosine A1 receptor
+2N72,Benzodiazepine central
+6OIK,"Cholinergic, muscarinic"
+4DKL,Mu opioid receptor
+3CZV,Carbonic anhydrase 13 (CA XIII)
+1DLR,Dihydrofolate reductase (DHFR)
+3IUC,Grp78
+1FBR,Fibronectin
+1YRL,Ketol-acid reductoisomerase
+1GN8,Phosphopantetheine adenylyltransferase (PPAT)
+3ND5,Phosphopantetheine adenylyltransferase (PPAT)
+3GXU,EPHA4
+1I8J,Porphobilinogen synthase
+1EWK,Metabotropic glutamate receptor
+4PIR,5-hydroxytryptamine receptor 3A
+2R4S,ADRB2
+4DEX,Voltage-dependent N-type calcium channel subunit alpha-1B
+6COY,"Chloride channel, TBOB"
+4MQE,Gamma-aminobutyric acid type B receptor subunit 1
+1FTJ,GRIA3
+1S50,"Glutamate receptor ionotropic, kainate 2"
+2ODT,Inositol Triphosphate
+1SG1,Beta-nerve growth factor
+1KKE,Sigma-1
+6J20,Neurokinin 1 receptor
+1EJ6,Inner capsid protein sigma-2
+1W2C,"Inositol 1,4,5-trisphosphate 3-kinase (IP3K )"
+3ELO,Phospholipase A2
+4OR2,Metabotropic Glutamate 1a
+1GNU,GABA A Benzodiazepine
+2R4S,Beta-2 adrenergic receptor
+3PGL,carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1 isoform 1
+1CWW,Apoptotic peptidase activating factor 1
+1JSY,"Arrestin, beta 1"
+2B60,HIV-1 protease
+1H1D,Catechol-O-methyltransferase
+1EXZ,c-Kit
+1DJS,Acidic fibroblast growth factor
+1FGA,Fibroblast growth factor 2
+1WRM,Dual specificity protein phosphatase VHX (VHX)
+1GWZ,Protein-tyrosine phosphatase 1C
+1D5G,Fas-associated protein-tyrosine phosphatase 1 (FAP1)
+1QWU,Golgi alpha-mannosidase II
+2OKO,tRNA-guanine transglycosylase (TGT)
+3PWH,Adenosine A2a receptor
+1L3E,Histone acetyltransferase p300
+1HAA,Nicotinic Alpha-Bungarotoxin
+4OR2,Metabotropic glutamate receptor 1
+4XAR,Metabotropic glutamate receptor 3
+2R4R,ADRB2
+1EXB,Voltage-gated potassium channel
+6C3O,"Sulfonylurea receptor 2, Kir6.2"
+2KAV,Voltage-gated sodium channel subunit alpha Nav1.2 (Nav1.2)
+2RUP,P2X purinoceptor 4
+6N4X,Metabotropic glutamate receptor 5
+6E5V,GRM8
+2X57,Vasoactive intestinal polypeptide receptor 2
+1CWA,Peptidyl-prolyl cis-trans isomerase A
+1M63,calcineurin
+3OXQ,Calcium channel (Type L)
+1IVO,EGF
+2ZNS,GRIK1
+5H8F,"Glutamate receptor ionotropic, NMDA 1"
+5FJV,Neuronal acetylcholine receptor; alpha2/beta2
+1CQE,Cyclooxygenase-1 (COX-1)
+3FDL,Apoptosis Regulator Bcl-xL
+2F00,MurC
+4C12,MurE
+1GG4,MurF
+2UU7,Glutamine synthetase
+2POC,Glucosamine-6- Phosphate Synthase
+4DKL,Mu-type opioid receptor
+6C1Q,C5a anaphylatoxin chemotactic receptor (C5aR)
+5HK1,Sigma non-opioid intracellular receptor 1
+2JNC,CRF2 Beta
+3B8A,Hexokinase
+4CTH,Neutral Endopeptidase (NEP)
+1TYT,Trypanothione Reductase (TR)
+5NJ6,F2RL1
+1WYG,Xanthine dehydrogenase/oxidase
+6M9T,Prostaglandin E2 receptor
+1KEQ,Carbonic Anhydrase V
+1MO7,"ATPase (Na+, K+)"
+1CQE,COX-1
+3LN0,COX-2
+6RZ4,Cysteinyl leukotriene receptor
+6RZ6,CYSLTR2
+5SVL,P2X purinoceptor 3
+3LA4,Urease
+2WWP,PGD2
+6D6T,GABA A
+4XES,Neurotensin receptor 1
+2L27,CRHR1
+3ZMK,Glutathione S-transferase E2
+1I10,Lactate dehydrogenase A (LDHA)
+4AJ1,L-lactate dehydrogenase A
+1XLX,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B"
+2OKK,Glutamic acid decarboxylase
+3QEL,"Glutamate receptor ionotropic, NMDA 2B"
+1DKF,NR2B Channel Blocker
+1MEK,Protein Disulfide-Isomerase (PDI)
+1ERK,Mitogen-activated protein kinase 1
+6DZW,SLC6A4
+6A70,Protein Kinase D-GST
+2M2F,Disintegrin and metalloproteinase domain-containing protein 17
+1MC0,Phosphodiesterase 2A
+1ZKL,Phosphodiesterase 7
+2HD1,Phosphodiesterase 9A
+2O8H,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A"
+1NAV,thyroid alpha
+1DLA,Aldose reductase (ALR2)
+1DDX,Prostaglandin G/H synthase (Cyclooxygenase-2)
+1LAT,Glucocorticoid
+1IRS,Insulin
+1I1B,hIL-1beta
+1PDG,Platelet-derived growth factor subunit B (PDGFB)
+2Z0B,Phosphodiesterase 5
+1CDK,PKA
+1DSY,Protein kinase C alpha
+1UIX,Rho-associated protein kinase 2 (ROCK II)
+2JKR,Sigma-2
+1MQD,GRIA1
+1FTJ,GRIA2
+3EN3,GRIA4
+5GJV,Calcium channel
+1UJL,HERG
+1G4M,TACR1
+4L1D,Sodium Channel
+2X19,CNR1
+5DIS,CNR2
+2JKV,6-phosphogluconate dehydrogenase (6PGD)
+2PRG,Nuclear receptor coactivator 1
+2ZEJ,Leucine-rich repeat serine/threonine-protein kinase 2 (LRRK2)
+4MI0,Histone-lysine N-methyltransferase EZH2
+1IL6,Interleukin-6
+1M6H,S-nitrosoglutathione reductase (GSNOR)
+1CYN,Cyclophilin B (CypB)
+2WFI,Cyclophilin A (CYPA)
+6DHU,Tyrosyl-DNA phosphodiesterase 1 (TDP1)
+3US9,Sodium/calcium exchanger 1(NCX1)
+2G19,Egl nine homolog 1
+2B1P,Jnk1 & Jnk2
+5GJQ,26S Proteasome regulatory subunit Rpn11 (Rpn11)
+6H8S,tyrosine-protein phosphatase non-receptor type 5 isoform a
+3EPZ,DNA (cytosine-5)-methyltransferase 1 (DNMT1)
+1VYQ,dUTP pyrophosphatase
+2X00,Acetylcholine Binding protein
+4EUT,Serine/threonine-protein kinase TBK1
+2KAV,Sodium channel protein type 9 subunit alpha
+1T09,Isocitrate dehydrogenase [NADP] cytoplasmic
+1CWX,RNA polymerase (NS5B)
+1NVP,Transcription initiation factor IIA
+3CZD,"Glutaminase kidney isoform, mitochondrial"
+6MHO,Transient receptor potential cation channel subfamily V member 3
+4AZ0,Cathepsin A (CTSA)
+1QK9,Small conductance calcium-activated potassium channel protein 3
+4G3C,NF-kappa-beta-inducing kinase (NF-kB)
+6U9V,P2X purinoceptor 7 (P2X7)
+4YZ9,Serine/threonine-protein kinase/endoribonuclease IRE1 Alpha
+2OQX,Tryptophanase
+1UV6,Acetylcholine Binding protein
+2PKX,PhoP
+1CJB,Hypoxanthine-guanine-xanthine phosphoribosyltransferase (PfHGXPRT)
+1D6N,Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)
+1EWL,Cruzipain
+3L2L,Pancreatic alpha-amylase
+1P4R,AICAR transformylase
+3V7C,Biotin ligase
+1N03,Protein RecA
+1CE6,Beta-2-microglobulin
+1DXW,HCV NS3 Proteinase
+3M5L,NS3 Protease
+1CGQ,Macrophage migration inhibitory factor (MIF)
+2WKF,Macrophage migration inhibitory factor (MIF)
+2WKB,Macrophage migration inhibitory factor (MIF)
+1USN,Matrix metalloproteinase 10
+2WML,"Alpha-(2,3)-(N)-sialyltransferase"
+3ZO9,Trehalose Synthase (TreS)
+2JC7,Beta-lactamase
+1CXP,Myeloperoxidase (MPO)
+4INE,Phosphoehtnaolamine Methyltransferases 2 (PMT2)
+1FWY,Bifunctional protein (GlmU)
+2V0H,Bifunctional protein (GlmU)
+1G95,Bifunctional protein (GlmU)
+1DVN,Plasminogen activator inhibitor-1
+3LAQ,Urokinase-type plasminogen activator (uPA)
+3E4E,Cytochrome P450 2E1
+2PXX,Endothelin-converting enzyme 2 (ECE-2)
+5HDI,Cytochrome P450 144 (CYP144)
+2X5W,Cytochrome P450 125 (CYP125)
+2XKR,Cytochrome P450 142 (CYP142)
+1COV,3C-like proteinase (CVB3 3Cpro)
+4EYJ,Mitogen-activated protein kinase 13 (MAPK13)
+2KHZ,Deoxyribonucleoside 5&#39;-monophosphate N-glycosidase (Rcl)
+1JU5,Tyrosine-protein kinase ABL1(E255K)
+2UUQ,Cytochrome P450 130
+2UUQ,Cytochrome P450 130 (G243A)
+1QG7,Chemokine CXCL12
+4XX1,Lecithin-cholesterol acyltransferase (LCAT)
+1NW3,"Histone-lysine N-methyltransferase, H3 lysine-79 specific"
+1NE4,cAMP-dependent protein kinase type I-alpha regulatory subunit
+3CIK,Beta-adrenergic receptor kinase 1
+1CO0,Trp Aprorepressor
+4M4X,Ah Receptor
+1FJ2,Acyl-protein thioesterase 1
+5SYN,Acyl-protein thioesterase 2
+3LOG,Salicylate synthase (MbtI)
+4HUZ,"2,6-dichloro-p-hydroquinone 1,2-dioxygenase (PcpA)"
+1N5W,Carbon monoxide dehydrogenase (CODH)
+1N97,Cytochrome P450
+5E6H,Lysine-specific demethylase 5A
+2KBI,Sodium channel protein type 5 subunit alpha
+2H0R,Nicotinamidase (Pnc1)
+3PL1,Nicotinamidase (PncA)
+2DW4,Lysine-specific histone demethylase 1A
+2A8X,Dihydrolipoyl dehydrogenase (Lpd)
+1JR6,NS3 protein
+2JAI,Dimethylarginine dimethylaminohydrolase 1 (DDAH)
+2A1R,Poly(A)-specific ribonuclease (PARN)
+2ESL,Cyclophilin C (CypC)
+1XWN,Peptidyl-prolyl cis-trans isomerase-like 1 (PPIL1)
+1MZW,Peptidyl-prolyl cis-trans isomerase H (USA-Cyp)
+3NZK,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (LxpC)
+5LC5,NADH-ubiquinone oxidoreductase
+2QRY,Thiamine-binding periplasmic protein
+3B8I,Oxaloacetate decarboxylase (PA4872)
+6MX1,Aspartokinase I
+1CS0,Carbamoyl-phosphate synthase (H353N)
+3ILW,DNA gyrase
+1PZN,DNA repair and recombination protein (RadA)
+2WGD,Beta-ketoacyl-ACP synthase (KasA)
+2WGD,Beta-ketoacyl-ACP synthase (KasA) C171Q
+1ZVW,Anthranilate phosphoribosyltransferase (Mtb-AnPRT)
+1FXO,Glucose-1-phosphate thymidylyltransferase (RmlA)
+3BPM,Cysteine protease falcipain-3
+4I8V,Cytochrome P450 1A1
+1FMK,Src SH2 domain
+2J7T,Serine/threonine-protein kinase 10
+6IN0,Ephrin type-A receptor 3 (EPHA3)
+1EBY,Gag-Pol polyprotein (Capsid Protein)
+1V4S,Glucokinase/Glucokinase regulatory protein
+1GXC,Serine/threonine-protein kinase CHK2
+3P1I,Ephrin type-B receptor 3 (EPHB3)
+1K1T,HIV-1 protease
+1MWP,Beta amyloid A4 protein
+1SKN,SKiNhead family member (skn-1)
+1P97,endothelial PAS domain-containing protein 1
+1KEX,"Chain A, Crystal Structure Of The B1b2 Domains From Human Neuropilin- 1"
+2ED1,"arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1 isoform 2"
+2IYC,sentrin-specific protease 1
+3N8I,Low molecular weight phosphotyrosine protein phosphatase (LMWPTP)
+3CBB,Hepatocyte nuclear factor 4-alpha
+2NY5,HIV-1 B HXB2-LAI-IIIB-BRU
+1FVA,MSRA protein
+1YOK,nuclear receptor subfamily 5 group A member 2 isoform 2
+3EKL,"Fructose-1,6-bisphosphate aldolase (FBA)"
+4OZI,TCRAV4S1
+6QS9,serum albumin precursor
+5YZ0,Serine/threonine-protein kinase ATR
+4S0V,Orexin receptor type 2
+1NHG,Enoyl-ACP reductase (ENR)
+1D4H,Protease
+2YL2,Acetyl-CoA carboxylase 1 (ACC1)
+5WNE,Rho-associated protein kinase 1 (ROCK1)
+2F2U,Rho kinase 2 (ROCKII)
+3EJJ,Macrophage colony-stimulating factor 1 (CSF-1)
+1DXW,Serine protease NS3
+2PZ8,Nicotinamide adenine dinucleotide synthetase (NADs)
+6OG4,Plasmin
+1H8I,Thrombin
+4EXP,Macrophage colony-stimulating factor 1 receptor (c-Fms)
+5G53,Adenosine A2a receptor
+1EET,Protease
+1MOQ,Glucosamine synthetase
+1G6S,5-enolpyruvylshikimate-3-phosphate synthase
+1IPB,Eukaryotic translation initiation factor 4E (eIF4E)
+3N7P,Calcitonin gene-related peptide type 1 receptor
+1CWX,RNA-directed RNA polymerase (NS5B)
+1CZ8,Vascular endothelial growth factor A
+1PU4,Vascular adhesion protein 1 (VAP-1)
+1DSY,PKC alpha [mouse]
+1FUG,MAT2A
+3MY0,ALK1
+1ES7,ALK3
+5E8U,ALK4
+1IAS,ALK5
+3RVW,Peptidase 1 (Der p 1)
+6CGC,Estradiol 17-beta-dehydrogenase 1 (17beta-HSD1)
+2GP3,Jumonji domain-containing protein 2A (JMJD2A)
+2XDP,Jumonji domain-containing protein 2C (JMJD2C)
+4BBQ,Homo sapiens lysine demethylase 2A (KDM2A)
+5FWJ,Lysine-specific demethylase 5C
+3C49,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD3 or PARP3)
+1DFP,Factor D
+1Z68,Fibroblast activation protein alpha
+5DLV,Autotaxin (mATX)
+1GZT,LecB
+6FER,Discoidin domain-containing receptor 2
+1DFV,Siderocalin (Scn)
+4C0T,Serine/threonine-protein kinase 2 (CaPkh2)
+1WVW,Death-associated protein kinase 1
+5ZTN,Dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2 (DYRK2)
+1MQ2,DNA polymerase beta
+1NZP,DNA polymerase lambda
+3D3T,HIV-1 protease M1
+3LZS,HIV-1 protease M3
+4ZYO,Stearoyl-CoA desaturase 1 (SCD1)
+3N2Z,Prolylcarboxypeptidase (PRCP)
+1SRZ,gamma-Aminobutyric Acid Type B Receptor Subunit 1
+4LN7,H1N1 Endonuclease
+1JYD,Retinol-binding protein 4
+1FIQ,Xanthine dehydrogenase
+4NRE,15-Lipoxygenase-2 (15-LOX-2)
+1CL0,Thioredoxin reductase (TrxR)
+2KBW,Mcl-1 (residues 172-327)
+1ZMV,Serine/threonine-protein kinase c-TAK1
+2QLR,"Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial"
+1IVO,EGFR
+2AO2,Chorismate mutase (MTB CM)
+1MD8,Complement C1r subcomponent
+3A47,&#945;-glucosidase
+2O1S,1-Deoxy-D-xylulose-5-phosphate synthase (DXP synthase))
+1MT5,Fatty-acid amide hydrolase (rFAAH&#8710;TM)
+6HQ1,Histone H1
+3EML,Adenosine receptor A2
+1MQ4,Aurora A/TPX2 (1-43)
+4WB9,Aldehyde dehydrogenase 1A1 (ALDH1A1)
+1O0L,BCL-W
+2ARY,Calpain1/2
+1Z7X,RNAse A
+1H53,Angiogenin
+5N6R,Bcr-Abl
+2IUK,Lipoxygenase (LOX)
+3DWW,Prostaglandin E synthase
+3RBF,DOPA decarboxylase (DDC)
+2NMP,Cystathionine gamma-lyase
+2AZ8,HIV-1 protease (Wt)
+1U2B,General receptor of phosphoinositides 1 (GRP1)
+2HM1,Beta-secretase 1 (BACE)
+2XB7,ALK tyrosine kinase receptor (L1196M)
+1SSL,Tyrosine kinase receptor c-Met (c-Met)
+1ONG,Beta-lactamase (SHV-1)
+1PQ0,Apoptosis regulator Bcl-XL
+1R46,Alpha-glucosidase A (&#945;-Gal A)
+2WYB,PvdQ
+5INO,tyrosyl-DNA phosphodiesterase 2
+3OHM,Phospholipase C-beta-3
+2FCI,"Phospholipase C, gamma 1"
+1FKC,Prion protein
+6C1A,Methyl-CpG binding domain protein 2
+1FZA,"Chain E, Fragment Double-D From Human Fibrin"
+2M16,lens epithelium-derived growth factor p75
+1II6,Kinesin-5 motor protein (KSP)
+3A60,Ribosomal protein S6 kinase (P70S6K)
+1PBW,Phosphatidylinositol 3-kinase regulatory subunit alpha
+1CW3,Aldehyde dehydrogenase (ALDH2)
+1UAE,MurA (E. coli)
+1NAW,MurA (E. cloacae)
+5BQ2,MurA (P. aeruginosa)
+1MBB,MurB (E. coli)
+1HSK,MurB (S. aureus)
+2WTZ,MurE (M. tuberculosis)
+2AM1,MurF (S. pneumoniae)
+2CG5,Fatty acid synthase
+4NTJ,Purinergic receptor P2Y12
+5W33,DNA primase (Mtb DnaG)
+2O2S,Enoyl-acyl carrier reductase
+2F73,Liver fatty acid binding protein (human L-FABP T94T)
+1LFO,Liver fatty acid binding protein (rat L-FABP)
+2EC8,Proto-oncogene c-Kit (c-Kit)
+5K5X,Platelet-derived growth factor receptor alpha (PDGFR&#945;)
+2B1P,c-Jun N-terminal kinase 1 truncation (JNK1) (1-363)
+2VUW,Haspin (465-798)
+2G19,Hypoxia-inducible factor (HIF-PH2)
+5VVW,MurC (P. aeruginosa)
+1DXP,NS3-4A protease
+1E50,Core-binding factor subunit beta (CBFB)
+1V0R,Phospholipase D (PLD_sp)
+1IRU,20S proteasome chymotrypsin-like
+2KBX,Serine/threonine-protein kinase ILK-1
+2CS5,Megakaryocyte protein-tyrosine phosphatase (PTP-MEG2)
+3PB4,Glutaminyl Cyclase
+3MI9,Cyclin-T1
+1CXV,Matrix metallopeptidase 13 (MMP13)
+1XDN,Trypanosoma brucei RNA editing ligase 1
+1E3F,Transthyretin
+1M47,Interleukin-2 (IL-2)
+6NPP,Epstein-Barr virus protease (EBV Pr)
+4Q3P,Arginase (SmARG)
+1QAU,Nitric oxide synthase mutant (nNOS M336V/D597N)
+1RS8,Nitric oxide synthase mutant (eNOS L111A)
+1QAU,Nitric oxide synthase mutant (nNOS H341L)
+1RS8,Nitric oxide synthase mutant (eNOS Y477A)
+3B3L,Ketohexokinase
+3N93,Corticotropin releasing factor receptor 2
+1G3N,Cyclin-dependent kinase 6
+3EUE,Uridine phosphorylase (UPase)
+4MP2,Pyruvate dehydrogenase kinase isoform 2 (PDHK2)
+1K3B,Dipeptidyl peptidase I
+2CR9,Poly [ADP-ribose] polymerase 1 (Parp1)
+1F3X,Pyruvate kinase (PKM2)
+1DMT,Neprilysin
+1QBH,Baculoviral IAP repeat-containing protein 2
+3CYE,Neuraminidase
+6M9T,hEP3D/ hEP3A
+1X75,DNA Gyrase Subunit A
+6ELM,Serine/threonine-protein kinase WNK2
+2QYL,Phosphodiesterase 4 (PDE4)
+3B0W,Nuclear receptor ROR-gamma
+3VI3,Integrin alpha-5
+2KNC,Integrin alpha-IIb
+2MZ7,Tau Protein Kinase 1 (TPK1)
+3AOX,EML4 ALK Fusion Protein
+3LXG,Phosphodiesterase 10A (PDE10A)
+3CWG,Signal transducer and activator of transcription 3
+4UY9,Mitogen-activated protein kinase kinase kinase 9 (MLK1)
+3PE3,O-GlcNAc Transferase (OGT)
+2I8N,Bromodomain-containing protein 4
+6BGG,Bromodomain-containing protein 3
+1F81,CREB-binding protein
+1MY5,Nuclear factor NF-kappa-B
+1WVW,Death-associated protein kinase 1 (DAPK1)
+3RLB,Thiamine transporter (ThiT)
+3VUS,PNAG de-N-acetylase (PgaB)
+1DLO,Integrase
+2CFV,Protein-tyrosine phosphatase
+4OG6,Menin
+2R29,DENV2 protease (NS2B-NS3)
+2WYB,N-terminal nucleophile hydrolase (PVdQ)
+4U0T,ADC-7 beta-lactamase (ADC-7)
+1ONG,SHV-1 beta-lactamase
+1MDR,Mandelate racemase (MR)
+3N7Z,Eis_Ban acetyltransferase (Eis_Ban)
+2UZJ,Cysteine protease SpeB (SpeB)
+3Q9B,Acetylpolyamine amidohydrolase (APAH)
+2GDN,Class A beta-lactamase BlaC (BlaC)
+1JWH,Protein Kinase CK2 (CK2&#945;)
+1KZW,Intestinal fatty acid-binding protein (hIFABP)
+2VG2,cis-Decaprenyl diphosphate synthase (cis-DPPS)
+3WQK,Tuberculosinyl adenosine synthase (Rv3378c)
+2VFW,cis-Farnesyl diphosphate synthase (cis-FPPS)
+4I15,Class I phosphodiesterase B1 (TbrPDEB1)
+1KO2,Metallo-beta-lactamase VIM-2 (VIM-2)
+2UZR,"Protein kinase B (Akt1 E49C, C296S, C310S and C344S )"
+1GZH,Methyl-lysine binding protein (53BP1)
+2K1B,Chromobox protein homolog 7 (CBX7)
+2M0O,PHD finger protein 1 (PHF1)
+4BD3,PHD finger protein 19 (PHF19)
+2FAZ,E3 ubiquitin-protein ligase (UHRF1)
+1OYX,Lethal(3)malignant brain tumor-like protein 1 (L3MBTL1)
+3FEO,MBT domain-containing protein 1 (MBTD1)
+1WJQ,Lethal(3)malignant brain tumor-like protein 3 (L3MBTL3)
+1MX3,C-terminal-binding protein 1 (CtBP1)
+4PT5,MERS-CoV papain-like protease (MERS-PLpro)
+1CU1,NS3 serine protease (NS3)
+3MPG,Dihydroorotase (PyrC)
+4EOK,Cyclin-dependent protein kinase 2 variant (CDK2 C118L)
+4EOK,Cyclin-dependent protein kinase 2 variant (CDK2 A144C)
+1GII,Cyclin-dependent protein kinase 2 variant (CDK2 C118L/A144C)
+4EOK,Cyclin-dependent protein kinase 2 (CDK2 F80T)
+4EOK,Cyclin-dependent protein kinase 2 (CDK2 F80M)
+4EOK,Cyclin-dependent protein kinase 2 (CDK2 C118I)
+4EOK,Cyclin-dependent protein kinase 2 (CDK2 A144G)
+1FNT,20S proteasome
+1ERK,Extracellular signal-regulated kinase 1 (ERK1)
+1Q3D,Tau protein kinase 1 (TPK1)
+4ZG9,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2
+1OWT,Beta-amyloid protein 42
+2CFY,Thioredoxin reductase 1 (TrxR)
+4CFE,5&#39;-AMP-activated protein kinase subunit beta-1
+2Q8F,Pyruvate dehydrogenase kinase isoenzyme 1 (PDK1)
+1Y8Q,SUMO-activating enzyme
+4MBS,C-C chemokine receptor type 5
+6PQO,Transient receptor potential cation channel subfamily A member 1
+1HXD,BirA Bifunctional Protein
+2CLQ,Apoptosis Signal-regulating Kinase 1 (ASK1)
+4JKV,G-protein- coupled-like receptor Smoothened (Smo)
+3CF1,"Valosin containing protein, p97 subunit"
+3MAX,HDAC1/NCOR2
+4LXZ,HDAC2/NCOR2
+4A69,HDAC3/NCOR2
+3K46,Beta-glucuronidase (EcGUS)
+1KB3,Pancreatic alpha-amylase (HPA)
+4XGK,Uridine 5&#39;-diphosphate-galactopyranose mutase (UGM)
+3MHK,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD6 or PARP5b)
+1EBM,8-Oxoguanine DNA glycosylase-1 (OGG1)
+1HAR,HIV-1 Reverse transcriptase (HIV-1 RT)
+6MBZ,Transcription factor STAT5a (STAT5a)
+2IC8,Rhomboid protease (EcGlpG)
+6R0J,Rhomboid protease (BsYqgP)
+1SGZ,Beta-secretase 1 (BACE1)
+2RIP,Dipeptidyl peptidase-IV (DDP-4)
+4ZZX,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD2 or PARP2)
+5VEU,Cytochrome P450 3A5 (CYP3A5)
+6MC9,Voltage-gated sodium channel subunit alpha Nav1.4
+2XWT,Thyroid-stimulating hormone receptor (TSH)
+2MNY,Lysine-specific demethylase 5B
+5JH5,Homo sapiens lysine demethylase 2B (KDM2B)
+4C8D,Lysine-specific demethylase 3B (KDM3B)
+2XML,Lysine-specific demethylase 4C (KDM4C)
+2WWU,Histone lysine demethylase PHF8
+1NFI,Nuclear factor NF-kappa-B (NF-kB)
+1OYN,"Isoform 3 of cAMP-specific 3',5'-cyclic phosphodiesterase 4D"
+5VCM,"Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase"
+1CQZ,Soluble epoxide hydrolase (sEH)
+1JWH,Casein kinase II subunit beta (CK2 beta)
+4FGU,Legumain
+1IVO,Epidermal growth factor receptor (T790M)
+1FLJ,Carbonic anhydrase 3 (CA III)
+2ENQ,Phosphoinositide 3-kinases (PI3K)
+1XQ8,Alpha-synuclein
+5O3L,Tau
+1DAZ,Protease
+2G15,Proto-oncogene c-Met
+1LM8,Von Hippel-Lindau disease tumor suppressor protein (VBC)
+2LNL,Chemokine receptor type 1 (CXCR1)
+1IVO,Epidermal growth factor receptor(L858R)
+1IVO,"Epidermal growth factor receptor(L858R, T790M)"
+3MDL,Cyclooxygenase-2 (COX-2)
+1CJQ,CAM-RNase A
+1K2A,Eosinophil-derived neurotoxin (EDN)
+2Q1L,3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMG-CoA)
+2XZB,Na/K-ATPase
+3GID,Acetyl-CoA carboxylase 2 (ACC2)
+2WKL,Beta-glucocerebrosidase
+1GSS,GST-Lysine Specific Demethylase-1 (LSD1)
+1GSS,GST-Lysine-specific histone demethylase 1A (LSD1)
+1K40,Focal adhesion kinase (FAK)
+2ZOQ,ERK2(T157A)
+2ZOQ,ERK2(D319N)
+1TVO,ERK2(T157A/D319N)
+2ZOQ,ERK2(L114A)
+2ZOQ,ERK2(Y191A)
+2ZOQ,ERK2(L265A)
+2ZOQ,ERK2(L232A)
+2ZOQ,ERK2(L235A)
+1TVO,ERK2(L198A/L232A)
+1TVO,ERK2(L198A/L235A)
+1UYM,Heat Shock Protein 90 (Hsp90)
+3ZYX,Monoamine oxidase B (MAO-B)
+1FQY,Aquaporin-1 (AQP1)
+6NT2,Protein-arginine N-methyltransferase 1
+2Y1W,Histone-arginine methyltransferase CARM1
+4X41,Protein arginine methyltransferase 8 (PRMT8)
+2I8N,H4-BRD4
+2XB7,Anaplastic lymphoma kinase C1156Y (ALK C1156Y)
+2VQJ,HDAC4 and MEF2D Protein
+3LCO,cFMS
+1FHU,o-Succinylbenzoyl-CoA synthase (MenE)
+3K7M,L&#8208;Hydroxynicotine oxidase (LHNO)
+5BUX,beta-Hydroxyacyl-acyl carrier protein dehydratase (YpFabZ)
+5BUY,beta-Hydroxyacyl-acyl carrier protein dehydratase (FtFabZ)
+3LFM,Fat mass and obesity associated protein (FTO)
+2QEW,Cytosolic phosphoenolpyruvate carboxykinase (cPEPCK)
+3ECR,Porphobilinogen deaminase (PBGD)
+1I44,Insulin-like growth factor 1 receptor (964-1370)
+4CAV,N-myristoyltransferase (NMT1)
+4C7H,N-myristoyltransferase (NMT1)
+1HRK,Ferrochelatase R115L (FECH)
+6BQ1,Phosphatidylinositol 4-kinase alpha (PI4KA)
+2N73,Phosphatidylinositol 4-kinase beta
+2AR5,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha
+2Q0I,Thioesterase PqsE (PqsE)
+1F13,Coagulation factor XIII A (FXIIIa)
+2XZZ,Transglutaminase-1 (TG1)
+2ENQ,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (PI3K alpha)"
+2ZEJ,Leucine-rich repeat serine/threonine-protein kinase 2 G2019S
+1N9E,Lysyl oxdiase (PPLO)
+2HWO,Proto-oncogene tyrosine-protein kinase Src (c-Src)
+1OPK,Tyrosine-protein kinase ABL1 (c-Abl)
+3VO8,Cell division protein FtsZ
+1Z6Z,Sepiapterin reductase (SPR)
+1XBA,"SYK RPA purified, truncated construct of Spleen Tyrosine Kinase aa 360-635"
+2A8X,Lipoamide Dehydrogenase (Lpd)
+2GES,Pantothenate kinase (PanK)
+1EBY,HIV-1 integrase (IN) A128T
+5EQG,Glucose Transporter 1 (hGLUT1)
+4GYZ,Tyrosyl-DNA phosphodiesterase 2 (mTDP2 WT)
+1VHH,Sonic hedgehog protein
+1Z1L,Phosphodiesterase 2A (PDE2A2)
+2QYK,Phosphodiesterase 4A (PDE4A1)
+1II6,Mitotic kinesin Eg5 (Eg5)
+3V4P,Mucosal addressin cell adhesion molecule 1 (MAdCAM-1)/Alpha-4 Beta-7 Integrin
+4W2R,Histone-lysine N-methyltransferase EZH2 (A677G)
+5IJ8,Histone-lysine N-methyltransferase EZH2 (A687V)
+6MC9,Voltage-gated sodium channel subunit alpha Nav1.4 (I757A)
+6MC9,Voltage-gated sodium channel subunit alpha Nav1.4 (M1240A)
+5VEU,Cytochrome P450 3A5
+4BKQ,Enoyl-ACP reductase (Wt ypFabV)
+3ZU2,Enoyl-ACP reductase T276S (T276S ypFabV)
+5E6H,Lysine-specific demethylase 5A (KDM5A(1-739)&#916;AP(2C-2S))
+2MNY,Lysine-specific demethylase 5B (KDM5B(1-755)&#916;AP)
+5FWJ,Lysine-specific demethylase 5C (KDM5C(1-789)&#916;AP)
+2YQE,Lysine-specific demethylase 5D (KDM5D(1-760)&#916;AP)
+5E6H,Lysine-specific demethylase 5A (KDM5A(1-588)&#916;AP)
+2MNY,Lysine-specific demethylase 5B (KDM5B(1-604)&#916;AP)
+5E6H,Lysine-specific demethylase 5A (KDM5A(1-1090)-Flag)
+1EJA,Trypsin
+1S9K,Transcription factor AP-1
+5XTE,Cytochrome b
+1TVO,MAP kinase ERK2
+1WXM,Serine/threonine-protein kinase A-Raf
+3WJK,Octaprenyl diphosphate synthase (OPPS)
+2DH4,Geranylgeranyl diphosphate synthase mutant (GGPPS Y107A/F108A)
+2DH4,Geranylgeranyl diphosphate synthase (GGPPS)
+4YZ9,IRE1&#945;
+1DP0,beta-Galactosidase (&beta;-gal)
+3PJC,JAK3 (aa 781-1124)
+2RF5,Tankyrase-1 (TNKS1)
+2KR6,Presenilin-1
+2O8H,Phosphodiesterase 10A (PDE10A2)
+1CO7,Trypsin
+4AZ0,Cathepsin A
+3HN3,beta-Glucuronidase (&#946;-glucuronidase)
+1CWN,Aldehyde reductase (ALR1)
+4J5T,alpha-Glucosidase (&#945;-glucosidase)
+4UIY,Bromodomain-containing protein 4 (BRD4)
+1CWD,LCK/BTK
+1K2P,Fyn/BTK
+1K2P,LynA/BTK
+6BO7,Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)
+1NUL,Xanthine phosphoribosyltransferase (XGPRT)
+3OE6,C-X-C chemokine receptor type 4 (CXCR4/SDF-1)
+3CF0,Valosin-containing protein (VCP)
+1FKN,Beta-secretase 1 (1-458 aa)
+1IS0,Src homology 2 domain (SH2-wt)
+1IS0,Src homology 2 domain mutant (SH2-tm)
+3INM,IDH1 R132H
+5K10,IDH1 R132C
+4JA8,Isocitrate dehydrogenase 2 mutant (R140Q)
+5N53,Phosphoglycerate dehydrogenase (PHGDH)
+5E6H,Lysine-specific demethylase 5A (KDM5A)
+5FWJ,Lysine-specific demethylase 5C (KDM5C)
+2YQE,Lysine-specific demethylase 5D (KDM5D)
+2XDP,Lysine-specific demethylase 4C
+2XUE,Lysine-specific demethylase 6B
+5N2H,DNA Synthesis
+3F6K,Sortilin
+1UL1,Flap endonuclease 1 (hFEN1-336&#916;)
+3B4Y,F420-dependent glucose-6-phosphate dehydrogenase mutant (FGD H40A)
+1M7V,Nitric Oxide Synthase
+2FC2,Nitric Oxide Synthase I218V
+5EEF,HDAC6 (CD1-CD2)
+4E4L,Tyrosine-protein kinase JAK1
+2O8H,PED10A
+1H1W,3-Phosphoinositide dependent protein kinase-1
+1J7M,Matrix metalloproteinase-2 (MMP-2)
+1JII,Tyrosyl-tRNA synthetase (TryRS)
+3KR7,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD6 or PARP5b)
+3GOY,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD8 or PARP14)
+5V7T,Human diphtheria toxin-like ADP-ribosyltransferase (Y1660L) (ARTD8 or PARP14(Y1660L))
+5LX6,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD10 or PARP10)
+2PQF,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD12 or PARP12)
+4F0D,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD15 or PARP16)
+2XB7,ALK tyrosine kinase receptor (C1156Y)
+2XB7,ALK tyrosine kinase receptor (F1174L)
+2XB7,ALK tyrosine kinase receptor (R1275Q)
+6N4X,Metabotropic glutamate receptor 5a (mGluR5)
+3KR7,Tankyrase 2 PARP catalytic domain (TNKS2P)
+4DVI,Tankyrase 1 PARP catalytic domain (TNKS1P)
+1SPJ,Kallikrein-1 (KLK1)
+1ZUA,Aldo-keto reductase family member 1B10 (AKR1B10)
+4GQ0,Methylated AKR1B10 K125R/V301L (AKME2MU)
+1XGD,Aldose reductase L301M (AR)
+3HI9,HuR RNA binding protein
+2BBO,Cystic fibrosis transmembrane conductance regulator
+2PMW,Proprotein convertase subtilisin/kexin type 9 (PCSK9)
+1S9J,BRAF-MEK-ERK
+2G99,WD repeat-containing protein 5 (WDR5)
+2AXN,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3 (PFKFB3)"
+1TZS,Cathepsin E
+1FAQ,C-RAF
+3OMV,C-Raf TR (1-324)
+5W7T,With-No-Lysine (K) Kinase 1 (WNK1)
+5W7T,With-No-Lysine (K) Kinase 2 (WNK2)
+5W7T,With-No-Lysine (K) Kinase 4 (WNK4)
+1DFP,Complement factor D (FD) catalytic domain (Human fD)
+5FCR,Complement factor D (FD) catalytic domain (Mouse fD)
+1DLE,Complement factor B (FB) catalytic domain
+5FAH,Kalligrein-7 Y180R (KLK7)
+2KBW,Myeloid cell leukemia 1 (Mcl-1)
+1HE7,Tyrosine kinase receptor A (Trk-A)
+2PSN,Enolase 1 (ENO1)
+1TE6,hENO2 human recombinant Enolase
+1T4E,p53-binding protein Mdm2
+1LXL,Apoptosis regulator Bcl-XL
+1F9X,X-linked inhibitor of apoptosis protein BIR3 domain (XIAP BIR-3)
+2UVL,Inhibitor of apoptosis protein 1 (IAP1)
+1X0J,BET bromodomain 2(1) (BRD2(1))
+2DVV,BET bromodomain 2(2) (BRD2(2))
+3AQA,"BET bromodomain 2(1,2) (BRD2(1,2))"
+2NXB,BET bromodomain 3(1) (BRD3(1))
+2E7N,BET bromodomain 3(2) (BRD3(2))
+2E7N,"BET bromodomain 3(1,2) (BRD3(1,2))"
+5UOO,Bromodomain-containing protein 4 (BRD4)
+2I8N,"BET bromodomain 4(1,2) (BRD4(1,2))"
+2I8N,BET bromodomain 4 (BRD4)
+2RFJ,Bromodomain testis 1 (BRDT(1))
+2RFJ,"Bromodomain testis (1, 2) (BRDT(1,2))"
+4B63,Flavin-Dependent Monooxygenase Siderophore A (SidA)
+5OE3,Anthranilyl-CoA synthetase PqsA (PqsA)
+1SXV,Inorganic pyrophosphatase (MtPPiase)
+1FAJ,Inorganic pyrophosphatase (EcPPiase)
+1M38,Inorganic pyrophosphatase (ScPPiase)
+4RPA,Inorganic pyrophosphatase (SaPPiase)
+6O9X,poly(ADP-ribose) glycohydrolase (PARG)
+4RRW,Cyclooxygenase-2 mutant (V349L)
+4RRW,Cyclooxygenase-2 mutant (V523I)
+4RRW,Cyclooxygenase-2 mutant (S530A)
+4RRW,Cyclooxygenase-2 mutant (R120Q)
+4RRW,Cyclooxygenase-2 mutant (Y355F)
+3MAX,Histone acetylases (HDACs)
+3A7E,Catechol O-methyltransferase (MB-COMT)
+2ENQ,p110alpha-iSH2 p85alpha Complex
+3C49,Poly [ADP-ribose] polymerase 3 (PARP-3)
+1FKN,Beta-secretase 1 (BACE1)
+1T4E,Mdm2
+1T4F,Mdm2
+4Q2A,With-No-Lysine kinase 2 (WNK2)
+5O1V,With-No-Lysine kinase 3 (WNK3)
+1FJ2,Acyl-protein thioesterase 1 (APT1 I75L/S82A/Q83P)
+6QGN,Acyl-protein thioesterase 1 (APT1 I75L/S82A/Q83P/R149H/A150R/S151A)
+4OD8,vaccinia virus D4/A20
+4TYE,Fibroblast growth factor receptor 4 (FGFR4)
+4UIY,BRD4-BD1 and Histone H4
+3NZ0,Tyrosine-protein kinase TYK2
+1CNQ,"Fructose-1,6-bisphosphatase 1 (FBPase)"
+1MQB,Ephrin type-A receptor 2 (EPHA2)
+2DYL,Dual specificity mitogen-activated protein kinase kinase 7 (MAP2K7)
+1G7G,Protein tyrosine phosphatase 1B (PTP1B)
+1TOZ,Notch 1 intracellular domain (Notch 1)
+1TOZ,Notch 1-CBF1
+4ZLP,Notch 3 intracellular domain (Notch 3)
+6PY8,Notch 3-CBF1
+1HAR,Gag-Pol polyprotein
+1DTQ,Reverse Transcriptase (HIV-1 K103N RT)
+5N53,Phosphoglycerate dehydrogenase N-terminal fragment (PHGDH fragment)
+1CAH,Carbonic anhydrase 9 (CA IX)
+4NH9,Glucose regulated protein 94kDa (Grp94)
+3C0Y,Histone deacetylase 7 (HDAC7)
+3PTA,DNA methyltransferase 1 (RFTS-lacking Dnmt1)
+3EPZ,DNA methyltransferase 1 (RTFS-containing Dnmt1)
+5YX2,DNA methyltransferase 3a (Dnmt3a)
+4BJY,3-Hydroxybenzoate 6-hydroxylase (3HB6H)
+4BK3,3-Hydroxybenzoate 6-hydroxylase (3HB6H Y105F)
+1FAG,Cytochrome P450 monooxygenase BM3 (BM3)
+2BMH,Cytochrome P450 monooxygenase BM3 (BM3 A82F)
+2BMH,Cytochrome P450 monooxygenase BM3 (BM3 F87V)
+3WSP,Cytochrome P450 monooxygenase BM3 (BM3 DM)
+2WZX,Beta-lactamase
+1TOU,Fatty acid-binding protein 4 (FABP4)
+1JJJ,Fatty acid-binding protein 5 (FABP5)
+2G19,Hypoxia-inducible factor prolyl hydroxylase 2 (HIFPH2)
+4PH9,His8-Native/His8-Native
+4PH9,His8-Native/FLAG-Native
+3MDL,His8-Y385F/His8-Y385F
+4PH9,His8-Y385F/FLAG-Native
+4PH9,His8-Y385F R120A/FLAG-Native
+3MDL,His8-R120Q/His8-R120Q
+3MDL,His8-R120A/His8-R120A
+3MDL,His8-S530A/His8-S530A
+4PH9,His8-S530A/FLAG-Native
+4HCT,Interlukin-2-inducible tyrosine kinase (Itk)
+3GA0,C-terminal binding protein (CtBP1 A52D)
+3GA0,C-terminal binding protein (CtBP1 V66R)
+3GA0,C-terminal binding protein (CtBP1 R266Q)
+3GA0,C-terminal binding protein (CtBP1 E295A)
+3GA0,C-terminal binding protein (CtBP1 H315A)
+3GA0,C-terminal binding protein (CtBP1 W318F)
+3FXZ,p21-Activated kinase 1 (PAK1)
+4IAN,PRP4 kinase (PRP4)
+3KKW,Gcn5-related N-acetyltransferases (GNAT) superfamily protein PA4794 (PA4794)
+3WDB,Caseinolytic protein C1 (ClpC1)
+3WDB,Caseinolytic protein C1 (ClpC1 NTD)
+3WDB,Caseinolytic protein C1 (ClpC1 NTD-D1)
+3WDD,Caseinolytic protein C1 (ClpC1 NTD F2Y)
+3WDE,Caseinolytic protein C1 (ClpC1 NTD F80Y)
+1QBH,Cellular inhibitor of apoptosis 1 BIR3 domain (c-IAP1 BIR3)
+6NPE,Tyrosine-protein kinase ABL1
+2X9E,Dual specificity protein kinase TTK (MPS1)
+1HPB,Histidine-binding periplasmic protein (HisJ)
+3L4D,Sterol 14&#945;-demethylase (CYP51)
+3JUS,Sterol 14&#945;-demethylase (CYP51)
+3QEL,GluN1/N2B
+3Q41,GluN1/N2C
+3Q41,GluN1/N2D
+3Q41,GluN1/N2A
+3Q41,GluN1(F484A/T518L)/N3A
+3Q41,GluN1(F484A/T518L)/N3B
+2XHD,Glutamate receptor 1 (GluA1)
+5TGZ,Cannabinoid receptor 1 (CB1 D338A)
+5TGZ,Cannabinoid receptor 1 (CB1 I339A)
+5TGZ,Cannabinoid receptor 1 (CB1 R340A)
+5TGZ,Cannabinoid receptor 1 (CB1 L341A)
+5TGZ,Cannabinoid receptor 1 (CB1 T344A)
+2MZ7,Microtubule-associated protein Tau isoform 2N4R (Tau 2N4R)
+2WGF,&#946;-ketoacyl-ACP synthase I (C171Q KasA)
+1Z28,Sulfotransferase 1A1 (SULT1A1)
+1J99,Sulfotransferase 2A1 (SULT2A1)
+4DJH,&#954; opioid receptor (KOR Y66A)
+4DJH,&#954; opioid receptor (KOR Q115A)
+4DJH,&#954; opioid receptor (KOR Y119A)
+4DJH,&#954; opioid receptor (KOR Y119F)
+4DJH,&#954; opioid receptor (KOR I135A)
+4DJH,&#954; opioid receptor (KOR D138A)
+4DJH,&#954; opioid receptor (KOR D138N)
+4DJH,&#954; opioid receptor (KOR Y139A)
+4DJH,&#954; opioid receptor (KOR Y139F)
+4DJH,&#954; opioid receptor (KOR M142A)
+4DJH,&#954; opioid receptor (KOR K200A)
+4DJH,&#954; opioid receptor (KOR L212A)
+4DJH,&#954; opioid receptor (KOR M226A)
+4DJH,&#954; opioid receptor (KOR K227A)
+1T4E,MDM2 and p53
+2Y3A,Phosphatidylinositol 3-kinase p110&#946; (p110&#946;)
+1E7U,Phosphatidylinositol 3-kinase p110&#947; (p110&#947;)
+4AJW,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform"
+1FAP,Serine/threonine-protein kinase mTOR (mTOR)
+2IPS,Lactoperoxidase (LPO)
+1S95,Protein phosphatase 5 (PP5)
+3K7M,L-6-hydroxynicotine oxidase (LHNO N166A)
+3K7M,L-6-hydroxynicotine oxidase (LHNO K287M)
+3K7M,L-6-hydroxynicotine oxidase (LHNO Y311F)
+1ERE,Estradiol-bound ER&#945; LBD
+4TTB,Iodotyrosine deiodinase (IYD)
+5KO7,Iodotyrosine deiodinase (IYD)
+4A69,Histone deacetylase 3/Nuclear receptor corepressor 2
+3OZB,S-methyl-5&#39;-thioinosine phosphorylase (MTIP)
+2VM6,Bcl2-related protein A1 (Bfl-1)
+5LI9,Protein kinase C iota (PKC&#953;)
+5KJX,Protein kinase A I&#945; regulatory subunit (RI&#945;)
+3IIA,Protein kinase A I&#945; regulatory subunit (RI&#945; R239A)
+3IIA,Protein kinase A I&#945; regulatory subunit (RI&#945; K240A)
+3IIA,Protein kinase A I&#945; regulatory subunit (RI&#945; R241A)
+3IIA,Protein kinase A I&#945; regulatory subunit (RI&#945; K242A)
+4XEE,Neurotensin receptor type 1 (NTSR1-H4)
+3G73,Forkhead box M DNA-binding domain (Foxm DBD)
+4XDE,Coagulation factor XII (FXII)
+1JWH,Casein kinase II alpha/beta
+2YL2,Acetyl-CoA carboxylase 1
+2DN8,Acetyl-CoA carboxylase 2
+3B0W,Retinoid-related orphan receptor-gamma (RORgT)
+2OSS,Bromodomain-containing protein 4 (BRD4)
+2I8N,Bromodomain-containing protein 4 (BRD4)
+3MPH,Diamine oxidase (DAO)
+3B0W,Retinoic acid-related nuclear receptor gamma t (ROR&gamma;t)
+2KSR,Neuronal acetylcholine receptor protein alpha-2/beta-2 subunit
+2KSR,Neuronal acetylcholine receptor protein alpha-3/beta-2 subunit
+1IVO,c-Met/EGFR
+1SSL,c-Met/ALK
+1SSL,c-Met/RET
+4H1S,Ecto-5&#39;-nucleotidase (e5&#39;NT)
+1F8N,Lipoxygenase (SLO)
+5HDI,Cytochrome P450 144 (CYP144A1-TRV)
+2FD6,Urokinase receptor (uPAR)
+1FR8,"&#946;-1,4-Galactosyltransferase I (&#946;4GalT)"
+4GQB,Protein arginine N-methyltransferase 5
+1KHB,Phosphoenolpyruvate carboxykinase (PEPCK H477R)
+2W4O,Calcium/calmodulin- dependent protein kinase IV (CAMKIV)
+1NI2,Ezrin
+2PNO,Leukotriene C4 synthase
+4Y60,Transcription factor SOX-18 (SOX-18)
+3GXU,Ephrin type-A receptor 4 ligand binding domain (EphA4-LBD)
+4L0P,Ephrin type-A receptor 3 ligand binding domain (EphA3-LBD)
+2WO1,Ephrin type-A receptor 4 ligand binding domain (D61G/E62G-EphA4-LBD)
+2GF7,Lysine-specific demethylase 4A (KDM4A)
+4CCM,Histone lysine demethylase NO66 (NO66)
+1H2K,Hypoxia-inducible factor 1 (FIH)
+1H10,RAC-alpha serine/threonine-protein kinase (Akt)
+1W1D,3-phosphoinositide-dependent protein kinase 1 (PDK1)
+1IRS,Insulin receptor substrate 1 (IRS1)
+4Z34,Lysophosphatidic acid receptor 1
+2ZEJ,Leucine-rich repeat serine/threonine-protein kinase 2 (LRRK2)(G2019S)
+2VVZ,Neuraminidase A (NanA)
+2VW0,Neuraminidase B (NanB)
+2HD5,Ubiquitin-specific peptidase 2a (USP2a)
+3S8P,Protein lysine methyltransferase SUV4-20H1 (SUV4-20H1)
+3RQ4,Protein lysine methyltransferase SUV4-20H2 (SUV4-20H2)
+2QXV,Polycomb protein EED (EED)
+4Y1U,Galectin-1
+2VUW,Haspin
+4D10,COP9 signalosome complex subunit 5 (Csn5)
+2XZE,STAM-binding protein (AMSH)
+6GVW,BRISC complex
+1FRO,Glyoxalase 1 (GLO1)
+2HD1,Phosphodiesterase 9A (PDE9A2)
+1FKN,Beta-secretase 1 (aa 1-460)
+2QXV,Polycomb repressive complex 2 (PRC2)
+4MI0,Polycomb repressive complex 2 (PRC2)
+2QXV,EZH1/PRC2
+2G99,MLL
+3QWV,SET and MYND domain-containing protein 2 (SMYD2)
+1H3I,SET domain-containing protein 7/9 (Set7/9)
+1ZKK,SET domain-containing protein 8 (SetD8)
+2R3A,Histone-lysine N-methyltransferase SUV39H2 (Suv39H2)
+2O8J,Protein G9a (G9a)
+6BHD,Histone-lysine N-methyltransferase SETDB1
+5VC8,Nuclear SET domain-containing protein 2 (NSD2)
+3OOI,Nuclear SET domain-containing protein 1 (NSD1)
+2DAQ,Nuclear SET domain-containing protein 3 (NSD3)
+2A7O,SET domain-containing protein 2 (SETD2)
+4GQB,PRMT5/MEP50 Enzyme
+3H9R,Activin receptor type-1 (ACVR1)
+1GJO,Fibroblast growth factor receptor 2 (FGFR2)
+1RJB,Receptor-type tyrosine-protein kinase FLT3 (FLT3)
+1Y6A,Kinase insert domain receptor (KDR)
+4Y83,Mitogen-activated protein kinase kinase kinase 8 (MAP3K8)
+2F2U,Rho-associated protein kinase 2 (ROCK2)
+3IXF,Dehaloperoxidase B (DHP B)
+1IA8,CHK1_Kinase
+3S9I,GlcB
+1XBA,SYK Kinase
+1UAJ,TrmD
+1GI7,Urokinase
+1Z1S,DIG-BP
+4AOJ,Tyrosine kinase receptor A (TrkA)
+5SV7,Pancreatic endoplasmic reticulum kinase (PERK)
+2E0A,Pyruvate dehydrogenase kinase 4 (PDK4)
+1OSF,Heat-shock protein 90 (Hsp90)
+1Y8N,Pyruvate dehydrogenase kinase 3 (PDK3)
+1M6K,Class D &#946;-lactamase (OXA-1)
+1IRY,MutT homolog 1 protein (MTH1)
+3G60,P-gp nanodisc·BD-verapamil
+3G60,P-gp nanodisc·BD-vinblastine
+2OSS,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 WT)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 W81A)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 P82A)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 L94A)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 Y139F)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 D144A)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 D145A)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 I146A)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 M149A)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 Y97F)
+4HBW,Bromodomain protein 4 bromodomain 1 (BRD4 BD1 N140A)
+1E3G,Androgen receptor ligand-binding domain (AR-LBD)
+2KNC,Integrin alpha-IIb/beta-3
+3EYG,JAK1 (aa 866-1154)
+4IJD,PR domain-containing protein 9 (PRDM9)
+4AZP,Fatty acid-binding protein 5 (FABP5)
+4AZP,FABP5-ANS
+2ZEJ,Leucine-rich repeat kinase 2 (LRRK2 t-WT)
+4AZR,Fatty acid-binding protein 5 (FABP5)(NLSm)
+3THC,beta-Galactosidase (&#946;-Gal)
+3WF3,beta-Galactosidase (&#946;-Gal)(I51T)
+1LXA,UDP-N-acetylglucosamine acryltransferase (LpxA)
+4IHG,UDP-3-O-(acryl)-glucosamine acryltransferase (LpxD)
+3K35,Sirtuin-6 (SIRT6)
+3F7T,(E)-1-hydroxy-2-methyl-but-2-enyl 4-diphosphate reductase (IspH)
+3DNF,(E)-1-hydroxy-2-methyl-but-2-enyl 4-diphosphate reductase (IspH)
+1T56,Transcriptional repressor EthR (EthR)
+3IYD,RNA polymerase subunit beta (&#946;-RNAP)
+3IYD,RNA polymerase subunit beta ([D516V]&#946;-RNAP)
+3IYD,RNA polymerase subunit beta ([H526D]&#946;-RNAP)
+3IYD,RNA polymerase subunit beta ([S531L]&#946;-RNAP)
+1G9O,Na+/H+ exchanger regulatory factor-1 PDZ domain (PDZ1)
+2JXO,Na+/H+ exchanger regulatory factor-1 PDZ domain (PDZ2)
+4HKI,Tankyrase-1
+3KR7,Tankyrase-2
+2PA5,Tyrosine-protein phosphatase non-receptor type 9 (PTP-MEG2)
+1RPM,Receptor-type tyrosine-protein phosphatase mu (PTP&#956;)
+5HDE,Tyrosine-protein phosphatase non-receptor type 12 (PTP-PEST)
+2NLK,Receptor-type tyrosine-protein phosphatase gamma
+2B49,Tyrosine-protein phosphatase non-receptor type 3 (PTPH1)
+2AHS,Receptor-type tyrosine-protein phosphatase beta (PTP&#946;)
+6D3F,Receptor-type tyrosine-protein phosphatase epsilon (PTP&#949;)
+3B0W,Retinoic acid-related nuclear receptor gamma t (ROR&#947;t)
+4EGC,Eye absent protein 2 Eya domain (Eya2 ED)
+3ZLI,Lysine-specific demethylase 6C (UTY(KDM6C))
+4P3Y,Thiol:disulfide interchange protein (DsbA)
+4P3Y,AbDsbA(ox)/AFDQIDNAPEE
+2ABL,Abelson tyrosine-kinase 2 SH2 domain (Arg SH2)
+2ABL,Abelson tyrosine-kinase 1 SH2 domain (ABL SH2)
+1MO7,"Na,K-ATPase &#945;1&#946;1"
+2ZXE,"Na,K-ATPase &#945;2&#946;1"
+3PCO,Phenylalanyl-tRNA synthetase (PheRS)
+4P71,Phenylalanyl-tRNA synthetase (PheRS)
+1HA1,Heterogeneous nuclear ribonucleoprotein A1 (hnRNPA1)
+2YDT,"Exo-1,5-&#945;-L-arabinofuranobiosidase (Arb93A)"
+1LA0,Troponin C (TnC)
+1SO8,Amyloid Binding Alcohol Dehydrogenase
+3MAX,HDACs
+1HZP,&#946;-Ketoacyl-acyl carrier protein (ACP) synthase III (FabH)
+4G7E,Urease
+1GSS,Glutathione transferase (GST)
+1F61,Isocitrate lyase (ICL)
+1E5T,Prolyl endopeptidase
+6DXX,N-acylethanolamine-hydrolyzing acid amidase 
+3GLR,NAD-dependent protein deacetylase sirtuin-3 (SIRT3)
+2B4Y,NAD-dependent protein deacetylase sirtuin-5 (SIRT5)
+5IQZ,NAD-dependent protein deacetylase sirtuin-7 (SIRT7)
+1M14,Epidermal growth factor receptor (EGFR)
+2O6L,Uridine-5&#39;-diphosphoglucuronosyltransferase 2B7
+3TIA,Neuraminidase (NA)
+5KKC,L-lactate:NAD+ oxidoreductase A (LDH-A4)
+1LS5,Plasmepsin 4 (PM-IV)
+2OIQ,Proto-oncogene tyrosine-protein kinase Src (T338C)
+1YI6,Proto-oncogene tyrosine-protein kinase Src (T338C/V323A)
+1YI6,Proto-oncogene tyrosine-protein kinase Src (T338C/V323S)
+1TB5,phosphodiesterase 4B2
+1OYN,phosphodiesterase 4D
+1Y6A,Vascular endothelial growth factor receptor 2 (VEGFR2)
+1Z9I,Epidermal growth factor receptor (EGFR)(T790M/L858R)
+2WIF,Butyrylcholinesterase (BuChE)
+1CZM,CA I + BH
+3CZV,CA XIII + BH
+3MDZ,CA VII + BH
+1DNC,Glutathione reductase (GR)
+2GX9,Neuraminidase N3
+1RKP,Phosphodiesterase 5A
+6MZB,Phosphodiesterase 6
+1HEI,NS3/4A protease
+1HEI,NS3-NS4A Protease
+1KWP,p38 MAPK/ MAPKAP kinases MK2
+1Z1L,Phosphodiesterase 2A (PDE2A)
+1EAI,Elastase
+1TVO,Mitogen-activated protein kinase; ERK1/ERK2
+1S9J,Dual specificity mitogen-activated protein kinase kinase; MEK1/2
+1DUX,ETS domain-containing protein (Elk1)
+2NXB,Bromodomain-containing protein 3 (BRD3)
+4KCX,Bromodomain testis-specific protein (BRDT)
+4J3Y,XIAP protein BIR2
+1G3F,XIAP protein BIR3
+1Y9R,Mineralocorticoid receptor (MR)
+5JSB,Induced myeloid leukemia cell differentiation protein Mcl-1 homolog
+6DW0,GABA receptor alpha-1/beta-2/gamma-2 subunit
+1FAQ,C-RAF (Y340D Y341D)
+1T4E,p53-MDM2
+1T4E,p53-MDM4
+4RT7,Receptor-type tyrosine-protein kinase FLT3
+2ESM,Rho-associated protein kinase 1 (ROCK1)
+1YM3,&#946;-Carbonic anhydrase 2 (CA 2)
+1FVR,Tyrosine-protein kinase receptor TIE-2
+1JHB,Glutaredoxin-1 (GRX-1)
+1J7M,Gelatinase 2 (MMP-2)
+4KAI,RNA-directed RNA polymerase (NS5B) (S282T)
+1IVO,Epidermal growth factor receptor (EGFR)(d747-749)(A750P)
+1IVO,Epidermal growth factor receptor (EGFR)(d747-752)(P753S)
+1IVO,Epidermal growth factor receptor (EGFR)(d752-759)
+1IVO,Epidermal growth factor receptor (EGFR)(G719C)
+2N5S,EGFR (G719S)
+2N5S,EGFR (L861Q)
+1GX5,RNA-directed RNA polymerase (NS5B)
+3VZB,Sphingosine kinase 1 (SPHK1)
+1DXW,Protease NS3/Non-structural protein 4A (NS3/NS4A)
+3KEE,Protease NS3/Non-structural protein 4A (NS3/NS4A) (D168A)
+3KEE,Protease NS3/Non-structural protein 4A (NS3/NS4A) (R155K)
+3KEE,Protease NS3/Non-structural protein 4A (NS3/NS4A) (C159S)
+3KEE,Protease NS3/Non-structural protein 4A (NS3/NS4A) (A156S)
+3KEE,Protease NS3/Non-structural protein 4A (NS3/NS4A) (A156T)
+6MHM,Acid ceramidase (AC)
+1CGF,Matrix metalloproteinase-1 (cd-MMP-1)
+1CBJ,Superoxide dismutase (SOD)
+1NB4,RNA-directed RNA polymerase (NS5B)
+1NB4,RNA polymerase (NS5B)
+1YVF,RNA-directed RNA polymerase (NS5B)(P495L)
+4KAI,RNA-directed RNA polymerase (NS5B)(L392I)
+4KAI,RNA-directed RNA polymerase (NS5B)(P495L)
+4KAI,RNA-directed RNA polymerase (NS5B)(V494A)
+1YVF,RNA-directed RNA polymerase (NS5B)(M414T)
+1YVF,RNA-directed RNA polymerase (NS5B)(M423T)
+1YVF,RNA-directed RNA polymerase (NS5B)(S282T)
+1NB4,RNA-directed RNA polymerase (NS5B)(C316Y)
+1ZH1,Non-structural protein 5A (NS5A)
+1NW3,Histone H3-K79 methyltransferase (DOT1L)
+1E3G,Androgen receptor (AR)
+1E3G,Androgen receptor (E709Y)
+5NP0,Serine-protein kinase ATM
+1Q2W,Papain-like protease (PLpro)
+1Q2W,PLpro/Z-RLRGG-AMC
+1HTI,Triosephosphate isomerase (TIM)
+1IIG,Triosephosphate isomerase (TIM)
+1K4S,DNA topoisomerase I (Topo I)
+1RJB,Receptor-type tyrosine-protein kinase FLT3 (K663Q)
+1RJB,Receptor-type tyrosine-protein kinase FLT3 (R834Q)
+2DDR,Sphingomyelinase (SMase)
+2J2I,Serine/threonine-protein kinase pim-1
+1I3O,E3 ubiquitin-protein ligase (XIAP-BIR2)(C202A/C213G)
+3MDY,Bone morphogenetic protein receptor type-1B (BMPR1B)
+1QQ0,Gamma-carbonic anhydrase
+4XFW,Alpha-carbonic anhydrase
+1DFP,CVF-Bb Complex
+1FAP,Serine/threonine-protein kinase mTOR
+1DLE,Complement factor B
+2XA0,GST-Bcl-2 Protein
+1MRQ,GST-Aldo-keto reductase family 1 member C3 (AKR1C3)
+3JVJ,BRD4 BD1 (aa 42-168)
+1XBA,GST-Tyrosine-protein kinase SYK
+1GSS,GST-Fibroblast growth factor receptor 1 (FGFR-1)
+1GSS,GST-Fibroblast growth factor receptor 3 (FGFR-3)
+4YZ9,GST-Inositol requiring enzyme 1 (IRE-1alpha)
+3EYG,GST-JAK1
+2B7A,GST-JAK2
+2VQQ,Histone deacetylase 4 (HDAC4)
+4XDE,Coagulation factor XIIa
+1GSS,GST-Rho-associated protein kinase 1 (ROCK1)
+1GSS,GST-Rho-associated protein kinase 2 (ROCK2)
+1CKP,GST-CDK2/CycE
+4MI0,PRC2 complex
+2X9E,GST-Dual specificity protein kinase TTK
+2JAV,Serine/threonine-protein kinase Nek2 (T175A)
+1HCS,Proto-oncogene c-Src (S345C)
+2KSO,Src homology-2 domain containing protein tyrosine phosphatase-2 (SHP2)
+3O2S,CTD phosphatase SSU72
+4ERC,Dual specificity protein phosphatase 23 (VHZ)
+1ZZW,Mitogen-activated protein kinase phosphatase 5 (MKP5)
+6IWD,Protein-tyrosine phosphatase pez
+2LGD,Nuclear proteasome inhibitor UBLCP1
+1P15,Protein-tyrosine phosphatase alpha
+6H8S,Tyrosine-protein phosphatase non-receptor type 5 isoform a
+1GSS,GST-MALT lymphoma-associated translocation (MALT1)
+1CKP,CDK2/Cyclin A1
+1EWI,Replication protein A 70 kDa DNA-binding subunit
+1IJ9,Vascular cell adhesion protein 1 (VCAM-1)/Alpha-4 Beta-1 Integrin
+3E0C,DNA damage-binding protein 1
+3E0C,CRBN-DDB1
+4TZ4,Protein cereblon
+2HXY,Eukaryotic initiation factor 4A-III
+2G9N,Eukaryotic initiation factor 4A-I
+3BOR,Eukaryotic initiation factor 4A-II
+2Q0Z,U5 small nuclear ribonucleoprotein 200 kDa helicase
+1YAG,ACT1
+1DEJ,ACT1 (R183K)
+1DEJ,ACT1 (R335K)
+2ETL,Ubiquitin carboxyl-terminal hydrolase isozyme L1
+3RIS,Ubiquitin carboxyl-terminal hydrolase isozyme L5
+2HD5,Ubiquitin carboxyl-terminal hydrolase 2
+1W6V,Ubiquitin carboxyl-terminal hydrolase 15
+4Z02,Bromodomain-containing protein 1
+2D9E,Peregrin
+3PFS,Bromodomain and PHD finger-containing protein 3
+3O33,Transcription intermediary factor 1-alpha
+3ANO,AP-4-A phosphorylase
+1CSG,Granulocyte-macrophage colony-stimulating factor
+2ADO,Mediator of DNA damage checkpoint protein 1
+2X69,C-C motif chemokine 3
+1HUM,C-C motif chemokine 4
+1DLO,HIV RT (41L/67N/70R/215F/219E)
+1DLO,HIV RT (41L/67N/210W/215Y/184V)
+1DTQ,HIV RT (41L/67N/210W/215Y/184V)
+1DLO,HIV RT (75I/77L/116Y/151M/184V)
+1DLO,HIV RT (41L/210W/215Y/184V/69SSS)
+1EET,HIV RT (65R/184V)
+3BEG,SRSF protein kinase 1 (SRPK1)
+2G19,HIF-PH2
+4KCX,Bromodomain testis-specific protein
+1W0E,CYP3A-M
+2G15,Hepatocyte growth factor receptor (MET)
+3N7P,Calcitonin gene-related peptide (CGRP) receptor
+2QXG,Kallikrein 7
+2FCI,Phospholipase C-gamma-1
+3O5Z,Phosphatidylinositol 3-kinase regulatory subunit beta
+1G3J,Wnt/beta-Catenin
+4R8Q,Mitotic checkpoint serine/threonine-protein kinase BUB1 (704-1085)
+3EYG,Tyrosine-protein kinase JAK1 (JAK1)
+3NZ0,Non-receptor tyrosine-protein kinase TYK2 (TYK2)
+3VZB,Sphingosine kinase types 1 (SphK1)
+5SUN,Cytosolic NADP-isocitrate dehydrogenase (IDH1)(R132H)
+2EC8,Tyrosine-protein kinase Kit (Kit)(D816V)
+2EC8,Tyrosine-protein kinase Kit (Kit)(V560G/D816V)
+3B0W,Leukocyte elastase
+4GQB,PRMT5/MeP50
+2E5B,Nicotinamide phosphoribosyltransferase (NAMPT)
+2VQJ,HDAC4 (aa 2-1084)
+1UWJ,B-Raf (V600E) 
+2ABL,BCR/ABL fusion protein isoform X3
+2ABL,BCR/ABL fusion protein (T351I)
+2WZX,beta-Lactamase
+1HQQ,LISA-314
+3WZN,LISA-314 V21
+6CNM,Intermediate conductance calcium-activated potassium channel protein 4
+1K3B,inhibition of dppi 
+6U9V,P2X7 rat
+1NDE,Estrogen receptor beta
+4PE5,"Glutamate receptor ionotropic, NMDA 2B"
+4J3Y,BIR2
+1G3F,BIR3
+2VQJ,HDAC4
+1RUY,Hemagglutinin
+2VXS,Interleukin-17A
+1JPY,Interleukin-17F
+2OQP,Interleukin-21
+1M4R,Interleukin-22
+1T4E,Casein kinase I/MDM2
+1W0E,CYP3A4
+2WM1,2-amino-3-carboxymuconate-6-semialdehyde decarboxylase
+2XB7,ALK tyrosine kinase receptor (G1269S)
+1DD6,Metallo-beta-lactamase type 2
+3PG4,Beta-lactamase NDM-1
+4BZ3,Beta-lactamase VIM-1
+1ERE,Ghrelin receptor
+1SPJ,Kallikrein 1
+5LC5,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial"
+1ERE,Estrogen receptor alpha D538G
+1ERE,Estrogen receptor alpha Y537S
+2GF7,Lysine-specific demethylase 4A
+2B7A,JAK2 (831-1132)
+1F81,CREB-binding protein/p53
+1MRQ,Aldo-keto-reductase family 1 member C3
+1EJN,PAI-1/uPA
+1PK2,PAI-1/tPA
+1D3D,ATIII/alphaIIa
+3S5N,"Dihydrodipicolinate synthase-like, mitochondrial"
+4P8Q,Leucyl-cystinyl aminopeptidase
+5SVL,ratp2x3
+5SVL,ratp2x3 + rsa
+4N9F,inhibitory activity
+5YBC,Transcriptional regulator ERG
+1X0J,Bromodomain-containing protein 2
+4HNI,Casein kinase I Epsilon
+1CKI,Casein kinase I delta/epsilon
+2B7A,jak2
+1F20,"Nitric-oxide synthase, brain (nNOS)"
+1DEB,Adenomatous polyposis coli protein
+1M1E,Beta-catenin-interacting protein 1
+2WWU,histone lysine demethylase PHF8 isoform 2
+3LCO,Macrophage colony stimulating factor receptor
+1DI9,MAP kinase p38
+1FG9,Interferon gamma receptor 1
+1TAZ,"Phosphodiesterase, PDE1/PDE5"
+3VI3,ITGA5/ITGB1
+4WJK,ITGAV/ITGB1
+1M8O,ITGAV/ITGB3
+4UM8,ITGAV/ITGB6
+6DJP,ITGAV/ITGB8
+5O3L,Microtubule-associated protein tau
+2KAV,Sodium channel protein type 9 subunit alpha (Nav1.7)
+3QWV,N-lysine methyltransferase SMYD2
+5CLS,Aminopeptidase
+5FM2,RET Kinase (aa658-end)
+5AMN,RET Kinase (V804M) (aa658-end)
+2QYK,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A isoform 3"
+3D3P,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B"
+1OYN,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C isoform 1"
+4PVF,"Serine hydroxymethyltransferase, mitochondrial"
+2JOG,Serine/threonine-protein phosphatase 2B catalytic subunit gamma isoform
+3A60,P70S6K (T412E)
+3HX4,Calmodulin-domain protein kinase 1 (CDPK1)
+2WEI,Calmodulin-domain protein kinase (CDPK1)
+1CWA,Cyclophilin A
+6CSB,Cytochrome P450 2D6
+6QKC,Voltage-dependent calcium channel gamma-8 subunit
+5CEN,Mitogen-activated protein kinase kinase kinase 12
+1LUI,Tyrosine-protein kinase ITK
+1HPJ,Plasminogen (aa101-181)
+1WVA,Arginase-1
+1PQ3,"Arginase-2, mitochondrial"
+2LNL,"Interleukin-8 receptors, CXCR1"
+4MI0,Polycomb Repressive Complex 2 (PRC2)
+2KS9,Neurokinin 1 receptor
+2XDP,jmjd2c
+2XUE,jmjd3
+1EZQ,Coagulation factor Xa
+1FO8,"Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase"
+1HYV,Human immunodeficiency virus type 1 integrase
+2B7A,JAK2 (aa 808-1132)
+3LXK,JAK3 (aa811-1124)
+1LUI,itk
+5AMN,RET kinase mutant (V804M)
+5AMN,RET kinase mutant (G810R)
+3VI3,Integrin alpha5beta6
+6DJP,Integrin alpha5beta8
+6DJP,Integrin alpha5Beta6beta8
+2I8N,Bromodomain-containing protein 4 Isoform C
+1E5T,TBD
+1IRJ,Protein S100-A9
+1XMJ,Cystic fibrosis transmembrane conductance regulator mutant G550E
+3MHK,Poly [ADP-ribose] polymerase tankyrase-2
+2QYK,Phosphodiesterase 4A (PDE4)
+1TB5,Phosphodiesterase 4B (PDE4B)
+2PW3,Phosphodiesterase 4C
+4HNI,Casein kinase I epsilon
+3BIK,Human PD-L1-TVMV-His
+3IPQ,Oxysterols receptor LXR-alpha
+1PQ6,Oxysterols receptor LXR-beta
+1U6D,Keap1 (321-609)
+1DXW,Hepatitis C virus polyprotein
+2CLQ,Mitogen-activated protein kinase kinase kinase 5
+5VXZ,Growth arrest-specific protein 6
+2ZNS,Glutamate Receptor
+2ZNS,hmglur5 flipr
+1K2P,Tyrosine-protein kinase BTK (C481S)
+4UIT,BRD9 (aa 134-239)
+3NXB,CECR2 (aa 424-538)
+1EQF,TAF1-BD2 (aa 1504-1635)
+2WGH,RRM1/RRM2 holoenzyme
+1XBA,SYK (aa 342-635)
+4RT7,FLT3 (aa 564-960)
+1JM4,PCAF (aa 719-832)
+5AMN,RET kinase mutant (V804L)
+4PW8,"Tryptophan 2,3-dioxygenase"
+1F9X,XIAP-BIR2
+1XB7,Estrogen-related receptor alpha
+5JH5,fbxl10
+2GF7,jmjd2a
+1UDT,Phosphodiesterase 5 (PDE5)
+4Q6R,Sphingosine-1-phosphate lyase 1
+3KB3,PYR1-HAB1
+3KB3,PYR2-HAB1
+1IVO,EGFR (E746-A750del)
+3V4P,Integrin &#945;4&#946;7
+1WWB,BDNF/NT-3 growth factors receptor (TRKB)
+3LCO,Macrophage colony-stimulating factor 1 receptor (c-FMS)
+6KZC,NT-3 growth factor receptor (TRKC)
+4Y8W,Cytochrome P450 21A2
+4PH9,Prostaglandin E synthase/G/H synthase 2
+1CXP,Myeloperoxidase
+1YTV,h-v1b
+4ZZX,Poly [ADP-ribose] polymerase 2 (PARP2)
+3MHK,Poly [ADP-ribose] polymerase tankyrase-2 (TANK2)
+1ERE,Estrogen receptor alpha
+6IO0,Isocitrate dehydrogenase [NADP] cytoplasmic (IDH1)(R132C)
+3UDD,Tankyrase 1 (TNKS1)
+3MHK,Poly [ADP-ribose] polymerase tankyrase-2 (TNKS2)
+2OSS,Bromodomain containing 4
+2I8N,Bromodomain containing 4
+6BFN,Interleukin-1 receptor-associated kinase 1 (IRAK1)
+3JAB,Phosphodiesterase
+2EDI,NEDD8-conjugating enzyme UBE2F
+1S9I,MEK1 (K97R)
+1MT5,Anandamide amidohydrolase (FAAH)
+1US7,Hsp90 co-chaperone
+4RSE,Retinoid isomerohydrolase
+6GCT,Neutral amino acid transporter B(0)
+1TB5,Phosphodiesterase 4B2
+2QYK,Phosphodiesterase 4A
+2KAV,nav 1.7 px
+2KBI,nav 1.5 iwq
+3BZH,E2 ubiquitin-conjugating enzyme E1
+1CM8,Mitogen-activated protein kinase 12
+1G7G,Protein-tyrosine phosphatase 1B (PTP1B)
+4UIY,Bromodomain BRD4
+3PYC,E3 ubiquitin-protein ligase SMURF1
+1CM8,Mitogen-activated protein kinase 12 (p38MAPgamma)
+1UL1,Flap endonuclease 1
+4WSQ,AP2-associated protein kinase 1 (AAK1)
+6M9T,Prostaglandin E2 receptor EP3 subtype
+2QYK,Phosphodiesterase 4 (PDE4)
+5LWP,Nuclear receptor ROR-gamma
+1SSL,Hepatocyte growth factor receptor (cMet)
+2DU8,D-amino-acid oxidase (DAAO)
+1S9I,Retinaldehyde-binding protein 1
+2XDP,Lysine-specific demethylase 4C (JMJD2C)
+1OA8,Ataxin-1
+2D0T,"Indoleamine 2,3-dioxygenase"
+2N5S,Epidermal growth factor receptor (T790M/L858R)
+2LAH,Mitotic checkpoint serine/threonine-protein kinase BUB1
+5J6D,Tryptophan 5-monooxygenase 1
+6IRS,Large neutral amino acids transporter small subunit 1
+1S8O,Epoxide hydrolase
+2I8N,BRD4 - BD1
+2I8N,BRD4 - BD2
+1JYD,spa binding assay for rbp4
+2KAV,fret-membrane potential nav1.7
+1XX9,Coagulation factor XIa
+2UVL,XIAP-BIR2-3
+5ONS,Malignant T-cell-amplified sequence 1
+6MZD,TAF1-BD1 (aa 1381-1497)
+1EQF,Transcription initiation factor TFIID subunit 1
+1CWX,HCV NS5B Mutant(S282T)
+1PBW,PI3-kinase class I
+3EYG,JAK1 (aa850-1154)
+3R1K,N-acetyltransferase Eis
+1HKK,Chitinase 1
+2KAV,Sodium channel alpha subunit
+1DFC,Fascin
+2DN8,Acetyl-CoA carboxylase
+3RGF,CDK8/Cyclin C
+2VUW,haspin
+5IDN,CDK19/Cyclin C
+1HDP,Octamer-binding transcription factor 2 (OCT2)
+1GOL,MAP kinase ERK1
+1IVO,Epidermal growth factor receptor (EGFR)
+1JNK,Mitogen-activated protein kinase 10/Receptor-interacting serine/threonine-protein kinase 1
+2B1P,"c-Jun N-terminal kinase, JNK1"
+1PMN,Mitogen-activated protein kinase 9 (JNK2)
+2PX9,SUMO-activating enzyme subunit 2 (SAE2)
+1DFP,Complement factor D
+4ZG9,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2 (ENPP2)(Autotaxin)
+5DLV,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2
+1WYG,Xanthine oxidase
+1CFH,Coagulation factor IXa
+1TB5,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B2 "
+6AAW,Androgen Receptor
+3IPQ,Liver X receptor (LXR alpha)
+1PQ6,Liver X receptor (LXR beta)
+1Z1L,"3',5'-cyclic phosphodiesterase (PDE2A)"
+2NRU,Interleukin-1 receptor-associated kinase 4 (IRAK4)
+3K0W,MALT lymphoma-associated translocation (MALT1)
+6MHM,Acid ceramidase
+4AU8,Cyclin-T1/Cyclin-dependent-like kinase 5
+5J6D,Tryptophan 5-hydroxylase_UNCURATED
+4V06,Tryptophan 5-hydroxylase 2
+3B0W,TBD
+3MJG,Platelet-derived growth factor receptor beta (PDGFR beta)
+5VCM,"Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase (MGAT2)"
+2KAV,Voltage-gated sodium channel subunit alpha Nav1.7
+5GS9,Cytosolic arginine sensor for mTORC1 subunit 1
+1ERE,Baculoviral IAP repeat-containing protein 2/Estrogen receptor
+5H8F,Glutamate [NMDA] receptor
+1E7V,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform/gamma isoform"
+3N7P,Calcitonin receptor-like receptor (CLR)
+1TB5,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B (PDE4B2)"
+2OSS,BRD4-BD1
+2OSS,BRD4-BD2
+2ENQ,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform/[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial"
+3BIK,Programmed cell death 1 ligand 1
+1TEV,UMP-CMP kinase (CMK1)
+4ZG9,Autotaxin 9 (Ectonucleotide pyrophosphatase/phosphodiesterase family member 2)
+3MJG,VEGF-receptor 2 and PDGF-receptor beta (KDR and PDGFR beta)
+1NFI,emsa
+1NFI,nf-kb gfp
+3GV4,Histone deacetylase 1/6
+6EW3,VIM-2
+2YNT,GIM-1
+1IVO,egfr exon 21 l858r and t790m mutation
+1MWP,Beta-Secretase (AA 1-460)
+5H8F,GluN1/GluN2B NMDA receptor
+1G3N,CDK6/Cyclin D1
+3G33,CDK4/Cyclin D3
+2HK5,SRC
+2FOZ,ADP-ribose glycohydrolase ARH3
+1CM0,Histone acetyltransferase KAT2A/KAT2B
+1Z1L,"3',5'-cyclic phosphodiesterase"
+2O8H,"3',5'-cyclic phosphodiesterase"
+6NMQ,HIF-1alpha-PHD2
+2N5S,EGFR E746-A750del
+2N5S,EGFR S752-I759del
+2N5S,"EFGR (L747-E749del, A750P)"
+2N5S,"EGFR L747-S752del, P753S"
+2N5S,EGFR L747-T750del
+1WWB,Neurotrophic tyrosine kinase receptor
+6KZC,Neurotrophic tyrosine kinase receptor
+5Z02,MDM2/P53
+3NYN,G protein-coupled receptor kinase 6
+2N19,Serine/threonine-protein kinase PLK4
+5JH5,Lysine-specific demethylase 2B
+2AC5,MAP kinase-interacting serine/threonine-protein kinase 1/2
+1GNG,Axin-1/Glycogen synthase kinase-3 beta
+3PWH,Adenosine receptor A2a
+1XQZ,Serine/threonine-protein kinase PIM
+1WYG,Xanthine dehydrogenase
+3QS7,flt3-itd protein iknase
+1EVT,VEGF-receptor 2 and Fibroblast growth factor receptor 1
+1DJS,VEGF-receptor 2 and Fibroblast growth factor receptor 2
+1MQB,Ephrin receptor
+1NUK,Ephrin receptor
+2BBA,Ephrin receptor
+2EKX,Tyrosine-protein kinase BMX
+3GC8,MAP kinase p38
+1FVR,Vascular endothelial growth factor receptor 2 and tyrosine-protein kinase TIE-2 (KDR and TIE2)
+1CY0,DNA topoisomerase 1
+1KZN,DNA Gyrase Subunit B
+1K4S,DNA topoisomerase I
+1ZXM,DNA topoisomerase II
+5D5H,DNA topoisomerase 1
+1FT2,Protein Farnesyltransferase (PFT) Chain B
+1D8D,Geranylgeranyl transferase type I beta subunit/Protein Farnesyltransferase (PFT)
+3IYD,Bacterial DNA-directed RNA polymerase
+2AUK,DNA-directed RNA polymerase subunit beta'
+1JS3,DOPA decarboxylase
+2WGH,Ribonucleoside-diphosphate reductase large subunit
+3O8Y,Arachidonate 5-lipoxygenase
+1D4K,Human immunodeficiency virus type 1 protease
+3N7P,Adrenomedullin receptor AM1; CALCRL/RAMP2
+1XBT,"Thymidine kinase, cytosolic"
+2ZJO,"Hepatitis C virus serine protease, NS3/NS4A"
+1HRH,Human immunodeficiency virus type 1 reverse transcriptase
+6C6N,Squalene monooxygenase
+1CQE,Cyclooxygenase
+6HIN,Serotonin 3a (5-HT3a)/3b (5-HT3b) receptor
+6DG7,Serotonin 3 receptor (5HT3)
+6OIK,Muscarinic acetylcholine receptor
+2Q1L,HMG-CoA reductase
+1KEI,Thermolysin
+4DNL,PKC alpha and beta-2
+4BUO,Neurotensin receptor 1
+2NY5,Envelope polyprotein GP160
+3MPH,Diamine oxidase
+1DDX,Prostaglandin G/H synthase (cyclooxygenase)
+1W4R,"Thymidine kinase, cytosolic"
+1IDP,Scytalone dehydratase
+1R42,Angiotensin-Converting Enzyme 2
+1W6J,Lanosterol synthase
+4ZUD,Type-1 angiotensin II receptor
+1JCQ,Geranylgeranyl transferase type I beta subunit/Protein Farnesyltransferase (PFT)
+1D8D,Protein Farnesyltransferase (PFT)/farnesyltransferase beta subunit
+1CAQ,Matrix metalloproteinase (2 and 3)
+1IBC,Caspase
+3ASX,Squalene synthetase
+2FK9,"Protein kinase C, PKC; classical/novel"
+1YRK,"Protein kinase C, PKC; classical/novel"
+1ESL,Selectin
+1ESL,Selectin E
+3OXQ,Voltage-gated L-type calcium channel
+2XZB,Potassium-transporting ATPase
+1PSN,Pepsinogen A5
+4MQE,GABA-B receptor 1/2
+1DIS,Dihydrofolate reductase
+1CE5,Trypsin I
+5M4G,Xaa-Pro dipeptidase
+3EQM,Cytochrome P450 19A1
+4CTH,Neprilysin
+1CGF,Matrix metalloproteinase (1 and 13)
+2E73,"Protein kinase C, PKC; classical/novel"
+1FYT,Human leukocyte antigen DR beta chain
+3IU1,Peptide N-myristoyltransferase
+3D4J,Mevalonate pyrophosphate decarboxylase
+2C72,Monoamine oxidase
+1EXA,Retinoic acid receptor RXR-alpha/Retinoic acid receptor beta
+1DKF,Retinoic acid receptor alpha/Retinoid X receptor alpha
+2GL8,Retinoid X receptor gamma/retinoic acid receptor alpha
+1DKF,Retinoid receptor
+1EXA,Retinoic acid receptor RXR-alpha/gamma
+1EXA,Retinoid receptor
+1EJN,Urokinase-type plasminogen activator/surface receptor
+1ST3,Subtilisin
+3THC,Beta-galactosidase
+3IHI,Thymidylate synthase
+1MD8,Complement C1r
+4Y8W,Cytochrome P450 21
+1DLH,HLA class II histocompatibility antigen DRB1-1
+1DLH,Human leukocyte antigen DR beta chain
+1J3I,Dihydrofolate reductase
+1FX9,Phospholipase A2
+1Z8L,Glutamate carboxypeptidase II
+1DLA,Aldose reductase
+1VHR,Dual specificity protein phosphatase 3
+6D6T,GABA receptor alpha-1/beta-2/gamma-2 subunit
+6D6T,Gamma-aminobutyric acid receptor subunit alpha-1/ beta-1
+1CGF,Collagenase
+3VG9,Adenosine receptor A2a and A3
+5EC9,Retinoid X receptor gamma
+1UHL,Retinoid X receptor beta
+3OXQ,Voltage-gated calcium channel
+6C1Q,C5a anaphylatoxin chemotactic receptor
+1CKP,CDK2/Cyclin E/G1/S-specific cyclin E2
+1L6J,Matrix metalloproteinase 2/9
+1KIM,Thymidine kinase
+1DNA,Thymidylate synthase
+4H4F,Chymotrypsin C
+5LC5,Mitochondrial complex I; NADH oxidoreductase
+1P0I,Butyrylcholinesterase
+1CRP,GTPase HRas
+1LI4,Adenosylhomocysteinase
+1FRO,Glyoxalase I
+1FS4,Muscle glycogen phosphorylase
+3CEH,Liver glycogen phosphorylase
+3QEL,Glutamate [NMDA] receptor subunit epsilon 2/zeta 1
+1RHY,Imidazoleglycerol-phosphate dehydratase
+1KIG,Coagulation factor X
+1HLK,Beta-lactamase type II
+1CXW,Matrix metalloproteinase 2/9
+3NZK,UDP-3-O-acyl-GlcNAc deacetylase
+1DKF,Retinoid X receptor gamma/retinoic acid receptor alpha
+1U34,Corticotropin releasing factor receptor 2
+4Y72,Cyclin B/Cyclin-Dependent Kinase 1 (CDK1)/G2/mitotic-specific cyclin B2/G2/mitotic-specific cyclin B3
+4DNL,Protein kinase C (PKC)
+4G8K,RNase L
+1CJ1,Growth factor receptor-bound protein 2
+1S9K,Proto-oncogene c-JUN/protein c-fos
+1N3L,Tyrosyl-tRNA synthetase
+3G60,P-glycoprotein (P-gp)
+5AXA,Adenosylhomocysteinase
+4FYQ,Aminopeptidase N
+4FYQ,Aminopeptidase
+5MKT,Renin
+4R3Z,Glutaminyl-tRNA synthetase
+3EDG,Bone morphogenetic protein 1
+3ELO,Phospholipase A2 group 1B
+3D59,LDL-associated phospholipase A2
+1GA0,Beta-lactamase class C
+1JU5,Tyrosine-protein kinase ABL
+1TB5,Phosphodiesterase 4
+1S9J,Dual specificity mitogen-activated protein kinase kinase 1/Mitogen-activated protein kinase 1/RAF proto-oncogene serine/threonine-protein kinase
+1NDE,Estrogen receptor
+4O1L,Adenosine kinase
+1EF3,Aldose reductase
+4MBS,CCR5/mu opioid receptor complex
+1H4W,Trypsin
+1H10,Serine/threonine-protein kinase AKT
+5UGW,Telomerase reverse transcriptase
+2R4S,Beta-adrenergic receptor
+4BY3,Dihydroorotase
+1TRN,Trypsin
+1FYJ,Aminoacyl-tRNA synthetase
+1CQP,Integrin beta-2/Intercellular adhesion molecule-1 /Leukocyte adhesion glycoprotein LFA-1 alpha
+2QYK,Phosphodiesterase 4 and 5 (PDE4 and PDE5)
+1HVY,Thymidylate synthase/GAR transformylase/AICAR transformylase
+1MEJ,Thymidylate synthase/GAR transformylase/AICAR transformylase
+1XLX,Phosphodiesterase 4
+1G3U,Thymidylate kinase
+1I7G,Peroxisome proliferator-activated receptor
+2Z5Y,Monoamine oxidase
+1DK2,DNA polymerase beta
+2HZP,Kynureninase
+1K0U,Adenosylhomocysteinase
+1HAX,Elastase 1
+6OG4,Plasminogen
+5H8F,Glutamate [NMDA] receptor subunit epsilon 1/zeta 1
+1CX2,Prostaglandin G/H synthase (cyclooxygenase)
+2WK5,Thymidine phosphorylase
+2I0E,Protein kinase C (PKC)
+1HKX,CaM kinase II
+1MDR,Mandelate racemase
+2DJV,Methionyl-tRNA synthetase
+1RKP,"cGMP-specific 3',5'-cyclic phosphodiesterase"
+2IE4,"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform"
+3MJG,PDGFR-beta/Platelet-derived growth factor receptor alpha
+1JNK,"c-Jun N-terminal kinase, JNK"
+3G5K,Peptide deformylase mitochondrial
+1EAI,Pancreatic elastase
+4DKL,Opioid receptor
+1P4R,Thymidylate synthase/GAR transformylase/AICAR transformylase
+1OHV,Gamma-amino-N-butyrate transaminase
+1V8B,Adenosylhomocysteinase
+1N46,Thyroid hormone receptor
+1NF7,Inosine-5'-monophosphate dehydrogenase (IMPDH)
+6JXH,Potassium-transporting ATPase alpha chain 1/beta chain
+3OXQ,Voltage-gated L-type calcium channel alpha-1C subunit
+1YK0,Atrial natriuretic peptide receptor 3
+4BGC,Voltage-gated potassium channel
+2C7A,Progesterone receptor
+6I7S,Microsomal triglyceride transfer protein large subunit
+1CVW,Thrombin and coagulation factor VII
+3MF0,Phosphodiesterase 5A
+1ICF,Cathepsin (L and K)
+4O1Z,Cyclooxygenase-1
+1DYN,Dynamin-1
+4ZEL,Dopamine beta-hydroxylase
+1ITQ,Renal dipeptidase
+1N8Z,Epidermal growth factor receptor and ErbB2 (HER1 and HER2)
+3EML,Adenosine A2 receptor
+1E79,Mitochondrial complex V; ATP synthase
+1DR1,Dihydrofolate reductase
+1TAZ,Phosphodiesterase 1
+1SML,Beta-lactamase L1
+6DJA,Beta-lactamase 2
+3CMQ,Phenylalanyl-tRNA synthetase mitochondrial
+2KR6,Gamma-Secretase Subunit APH-1A/Gamma-Secretase Subunit PEN-2/Gamma-Secretase Subunit Presenilin-1/Gamma-secretase subunit APH-1B/Nicastrin /Presenilin 2
+1LCA,Thymidylate synthase
+2FY2,Choline acetylase
+2AK2,Adenylate kinase 2
+6ECH,Pyruvate kinase isozymes R/L
+2RJG,Alanine racemase
+1MSV,S-adenosylmethionine decarboxylase 1
+1XBT,Thymidine kinase
+4RRW,Cyclooxygenase
+4Y97,DNA polymerase (alpha/delta/epsilon)
+1LAM,Aminopeptidase
+1LAM,Leucine aminopeptidase
+5U0V,Bacterial dihydropteroate synthase
+1HDR,Dihydropteridine reductase
+1DHR,Dihydropteridine reductase
+1JQD,Histamine N-methyltransferase
+1ERM,Bacterial beta-lactamase TEM
+1OED,Acetylcholine receptor protein alpha/beta/delta/gamma chain
+1SRZ,GABA-B receptor 1/2
+1PSN,Pepsin A
+6OHT,Anti-estrogen binding site (AEBS)
+4RWA,Opioid receptors; mu/kappa/delta
+1P5Z,Deoxycytidine kinase
+2IAG,Prostaglandin I2 synthase
+1DSY,Protein kinase C (PKC)
+2I0E,"Protein kinase C, PKC; classical"
+1I1N,Protein-beta-aspartate methyltransferase
+2XOA,Ryanodine receptor 1
+3JUS,Cytochrome P450 51
+1PBB,P-hydroxybenzoate hydroxylase
+1HSO,Alcohol dehydrogenase
+1ZAB,Cytidine deaminase
+4PIR,Serotonin 3a (5-HT3a)/3b (5-HT3b)/3c (5-HT3c)/3d (5-HT3d)/3e (5-HT3e) receptor
+3J8X,Tubulin
+1CBI,Cellular retinoic acid-binding protein I
+1DKF,Retinoid X receptor alpha
+6MOP,Cellular retinoic acid-binding protein II
+2O05,Spermidine synthase
+1DMW,Phenylalanine-4-hydroxylase
+1DIA,Methylenetetrahydrofolate dehydrogenase
+2OLU,Penicillin-binding protein
+1FKK,FK506-binding protein 1B
+1SG1,Low affinity neurotrophin receptor p75NTR
+1OPM,Peptidyl-glycine alpha-amidating monooxygenase
+5IKO,Brain glycogen phosphorylase
+1EXA,Retinoic acid receptor gamma
+1EXA,Retinoic acid receptor beta
+1E78,Serum albumin
+1T4E,MDM2-MDMX
+4YQX,Interleukin-2
+1KB3,Pancreatic alpha-amylase
+1CQP,Integrin beta-2/Leukocyte adhesion glycoprotein LFA-1 alpha
+6D6T,GABA receptor alpha-1/beta-3/gamma-2 subunit
+3MWD,ATP-citrate synthase
+1EH6,6-O-methylguanine-DNA methyltransferase
+6C3O,"Potassium channel, inwardly rectifying, subfamily J, member 11/Sulfonylurea receptor 2"
+1OED,Acetylcholine receptor
+1MU2,Human immunodeficiency virus type 2 pol protein
+2QPL,Purine nucleoside phosphorylase
+2B4D,Spermidine/spermine N(1)-acetyltransferase 1
+1DDR,Bacterial dihydrofolate reductase
+1LE6,Group X secretory phospholipase A2
+1PTQ,Protein kinase C delta
+1D3E,"Intercellular adhesion molecule (ICAM-1), Integrin alpha-L/beta-2"
+1DDX,Cyclooxygenase-2
+2ARY,Calpain 1/small subunit 1
+1GTU,Glutathione S-transferase Mu 1
+1XW5,Glutathione S-transferase Mu 2
+1GSD,Glutathione S-transferase (GST)
+1LCI,Luciferin 4-monooxygenase
+1E88,Fibronectin
+1CZM,Carbonic anhydrase I
+1LPA,Pancreatic lipase
+1U67,Cyclooxygenase
+3C59,Glucagon-like peptide 1 receptor (GLP-1)
+4O9R,Smoothened homolog
+1CKP,CDK2/Cyclin A/Cyclin A1
+1II6,Kinesin-like protein 1
+1HTR,Pepsinogen C
+4OGR,Human immunodeficiency virus type 1 Tat protein
+4DJH,Opioid receptor
+1CEE,Cell division control protein 42 homolog
+2O5K,Glycogen synthase kinase-3 beta
+3HI9,ELAV-like protein 1
+3J8X,Tubulin alpha chain /beta chain
+4UYL,14-alpha sterol demethylase
+2JC6,CaM kinase I delta
+4CFE,5'-AMP-activated protein kinase Complex 1
+2BEC,Sodium/hydrogen exchanger 1
+6CZK,Cathepsin (H and K)
+1I09,Glycogen synthase kinase-3
+5LXC,Dual-specificity tyrosine-phosphorylation regulated kinase 2
+6AGF,Voltage-gated sodium channel subunit alpha Nav1.4 (Nav1.4)
+1GZH,CREB-binding protein/p53
+6PWC,Dopamine receptor D2L/neurotensin receptor NTS1
+3N7P,Calcitonin gene-related peptide type 1 receptor/Receptor activity-modifying protein 1
+1POC,Phospholipase A2 (Bee)
+1OXR,"Phospholipase A2, acidic"
+1GW6,Leukotriene A-4 hydrolase
+6I7S,Microsomal triglyceride transfer protein
+1Z5R,Carboxypeptidase B
+2KTY,Serine/threonine-protein kinase VRK1
+2RIP,Dipeptidyl peptidase IV
+4Z1F,"Heat shock protein 75 kDa, mitochondrial"
+2E5E,Advanced glycosylation end product-specific receptor
+2KSR,Nicotinic acetylcholine receptor alpha2/beta2
+2KSR,Neuronal acetylcholine receptor subunit beta-2
+3VNG,Kelch-like ECH-associated protein 1
+2A5S,Glutamate [NMDA] receptor subunit epsilon 1/zeta 1
+3OEK,Ionotropic glutamate receptor NMDA 1/2D
+1FOE,Ras-related C3 botulinum toxin substrate 1/T-lymphoma invasion and metastasis-inducing protein 1
+1IRU,26S proteosome
+4R3O,Proteasome subunit beta type-7
+6AVO,26S proteosome
+3OLJ,Ribonucleoside-diphosphate reductase subunit M2
+2QKH,Gastric inhibitory polypeptide receptor
+3UDD,Tankyrase-1
+3MHK,Tankyrase-2
+1IRU,Proteasome component C5
+1NB8,Ubiquitin carboxyl-terminal hydrolase 7
+2A9U,Ubiquitin carboxyl-terminal hydrolase 8
+5Z4I,Ubiquitin carboxyl-terminal hydrolase 20
+2Y5B,Ubiquitin carboxyl-terminal hydrolase 21
+2VRI,Replicase polyprotein 1a
+3MS5,Gamma-butyrobetaine dioxygenase
+2QFP,Fe(3+)-Zn(2+) purple acid phosphatase
+1D3V,Arginase-1
+2NSM,"Carboxypeptidase N, catalytic subunit"
+1POZ,CD44 antigen
+2JCP,CD44 antigen
+4LY9,Glucokinase regulatory protein
+1S50,Ionotropic glutamate receptor kainate 2/5
+3TIA,Neuraminidase
+2DNV,Chromobox protein homolog 8
+2K28,E3 SUMO-protein ligase CBX4
+1DZ1,Chromobox protein homolog 1
+1CQE,Prostaglandin G/H synthase (cyclooxygenase)
+2F7K,Pyridoxal kinase
+1HIA,Glandular kallikrein
+1FIZ,Acrosin
+4BAE,DNA gyrase subunit B
+2IGQ,Histone-lysine N-methyltransferase EHMT1
+1Y79,Peptidyl-dipeptidase dcp
+2L0R,Antrax lethal toxin
+6N3L,Eukaryotic translation initiation factor 2-alpha kinase 4
+2G95,Nicotinamide phosphoribosyltransferase
+2GVL,Nicotinamide phosphoribosyltransferase
+2ZCO,Dehydrosqualene synthase
+3BJI,Proto-oncogene vav
+3OCS,Tyrosine-protein kinase BTK
+4OON,Penicillin-binding protein 1A
+1YUK,Integrin alpha M/beta-2
+2VA5,Beta-secretase 1
+1EDU,Epsin-1
+2NYY,Botulinum neurotoxin type A
+3S98,Interferon alpha/beta receptor 1
+1LM8,Von Hippel-Lindau disease tumor suppressor/Elongin B/Elongin C
+1LM8,Transcription elongation factor B polypeptide 1
+2GL7,Transcription factor 7-like 2
+1G3J,Catenin beta-1
+1R44,D-alanyl-D-alanine dipeptidase
+1GJO,Fibroblast growth factor receptor
+2C9O,RuvB-like 1
+4F99,Activator of S phase kinase DBF4/Cell division cycle 7-related protein kinase
+1NRG,Pyridoxine-5'-phosphate oxidase
+4KM7,Folate receptor alpha
+1E51,Porphobilinogen synthase
+1W5O,Delta-aminolevulinic acid dehydratase
+1HIG,Interferon gamma
+1F9Q,Platelet factor 4
+1QNK,C-X-C motif chemokine 2
+1EOT,Eotaxin
+1HRJ,C-C motif chemokine 5
+1DOK,C-C motif chemokine 2
+2QCW,Bone morphogenetic protein 6
+1ES7,Bone morphogenetic protein 2
+4L9M,RAS guanyl-releasing protein 1
+1DTO,Human papillomavirus regulatory protein E2
+5J6D,Tryptophan 5-hydroxylase 1
+5TPG,Tryptophan 5-monooxygenase 1
+1KSG,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta"
+3BS1,Accessory gene regulator protein A
+1TRN,Trypsin II
+5Y86,Dual-specificity tyrosine-phosphorylation regulated kinase 3
+2VUW,Serine/threonine-protein kinase haspin
+3RJD,High affinity immunoglobulin gamma Fc receptor I
+4D5L,40S ribosomal protein S27
+3NZ0,JAK1/JAK2/TYK2
+3NZ0,JAK1/TYK2
+3EYG,JAK3/JAK1
+3NZ0,JAK2/TYK2
+1HDY,Alcohol dehydrogenase
+1DEH,Alcohol dehydrogenase
+1D1S,Alcohol dehydrogenase
+1CQP,Integrin alpha-L/beta-2 (LFA-1)
+1YZX,Glutathione S-transferase kappa 1
+2FCI,"1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma-1"
+6C3O,"Potassium channel, inwardly rectifying, subfamily J, member 11/Sulfonylurea receptor 1"
+3A60,Ribosomal protein S6 kinase 2/S6K1
+1FLT,Vascular endothelial growth factor receptor
+5FJV,Neuronal acetylcholine receptor protein alpha-2 subunit/subunit beta-4
+5FQD,Casein kinase I
+1JU5,Breakpoint cluster region protein /Tyrosine-protein kinase ABL
+2XB7,ALK tyrosine kinase receptor/Nucleophosmin
+4B1B,Thioredoxin reductase 2
+2CFY,Thioredoxin reductase
+1M14,Epidermal growth factor receptor erbB1
+6D6T,GABA receptor alpha-1/beta-1/gamma-2 subunit
+1GNG,Glycogen synthase kinase-3
+2W96,Cyclin-dependent kinase 6/G1/S-specific cyclin D1
+3N7P,"Adrenomedullin receptor, AM2; CALCRL/RAMP3"
+5II0,Calcitonin receptor
+1QDV,Voltage-gated potassium channel
+4BGC,Voltage-gated potassium channel subunit Kv1.3
+1DAN,Coagulation factor VII/tissue factor
+2CR9,Poly [ADP-ribose] polymerase-1
+1T8C,Immunoglobulin epsilon Fc receptor
+3GC8,MAP kinase p38 beta
+2ZNL,PA/PB1
+1L9X,Gamma-glutamyl hydrolase
+1HCS,Proto-oncogene tyrosine-protein kinase Src
+2V77,Carboxypeptidase A1
+1UWY,Carboxypeptidase M
+1PMI,Mannose-6-phosphate isomerase
+2BAQ,MAP kinase p38 alpha
+1PMN,JNK2/JNK3
+6C3O,Sulfonylurea receptor 1
+1U3R,Estrogen receptor
+1O7O,"N-acetyllactosaminide alpha-1,3-galactosyltransferase"
+5ZRY,Ephrin receptor
+1UCV,Ephrin receptor
+1KDQ,Beta-chymotrypsin
+2UZ9,Guanine deaminase
+1EVT,Fibroblast growth factor receptor
+2ON3,Ornithine decarboxylase
+4ECK,Dihydrofolate reductase
+4XEM,Alanyl-tRNA synthetase
+6DQJ,"Inositol 1,4,5-trisphosphate receptor"
+2FOM,Dengue virus type 2 NS3 protein
+4Z36,Lysophosphatidic acid receptor 1/lysophosphatidic acid receptor 3
+1YTV,Vasopressin V1 receptor
+5X5O,Mixed lineage kinase 7
+1HV5,Matrix metalloproteinase 11
+6NR8,MHC class II
+1EQ3,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 2
+1PBK,FK506 binding protein 3
+1N1A,FK506 binding protein 4
+1F8A,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1
+4MSP,FK506 binding protein 14
+1E31,Baculoviral IAP repeat-containing protein 5
+1QAM,Erythromycin resistance protein
+1YUB,rRNA adenine N-6-methyltransferase
+1RS8,"Nitric-oxide synthase, endothelial"
+2RC7,NMDA receptor subunit 3A-1 (GluN3A)
+2RC7,Glutamate receptors; NMDA/AMPA
+2XP2,ALK tyrosine kinase receptor
+4DPG,Lysyl-tRNA synthetase
+2I7Q,Choline kinase alpha
+3EAN,"Thioredoxin reductase 1, cytoplasmic"
+3EN3,Glutamate receptor ionotropic AMPA
+1FTJ,Glutamate receptor ionotropic AMPA
+1ERM,Beta-lactamase TEM
+1FPU,Tyrosine-protein kinase ABL1
+1J3I,Dihydrofolate reductase (A16V+S108T)
+3FXJ,Protein phosphatase 2C alpha
+1CN4,Erythropoietin receptor
+3VW6,Mitogen-activated protein kinase kinase kinase 15
+2JRH,Mitogen-activated protein kinase kinase kinase 3
+1JWO,Tyrosine-protein kinase CTK
+6BXI,Serine/threonine-protein kinase 38
+4TPT,LIM domain kinase 2
+1GXC,Serine/threonine-protein kinase Chk2
+5ES1,MAP/microtubule affinity-regulating kinase 4
+6FDM,Serine/threonine-protein kinase RIO2
+2HLQ,Bone morphogenetic protein receptor type-2
+3P1A,Tyrosine- and threonine-specific cdc2-inhibitory kinase
+2X7G,Serine/threonine-protein kinase SRPK2
+6AH0,U4/U6 small nuclear ribonucleoprotein Prp4
+5IP4,Serine/threonine-protein kinase DCLK2
+2WWE,Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit gamma
+5D9H,STE20/SPS1-related proline-alanine-rich protein kinase
+5VDK,Wee1-like protein kinase 2
+1MG4,Serine/threonine-protein kinase DCLK1
+2V3S,Serine/threonine-protein kinase OSR1
+6NFY,Mitogen-activated protein kinase kinase kinase kinase 1
+1CXZ,Protein kinase N1
+3KEX,Epidermal growth factor receptor
+4WZX,Serine/threonine-protein kinase ULK3
+1DF0,Calpain small subunit 1
+3ILW,DNA gyrase subunit A
+4UHW,Aldehyde oxidase
+1X50,Galectin-4
+1USL,Ribose-5-phosphate isomerase B
+1XA6,Rho-GTPase-activating protein 3
+1IJ9,VCAM-1
+6EDX,Serine/threonine-protein kinase Sgk3
+1MRU,Serine/threonine-protein kinase pknB
+1V0O,Cell division control protein 2 homolog
+4UN0,Cyclin-dependent kinase 13
+1LM4,Peptide Deformylase
+1WI0,Dual specificity mitogen-activated protein kinase kinase 5
+5YKS,SNF-related serine/threonine-protein kinase
+4FR4,Serine/threonine-protein kinase 32A
+6D6T,GABA receptor alpha-5/beta-3/gamma-2 subunit
+1DNK,Deoxyribonuclease-1
+1ESG,Type-2 restriction enzyme BamHI
+1CKQ,Type-2 restriction enzyme EcoRI
+2E52,Type-2 restriction enzyme HindIII
+1KGD,Peripheral plasma membrane protein CASK
+2A5S,NMDA receptor subunit N2A (GluN2A)
+1CVW,Coagulation factor III/Factor VIIa (fVIIa)
+2A2K,Dual specificity phosphatase Cdc25B
+1RM8,Matrix metalloproteinase 16
+1H59,Insulin-like growth factor binding protein 5
+1WQJ,Insulin-like growth factor binding protein 4
+1RMJ,Insulin-like growth factor binding protein 6
+2H7T,Insulin-like growth factor binding protein 2
+1ZT3,Insulin-like growth factor binding protein 1
+1FTJ,"Glutamate receptor ionotropic, AMPA 2"
+1LB8,"Glutamate receptor ionotropic, AMPA 4"
+1G3M,Estrogen sulfotransferase
+3AP1,Protein-tyrosine sulfotransferase 2
+6DDT,Beta-mannosidase
+1JXE,Taq polymerase 1
+2EWY,Beta-secretase (BACE)
+1IZ9,Malate dehydrogenase
+1L0K,Lysozyme(L99A)
+2CJE,dUTP pyrophosphatase
+5LC5,NADH-ubiquinone oxidoreductase subunit B14.7
+1IAU,Granzyme B
+2J4O,TGF-beta-activated kinase 1 and MAP3K7-binding protein 1
+1KV6,Estrogen-related receptor gamma
+1L2J,Estrogen receptor
+5A63,Gamma-secretase
+2J2S,Myeloid/lymphoid or mixed-lineage leukemia (MLL)
+5I81,Sphingomyelin phosphodiesterase
+1QXO,Chorismate synthase
+1EXT,Tumor necrosis factor receptor R1
+1DPO,Trypsin II
+1GT8,Dihydropyrimidine dehydrogenase
+1F4L,Methionyl-tRNA synthetase
+3HKB,Tubulin alpha-1 chain
+1FJM,Serine/threonine protein phosphatase PP1-alpha catalytic subunit
+1IHV,Integrase
+3BJ4,KCNQ (Kv7) potassium channel
+2MNG,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+2I2R,Voltage-gated potassium channel
+3MAX,Histone deacetylase
+1GSZ,Squalene-hopene cyclase
+1SQI,4-hydroxyphenylpyruvate dioxygenase
+6OUV,1-deoxy-D-xylulose-5-phosphate synthase
+2C82,1-deoxy-D-xylulose 5-phosphate reductoisomerase
+3GNS,Enoyl-ACP reductase
+1TG8,Genome polyprotein
+1ZVM,Lymphocyte differentiation antigen CD38
+1F2Q,"IgE Fc receptor, alpha-subunit"
+4KMY,Folate receptor beta
+5XTE,Cytochrome b-c1 complex subunit 7
+1CZM,Carbonic anhydrase
+1Q3H,Cystic fibrosis transmembrane conductance regulator
+1HUF,Secreted effector protein
+3DAI,ATPase family AAA domain-containing protein 2
+3LXJ,ATPase family AAA domain-containing protein 2B
+4LZ2,Bromodomain adjacent to zinc finger domain protein 2A
+2E7O,Bromodomain adjacent to zinc finger domain protein 2B
+2F6J,Nucleosome-remodeling factor subunit BPTF
+5MQ1,Bromodomain-containing protein 7
+4UIT,Bromodomain-containing protein 9
+3NXB,Cat eye syndrome critical region protein 2
+1F68,Histone acetyltransferase KAT2A
+2KTB,Protein polybromo-1
+1CM0,Histone acetyltransferase PCAF
+4QY4,Probable global transcription activator SNF2L2
+3HMH,Transcription initiation factor TFIID subunit 1-like
+3U5M,E3 ubiquitin-protein ligase TRIM33
+3Q2E,Bromodomain and WD repeat-containing protein 1
+1TYF,ATP-dependent Clp protease proteolytic subunit
+3T05,Pyruvate kinase
+2VGB,Pyruvate kinase PKLR
+3FXI,Toll-like receptor 4
+2Z64,Toll-like receptor 4/MD-2/CD14
+1N8Z,Epidermal growth factor receptor
+2FN0,"Salicylate synthetase, Irp9"
+1ECM,P-protein
+1IJA,Sortase
+1O7D,Lysosomal alpha-mannosidase
+1FCX,Retinoic acid receptor gamma
+1DSZ,Retinoic acid receptor alpha
+1XDK,Retinoid X receptor gamma
+1NYX,Peroxisome proliferator-activated receptor gamma
+1FFX,Tubulin beta chain
+3AV4,DNA (cytosine-5)-methyltransferase 1
+3MTS,Histone-lysine N-methyltransferase SUV39H1
+3FLG,DNA (cytosine-5)-methyltransferase 3B
+4QBQ,DNMT3A2/3L complex
+1FBZ,Tyrosine-protein kinase LCK
+6C01,Ectonucleotide pyrophosphatase/phosphodiesterase family member 3
+2OC3,Tyrosine-protein phosphatase non-receptor type 18
+1YBW,Hepatocyte growth factor activator
+1EVU,Coagulation factor XIII
+1L7L,PA-I galactophilic lectin
+1D0I,3-dehydroquinate dehydratase
+3V4P,Integrin beta-7
+4WJK,Integrin beta-1
+1DGI,Poliovirus type 1 polyprotein
+4JZB,Farnesyl pyrophosphate synthase
+2BXR,Imidazoline I2-receptor
+6OAU,Lipoprotein lipase
+3L6B,Serine racemase
+1HL4,Superoxide dismutase
+2K86,Forkhead box protein O3
+3FEC,NAALADase II
+4RWA,Mu-type opioid receptor (Mu)
+1GSB,Glutathione S-transferase Mu 1
+3A1J,Cell cycle checkpoint protein RAD1
+2KV2,Bloom syndrome protein
+2AXL,Werner syndrome ATP-dependent helicase
+3T1I,Double-strand break repair protein MRE11A
+5ZBG,Short transient receptor potential channel 3
+2HJH,NAD-dependent histone deacetylase SIR2
+4LVN,Subtilisin-like serine protease
+2J0E,6-phosphogluconolactonase
+1HQQ,Streptavidin
+2BZG,Thiopurine S-methyltransferase
+6J02,Scavenger receptor type A
+1E8C,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+2ORX,Neuropilin-1
+4LXL,Lysine-specific demethylase 4B
+1VA5,Fibonectin-binding protein C
+3LXG,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A"
+1CP4,Cytochrome P450-cam
+3IS3,17-beta-hydroxysteroid-dehydrogenase
+4QRD,Methionyl-tRNA synthetase
+4PIR,Serotonin 3a (5-HT3a)/3b (5-HT3b) receptor
+2E73,Protein kinase C gamma
+2V6O,Thioredoxin glutathione reductase
+2XKY,Inward rectifier potassium channel 2
+3CW4,Polymerase basic protein 2
+2W8N,Succinate semialdehyde dehydrogenase
+3MQ4,Metabotropic glutamate receptor 7 (mGlu7)
+4BXI,Receptor-histidine kinase AgrC
+1G5W,Fatty acid binding protein muscle
+4AWN,Deoxyribonuclease-1
+3UEK,Poly(ADP-ribose) glycohydrolase
+1HCP,Estrogen receptor
+1CFP,S-100 protein beta chain
+2NV5,Receptor-type tyrosine-protein phosphatase S
+1DPI,DNA polymerase I
+5X2L,Serine racemase
+5N6R,Bcr/Abl fusion protein
+2YS1,Dynamin-2
+4P5E,2'-deoxynucleoside 5'-phosphate N-hydrolase 1
+1CQP,Intercellular adhesion molecule-1 /Leukocyte adhesion glycoprotein LFA-1 alpha
+2EWO,Putative agmatine deiminase
+4URL,DNA topoisomerase 4 subunit B (parE)
+1S16,DNA Topoisomerase IV Subunit B
+1H2M,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha"
+1HN6,Apical membrane antigen 1
+3WXV,Adiponectin receptor protein 1
+3WXW,Adiponectin receptor protein 2
+1RXD,Protein tyrosine phosphatase type IVA 1
+1ZCL,Protein tyrosine phosphatase type IVA 2
+1R6H,Protein-tyrosine phosphatase 4A3
+2B1P,c-Jun N-terminal kinase 3
+1E9H,Cyclin-A2
+4YMK,Acyl-CoA desaturase 1
+1DHP,Dihydrodipicolinate synthase
+1H2M,Hypoxia-inducible factor 1 alpha
+1DSB,Thiol:disulfide interchange protein DsbA
+3B8E,Sodium/potassium-transporting ATPase alpha-1 chain
+4L3V,Cystathionine beta-synthase
+1XWD,Follicle stimulating hormone receptor
+6RZ6,Cysteinyl leukotriene receptor 2
+6RZ4,Cysteinyl leukotriene receptor 1
+1S1C,Rho-associated protein kinase 2/Rho-kinase (ROCK I)
+1JNK,c-Jun N-terminal kinase 3
+4NAB,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1
+2K86,Forkhead box protein O1
+1F5F,Testis-specific androgen-binding protein
+5KTF,Scavenger receptor class B member 1
+2L80,Ubiquitin carboxyl-terminal hydrolase 13
+2AYN,Ubiquitin carboxyl-terminal hydrolase 14
+1R2R,Triosephosphate isomerase
+1W2S,Complement C3
+3HH2,Growth/differentiation factor 8
+2I7N,Pantothenate kinase 1
+2I7P,Pantothenate kinase 3
+5E26,"Pantothenate kinase 2, mitochondrial"
+1OZ6,Phospholipase A2
+5X68,Kynurenine 3-monooxygenase
+4Y72,Cyclin B/Cyclin-Dependent Kinase 1 (CDK1)/G2/mitotic-specific cyclin B2/G2/mitotic-specific cyclin B3/cAMP-dependent protein kinase alpha-catalytic subunit
+2OW9,Matrix metalloproteinase 13
+1H05,3-dehydroquinate dehydratase
+2OO4,Neurogenic locus notch homolog protein 2
+3JBR,Voltage-dependent calcium channel alpha2delta subunit
+1CWN,Aldehyde reductase
+3H8Q,Thioredoxin reductase 3
+1YGH,Histone acetyltransferase GCN5
+4X2Q,Retinal dehydrogenase 2
+5FHZ,Aldehyde dehydrogenase family 1 member A3
+2YD0,Endoplasmic reticulum aminopeptidase 1
+4E36,Endoplasmic reticulum aminopeptidase 2
+2DQ6,Aminopeptidase N
+2WGH,Ribonucleoside-diphosphate reductase M1 chain/Ribonucleoside-diphosphate reductase M2 chain/Ribonucleotide reductase
+1F16,Apoptosis regulator BAX
+1NHG,Enoyl-acyl-carrier protein reductase
+1YAG,beta-actin
+5FBH,Calcium sensing receptor
+6U23,Macrophage-expressed gene 1 protein
+1FYW,Toll-like receptor 2 (TLR2)
+1GYN,Fructose-bisphosphate aldolase class 2
+1ZAH,Fructose-bisphosphate aldolase A
+1RLU,Cell division protein FtsZ
+4YTP,Succinate-ubiquinone oxidoreductase
+1ZOY,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial"
+4F0X,Malonyl-CoA decarboxylase
+3BLJ,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD7 or PARP15)
+3O3R,Aldose reductase-related protein 1
+3WJA,NADP-dependent malic enzyme
+2UV0,Transcriptional activator protein lasR
+1LYV,Tyrosine-protein phosphatase yopH
+1IT6,Serine/threonine protein phosphatase PP1-gamma catalytic subunit
+5HTK,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2"
+6JP8,Voltage-gated calcium channel alpha2/delta subunit 1
+1S48,Bovine viral diarrhoea virus polyprotein
+1VSM,Avian myoblastosis virus polyprotein II
+1ICF,HLA-DR antigens-associated invariant chain
+1J2Y,3-dehydroquinate dehydratase
+1QY8,Heat shock protein 90 beta
+2O1U,Endoplasmin
+2A8B,Receptor-type tyrosine-protein phosphatase R
+4TQ9,GTPase KRas
+1F2J,"Fructose-bisphosphate aldoloase, glycosomal"
+4OR9,Serine/threonine protein phosphatase PP2B-alpha catalytic subunit
+2I2R,Voltage-gated potassium channel subunit Kv4.3
+2JIH,ADAMTS1
+1W0E,Cytochrome P450 3A7
+1CQT,"POU domain, class 2, transcription factor 1"
+1HDP,"POU domain, class 2, transcription factor 2"
+5A9D,Solute carrier family 15 member 1
+3IUC,78 kDa glucose-regulated protein
+2C72,Monoamine oxidase B
+2ZEB,Tryptase beta-1/beta-2
+3J6R,Major capsid protein L1
+4TZI,Tyrosine-protein kinase Lyn
+4FL2,Tyrosine-protein kinase SYK
+1CSK,Tyrosine-protein kinase CSK
+3OM0,Glutamate receptor ionotropic kainate 5
+1FNT,Proteasome Macropain subunit
+1FNT,Proteasome component C5
+1G0U,Proteasome Macropain subunit PRE2
+1NOU,Beta-N-acetyl-D-hexosaminidase-A/B
+5WZM,Group IIE secretory phospholipase A2
+1IRU,Proteasome Macropain subunit
+4IIB,Beta-glucosidase
+1IE0,S-ribosylhomocysteine lyase
+2GRC,Transcription activator BRG1
+1KEX,Neuropilin-1
+2V5F,Prolyl 4-hydroxylase subunit alpha-1
+1FAP,Mammalian target of Rapamycin (mTORC1)
+2PNG,Fatty acid synthase
+2Z5Y,Monoamine oxidase A
+2ENQ,PI3-kinase p110-alpha subunit
+1NYS,Inhibin beta A chain
+4URL,Topoisomerase IV
+1FYN,Tyrosine-protein kinase FYN
+3HCS,TNF receptor-associated factor 6
+2V0V,Nuclear receptor subfamily 1 group D member 2
+6QS9,Serum albumin
+1EW2,Alkaline phosphatase placental type
+1MO7,"Na,K-ATPase isoform alpha-1 (&#945;1)"
+4FU4,Matrix metalloproteinase 13
+1MMI,DNA polymerase III subunit beta
+2VOY,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2
+1IWO,Sarcoplasmic/endoplasmic reticulum calcium ATP-ase
+2N3J,Heat shock protein beta-1
+2EXE,Dual specificity protein kinase CLK3
+2G7P,botulinum neurotoxin type A
+1F62,Tyrosine-protein kinase BAZ1B
+3CF6,Rap guanine nucleotide exchange factor 4
+6L96,Peroxisome proliferator-activated receptor alpha
+2BAW,Peroxisome proliferator-activated receptor delta
+6AVO,Proteasome subunit beta type-9
+6AVO,Proteasome subunit beta type-10
+1J90,Deoxynucleoside kinase
+3TSB,Inosine-5'-monophosphate dehydrogenase
+3FFS,"Inosine-5'-monophosphate dehydrogenase, probable"
+1OGS,Glucosylceramidase
+6KJV,Glucagon-like peptide 1 receptor
+1TEY,Histone chaperone ASF1A
+1F4R,DNA-3-methyladenine glycosylase
+1JV2,Integrin alpha-V
+2NZT,Hexokinase-2
+1YFK,Phosphoglycerate mutase 1
+1YVL,Signal transducer and activator of transcription 1-alpha/beta
+1P97,Endothelial PAS domain-containing protein 1
+5TIN,Glycine receptor alpha-2 chain
+4D2O,PER-2 beta-lactamase
+4RXY,Carbonic anhydrase
+4ODE,E3 ubiquitin-protein ligase Mdm2
+3IUX,E3 ubiquitin-protein ligase Mdm2
+3E2I,Thymidine kinase
+1IQA,Tumor necrosis factor ligand superfamily member 11
+1F9X,Inhibitor of apoptosis protein 3
+1UA2,Cyclin-dependent kinase 7
+4HBT,Beta-lactamase
+1EJ1,Eukaryotic translation initiation factor 4E
+4IBX,Beta-lactamase TEM-125
+3UUE,"LIP1, secretory lipase (Family 3)"
+5TVT,Maternal embryonic leucine zipper kinase
+1S9I,Dual specificity mitogen-activated protein kinase kinase 1
+2OV5,Carbepenem-hydrolyzing beta-lactamase KPC
+1NKO,Sialic acid-binding Ig-like lectin 7
+2LDU,Heat shock factor protein 1
+1F0M,Ephrin type-B receptor 2
+1CJW,Serotonin N-acetyltransferase
+3OEK,NMDA receptor subunit 2D (GluN2D)
+1ZCD,Na(+)/H(+) antiporter nhaA
+3LFM,Alpha-ketoglutarate-dependent dioxygenase FTO
+6MC9,Sodium channel protein type 4 subunit alpha
+2HG8,"Branched-chain-amino-acid aminotransferase, mitochondrial"
+3L1A,BirA bifunctional protein
+2LFG,Prolactin receptor
+2D5R,CCR4-NOT transcription complex subunit 7
+3C59,Glucagon-like peptide 1 receptor
+5Z62,Cytochrome c oxidase subunit 2
+1HT6,Alpha-amylase type A isozyme
+1PKL,Pyruvate kinase
+2HIG,6-phospho-1-fructokinase
+1R6K,Regulatory protein E2
+4GDX,Gamma-glutamyltranspeptidase 1
+4XZ5,"Carbonic anhydrase, alpha family"
+1GBN,"Ornithine aminotransferase, mitochondrial"
+6I54,Nucleoprotein
+6H42,Queuine tRNA-ribosyltransferase
+4YK5,Microsomal prostaglandin E synthase-1
+2XX3,Thymidylate kinase
+4DKL,Mu-opioid receptor
+1EXU,IgG receptor FcRn large subunit p51
+4Y5U,Signal transducer and activator of transcription 6
+2B4N,Gastric inhibitory polypeptide
+1HLC,Galectin-2
+2XA4,Tyrosine-protein kinase JAK2
+1K8T,Calmodulin-sensitive adenylate cyclase
+4Y97,DNA polymerase alpha subunit
+6S1M,DNA polymerase delta subunit 1
+2ZNL,Polymerase acidic protein
+2KW6,Cyclin-dependent kinase 2-associated protein 1
+3IPQ,Liver X receptor
+3LW0,Insulin-like growth factor 1 receptor
+1T5C,Centromere-associated protein E
+2EH0,Kinesin-like protein KIF1B
+1MKJ,Kinesin-1 heavy chain
+2KIN,Kinesin heavy chain isoform 5A
+2HEH,Kinesin-like protein KIF2C
+6S1M,DNA polymerase delta catalytic subunit
+1T94,DNA polymerase kappa
+1T3N,DNA polymerase iota
+5TC4,"Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial"
+1UA2,Cyclin-dependent kinase
+2KLD,Polycystin-2
+4UY9,Mitogen-activated protein kinase kinase kinase 9
+1MW4,Growth factor receptor-bound protein 7
+1NRV,Growth factor receptor-bound protein 10
+1V7P,Integrin alpha-2/beta-3
+6B9O,Alpha-mannosidase
+5X61,Acetylcholinesterase
+2BDG,Kallikrein 4
+3O5D,Peptidyl-prolyl cis-trans isomerase FKBP5
+1CVI,Prostatic acid phosphatase
+4J2W,Human diphtheria toxin-like ADP-ribosyltransferase (ARTD10 or PARP10)
+1F88,Rhodopsin
+1DGB,Catalase
+4JS1,"Beta-galactoside alpha-2,6-sialyltransferase 1"
+1H0M,Transcriptional activator protein traR
+2PML,Putative uncharacterized protein pk7
+3MOS,Transketolase
+4DD8,Disintegrin and metalloproteinase domain-containing protein 8
+1IU0,Disks large homolog 4
+2JGZ,G2/mitotic-specific cyclin-B1
+1QX7,Small conductance calcium-activated potassium channel protein 2
+2I4I,ATP-dependent RNA helicase DDX3X
+3JSL,DNA ligase
+3KS9,Metabotropic glutamate receptor 1
+6MZB,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha"
+2IKC,Lactoperoxidase
+1NAV,Gag polyprotein
+2X7R,Envelope glycoprotein gp160
+1CES,Concanavalin-A
+3E3U,Peptide deformylase
+2E9L,Beta-glucosidase cytosolic
+6APX,Dual specificity protein phosphatase 1
+5TGZ,Cannabinoid receptor
+4JKV,Smoothened homolog
+1XB0,Baculoviral IAP repeat-containing protein 8
+4G7A,Carbonate dehydratase
+1WMA,Carbonyl reductase [NADPH] 1
+2JFX,Glutamate racemase
+1EFY,Poly [ADP-ribose] polymerase 1
+1GQT,Ribokinase
+2LRU,Serine/threonine-protein kinase WNK1
+5O1V,Serine/threonine-protein kinase WNK3
+1WXM,RAF serine/threonine protein kinase
+2I53,Cyclin-K
+1FBC,"Fructose-1,6-bisphosphatase 1"
+4BTJ,Tau-tubulin kinase 1
+1W98,CDK1/Cyclin E
+1LL8,PAS domain-containing serine/threonine-protein kinase
+4COS,Protein kinase C-binding protein 1
+2FK9,Protein kinase C eta type
+3QP1,CviR transcriptional regulator
+1FEX,Telomeric repeat-binding factor 2-interacting protein 1
+3MHK,Tankyrase 1/2
+2PQF,Poly [ADP-ribose] polymerase 12
+1XJV,Protection of telomeres protein 1
+1D1P,Low molecular weight phosphotyrosine protein phosphatase
+1MIL,SHC-transforming protein 1
+2L31,Poly [ADP-ribose] polymerase 1
+1DF7,Dihydrofolate reductase
+1EZM,Pseudolysin
+1I1R,Interleukin-6 receptor subunit beta
+2X7F,TRAF2- and NCK-interacting kinase
+4RRW,Cyclooxygenase-2
+1RD6,Chitinase A
+4AXN,Chitinase C1
+1GUX,Histidine-tagged Rb
+4GU0,Lysine-specific histone demethylase 1B
+3GVP,Adenosylhomocysteinase 2
+2IUK,Seed linoleate 9S-lipoxygenase
+2JSD,Matrix metalloproteinase-20
+1D3E,Genome polyprotein
+2BJI,Inositol-1(or 4)-monophosphatase 1
+1I10,L-lactate dehydrogenase A chain
+1DQ8,HMG-CoA reductase
+3S2K,Low-density lipoprotein receptor-related protein 6
+1DT7,Protein S100-B
+4V2Y,Cereblon isoform 4
+1TBN,Protein kinase C gamma
+3DXT,Lysine-specific demethylase 4D
+1R46,Alpha-galactosidase A
+4NFE,Kallikrein 2
+2ZCH,Prostate specific antigen
+1L2E,Kallikrein 6
+2OU2,Histone acetyltransferase KAT5
+5FM2,Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET
+1MKE,Neural Wiskott-Aldrich syndrome protein
+4AU8,Cyclin-dependent kinase
+3RGF,Cyclin-C
+1YJL,Peptidyl-glycine alpha-amidating monooxygenase
+1QX7,Small conductance calcium-activated potassium channel
+5EQG,Glucose transporter
+5XPR,Endothelin receptor ET-B
+1QX7,Small conductance calcium-activated potassium channel protein 2 (KCa2.2)
+2H40,Phosphodiesterase 5A
+2IW5,REST corepressor 1
+3H91,Chromobox protein homolog 2
+3GV6,Chromobox protein homolog 6
+2K1B,Chromobox protein homolog 7
+3FXI,Lymphocyte antigen 96
+1I73,Collagenase
+4X41,Protein arginine N-methyltransferase 8
+4X90,Lysosomal phospholipase A2
+4HCR,Mucosal addressin cell adhesion molecule-1
+1I0E,Creatine kinase M
+2G6Q,Inhibitor of growth protein 2
+1UKL,Sterol regulatory element-binding protein 2
+3PG4,Metallo-beta-lactamase type 2
+5INO,Tyrosyl-DNA phosphodiesterase 2
+6DHU,Tyrosyl-DNA phosphodiesterase 1
+2YPD,Probable JmjC domain-containing histone demethylation protein 2C
+4BZ5,Histone deacetylase 8
+3VW8,TPR/MET fusion protein
+1HKB,Hexokinase type I
+4FDN,Decaprenylphosphoryl-beta-D-ribose oxidase
+1N40,Cytochrome P450 121
+5SYM,Lysosomal phospholipase A1
+2RNL,Amphiregulin
+6RZ6,Cysteinyl leukotriene receptor
+3G33,Cyclin-dependent kinase 4/cyclin D2
+2GL8,Retinoid X receptor
+1IB1,14-3-3 protein beta/alpha
+2BTP,14-3-3 protein theta
+2C63,14-3-3 protein eta
+1YWT,14-3-3 protein sigma
+1L6O,Segment polarity protein dishevelled homolog DVL-1
+1FSH,Segment polarity protein dishevelled homolog DVL-1
+4F1H,Tyrosyl-DNA phosphodiesterase 2
+4XT1,Human herpesvirus 5 chemokine receptor
+4BW5,Potassium channel subfamily K member 10
+1EQ0,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+1ZUH,Shikimate kinase
+1WQU,Tyrosine-protein kinase FES
+3HIL,Ephrin receptor
+1Q74,LmbE-related protein
+1JM7,Breast cancer type 1 susceptibility protein
+3S5N,"4-hydroxy-2-oxoglutarate aldolase, mitochondrial"
+1JX6,Autoinducer 2-binding periplasmic protein luxP
+6GWM,Receptor-interacting serine/threonine-protein kinase 2
+1HDH,Arylsulfatase
+1E3U,Beta-lactamase OXA-10
+2BLM,Beta-lactamase
+3B6U,Kinesin-like protein KIF3B
+2GLI,Zinc finger protein GLI1
+1H81,Polyamine oxidase
+1MAS,Inosine-uridine preferring nucleoside hydrolase
+1U0R,Inorganic polyphosphate/ATP-NAD kinase
+1FXW,Platelet-activating factor acetylhydrolase IB subunit beta
+3UDD,Tankyrase 1/2
+1V7P,Integrin alpha2
+1ZKX,Botulinum neurotoxin type E
+5EN4,17-beta-hydroxysteroid dehydrogenase 14
+4E36,Aminopeptidase
+2YD0,Aminopeptidase
+1JCZ,Carbonic anhydrase
+2WIF,Cholinesterase
+1SK7,Heme oxygenase
+3C4W,Rhodopsin kinase
+1ZXA,cGMP-dependent protein kinase 1 beta
+5HE3,Beta-adrenergic receptor kinase 1
+4WNK,G protein-coupled receptor kinase 5
+5CVL,Ubiquitin carboxyl-terminal hydrolase 1/WD repeat-containing protein 48
+3JAA,DNA polymerase eta
+1U76,Proliferating cell nuclear antigen
+4XDE,Coagulation factor XII
+5IWL,Leukocyte surface antigen CD47
+1E7U,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"
+4ZZH,NAD-dependent deacetylase sirtuin 1
+3GLR,NAD-dependent deacetylase sirtuin 3
+1KXU,CDK-activating kinase assembly factor MAT1/Cyclin H/Cyclin-dependent kinase 7
+4Y72,Cyclin-dependent kinase 1/G1/S-specific cyclin-D1
+3G33,Cyclin-dependent kinase 4/G1/S-specific cyclin-E1
+3FDT,Chromobox protein homolog 5
+2MJ8,Chromodomain Y-like protein 2
+2GTR,Chromodomain Y-like protein
+2L11,Chromobox protein homolog 3
+2FBM,Testis-specific chromodomain protein Y 1
+1EF7,Cathepsin Z
+1K3B,Dipeptidyl peptidase 1
+3HBR,Beta-lactamase
+1DLR,Dihydrofolate reductase
+3MAX,Histone deacetylase 1/2/3
+1ZE3,Type 1 fimbiral adhesin FimH
+5TTB,Yersiniabactin biosynthetic protein
+1HE7,High affinity nerve growth factor receptor
+6OT2,Heat sensitive channel TRPV3
+1F81,CREB-binding protein/Histone acetyltransferase p300
+2QD0,CDGSH iron-sulfur domain-containing protein 1
+6DJP,Integrin beta-8
+4A80,Major pollen allergen Bet v 1-A
+1DM0,Shiga toxin subunit A
+2FFU,Polypeptide N-acetylgalactosaminyltransferase 2
+1FD9,Outer membrane protein MIP
+1F68,Histone acetyltransferase KAT2A/KAT2B
+1L3E,Histone acetyltransferase p300/Hypoxia-inducible factor 1-alpha
+1U6D,Kelch-like ECH-associated protein 1
+4OFF,CGMP-dependent protein kinase
+3UNF,Proteasome subunit beta type-8
+5JHN,Histone-lysine N-methyltransferase EHMT2
+5FM2,Coiled-coil domain-containing protein 6/Tyrosine-protein kinase receptor RET
+1FM6,PPAR alpha/gamma
+1PQ6,Retinoic acid receptor RXR-alpha/oxysterols receptor LXR-beta
+3IPQ,Retinoic acid receptor RXR-alpha/oxysterols receptor LXR-alpha
+1MIQ,Aspartic protease PM4
+3FNS,HAP protein (Putative aspartic proteinase)
+2K89,Phospholipase A-2-activating protein
+4N20,Protein-arginine deiminase type-2
+1W79,D-alanyl-D-alanine carboxypeptidase
+1K25,Penicillin-binding protein 2x
+2A8I,Threonine aspartase 1
+4A5L,Thioredoxin reductase
+1DPW,Lysozyme (hen egg)
+1H9V,Low affinity immunoglobulin gamma Fc region receptor II-a
+1E4J,Low affinity immunoglobulin gamma Fc region receptor III-B
+1SO2,Phosphodiesterase 3
+1SO2,Phosphodiesterase 3 and 5 (PDE3 and PDE5)
+4CFE,AMPK alpha2/beta1/gamma1
+4XP7,tRNA-dihydrouridine(20) synthase [NAD(P)+]-like
+3JBR,Voltage-dependent L-type calcium channel subunit alpha-1S
+4DNL,"Protein kinase C, PKC; classical/novel"
+1DZG,Coagulation factor X/antithrombin III
+1N1X,Seminal ribonuclease
+2HLD,"ATP synthase subunit beta, mitochondrial"
+1KPP,Tumor susceptibility gene 101 protein
+2QYL,Phosphodiesterase 4
+4MJS,Protein kinase C (PKC)
+1TBN,Protein kinase C (PKC)
+1UDT,Phosphodiesterase 2 and 5 (PDE2 and PDE5)
+1OXN,Baculoviral IAP repeat-containing protein 7
+2QS9,Putative hydrolase RBBP9
+1RCJ,Beta-lactamase SHV-5
+1JSC,"Acetolactate synthase catalytic subunit, mitochondrial"
+2Z5E,Proteasome assembly chaperone 3
+1W19,"6,7-dimethyl-8-ribityllumazine synthase"
+2I39,N1L
+1FSP,KinA/Spo0F (sporulation kinase A/sporulation initiation phosphotransferase F)
+2VLG,Sporulation kinase A
+2XE6,Phosphoglycerate kinase
+2WZB,Phosphoglycerate kinase 1
+3HWO,Isochorismate synthase entC
+1ET0,Aminodeoxychorismate lyase
+1KIT,Sialidase
+2B8T,Thymidine kinase
+4MP2,Pyruvate dehydrogenase kinase
+2OLU,PBP2
+4ZUA,Exoenzyme S synthesis regulatory protein exsA
+6JMQ,L-type amino acid transporter 1
+2ZNS,Glutamate receptor ionotropic kainate
+1RU7,Hemagglutinin
+3G60,P-glycoprotein 1 and 3 (MDR1a/MDR1b)
+1W9C,Exportin-1
+1S9J,Serine/threonine-protein kinase RAF and Dual specificity mitogen-activated protein kinase kinase 1 (Raf/MEK)
+3INV,Bifunctional dihydrofolate reductase-thymidylate synthase
+5TRO,Cell division protein FtsI (Peptidoglycan synthetase)
+1KUL,Glucoamylase
+1EUB,Matrix metalloproteinase (1 and 13)
+1INF,Neuraminidase
+3JYH,Dipeptidyl peptidase II and dipeptidyl peptidase IV (DPP2 and DPP4)
+1X8G,Beta-lactamase
+1GY8,UDP-galactose 4-epimerase
+1TB5,Phosphodiesterase 4 and 5 (PDE4 and PDE5)
+1N4K,"Inositol 1,4,5-trisphosphate receptor type 1"
+1PGN,"6-phosphogluconate dehydrogenase, decarboxylating"
+2A5S,Glutamate NMDA receptor; Grin1/Grin2a
+1M9J,"Nitric-oxide synthase, endothelial"
+6FWT,"Beta-1,4-galactosyltransferase 1"
+1D3E,Intercellular adhesion molecule-1 /Leukocyte adhesion glycoprotein LFA-1 alpha
+3QD6,Tumor necrosis factor receptor superfamily member 5
+2PK9,Cyclin-dependent protein kinase PHO85
+1F3W,Pyruvate kinase isozymes M1/M2
+3VG9,Adenosine receptor
+5LF5,Myelin-associated glycoprotein
+5WBU,Proline-rich AKT1 substrate 1
+1N9B,Beta-lactamase
+1RCJ,Beta-lactamase SHV-55
+1HET,Alcohol dehydrogenase
+1CKR,Heat shock cognate 71 kDa protein
+1Q51,"1,4-Dihydroxy-2-naphthoyl-CoA synthase"
+1Z6B,Fatty acid synthase
+5ECC,Dihydrofolate reductase type 1
+5MXQ,Class B carbapenemase VIM-13
+2H0T,Beta-lactamase SHV-11
+2UY2,Endochitinase
+1EBV,Cyclooxygenase-1
+1CI1,"Triosephosphate isomerase, glycosomal"
+1DEH,Alcohol dehydrogenase S chain
+1E1P,Prion protein
+2OV5,Class A carbapenemase KPC-2
+5IY6,DNA-directed RNA polymerase II subunit RPB1
+3NRZ,Xanthine dehydrogenase/oxidase
+4FIX,UDP-galactofuranosyl transferase GlfT2
+2QAD,Envelope glycoprotein gp160
+2ADA,Adenosine deaminase
+1IX1,Peptide deformylase
+4NET,ADC-14 protein
+4QD4,ADC-16 protein
+5G1M,Beta-hexosaminidase
+5FA7,Extended-spectrum beta-lactamase CTX-M-53
+4QNP,Neuraminidase
+3CKZ,Neuraminidase
+4QD4,Beta-lactamase ADC-33
+4QD4,ADC-11
+2KSR,Nicotinic acetylcholine receptor beta-2 (&#946;2 nAChR)
+1GX3,Arylamine N-acetyltransferase
+1W4T,Arylamine N-acetyltransferase
+3AHQ,ERO1-like protein alpha
+5XPR,Endothelin B receptor
+3O96,RAC-alpha serine/threonine-protein kinase
+1OKT,Glutathione S-transferase
+2QVI,Cadherin-2
+1RV6,Placenta growth factor
+3O70,PHD finger protein 13
+2PMW,Subtilisin/kexin type 9
+2WGP,Dual specificity protein phosphatase 14
+1N8T,Glucose-6-phosphate isomerase
+1PGJ,"6-phosphogluconate dehydrogenase, decarboxylating, putative"
+2WGH,Ribonucleoside-diphosphate reductase M1 chain/Ribonucleotide reductase
+5Z62,Cytochrome c oxidase subunit 1
+1W8J,Myosin-Va
+1K3T,"Glyceraldehyde-3-phosphate dehydrogenase, glycosomal"
+2ENG,Endoglucanase-5
+1KLF,Adhesin protein fimH
+4C0S,Elongation factor 1-alpha 2
+5SYM,Acyl-protein thioesterase 1/2
+1LB1,Transforming protein RhoA
+5UEN,Adenosine receptor
+3UWL,Thymidylate synthase
+1GG1,"3-deoxy-D-arabino-heptulosonate 7-phosphate synthase, Phe-sensitive"
+1EGU,Hyaluronate lyase
+1IL3,Ricin
+3GWC,Thymidylate synthase thyX
+3QJ7,Thymidylate synthase
+3B7E,Neuraminidase
+6U84,Vanilloid receptor
+1KLA,Transforming growth factor beta-1
+5MY0,Fatty acid synthase
+1EZQ,Thrombin and coagulation factor X
+5N53,D-3-phosphoglycerate dehydrogenase
+3MDZ,Carbonic anhydrase
+6CGC,Estradiol 17-beta-dehydrogenase 1
+2EOC,"PARP 1, 2 and 3"
+4ZZX,"PARP 1, 2 and 3"
+2EOC,Poly [ADP-ribose] polymerase 3
+5ZE3,Lysyl oxidase homolog 2
+5YX9,Short transient receptor potential channel 6
+1FBY,Nuclear receptor subfamily 4 group A member 2/Retinoic acid receptor RXR-alpha
+1S9I,Dual specificity mitogen-activated protein kinase kinase; MEK1/2
+1NSK,Nucleoside diphosphate kinase B
+2KAV,"Sodium channel alpha subunits; brain (Types I, II, III)"
+1CAH,Carbonic anhydrases; II & IX
+2KZT,Programmed cell death protein 4
+6CE1,Protein-arginine deiminase type-3
+5HP5,Protein-arginine deiminase type-1
+4KBJ,DNA-directed RNA polymerase beta chain
+2V4M,Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] 1
+1MMP,Matrix metalloproteinase 7
+2MQS,Matrix metalloproteinase 14
+1J1L,Pirin
+1TXF,"Glutamate receptor ionotropic, kainate"
+1U2B,Cytohesin-3
+1DJG,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1"
+2ARY,Calpain 1
+3NKS,Protoporphyrinogen oxidase
+1SEZ,"Protoporphyrinogen oxidase, mitochondrial"
+1EPW,Botulinum neurotoxin type B
+1WGS,Histone acetyltransferase KAT8
+1EO8,Hemagglutinin
+1KPA,Histidine triad nucleotide-binding protein 1
+3SRV,Syk protein
+1CEE,Rho GTPase Rac1/CDC42
+2QKF,2-dehydro-3-deoxyphosphooctonate aldolase
+6FYO,Dual specificity protein kinase CLK1/CLK4
+2EU9,Dual specificity protein kinase CLK3
+6HCE,Riboflavin-binding protein
+5TWV,ATP-binding cassette sub-family C member 8
+3EYG,JAK2/JAK1
+2JK6,Trypanothione reductase
+1MKC,Midkine
+1IRU,Proteasome subunit beta type-1/beta type-5
+1IA8,Serine/threonine-protein kinase Chk1/2
+1G95,Bifunctional protein GlmU
+6FYV,Dual specificity protein kinase CLK1/CLK4
+1HA1,Heterogeneous nuclear ribonucleoprotein A1
+1JWJ,"Nitric oxide synthase, inducible"
+3N00,Nuclear receptor subfamily 1 group D member 1
+2H06,Ribose-phosphate pyrophosphokinase I
+4PIR,Serotonin 3 (5-HT3) receptor
+1CKP,CDK2/Cyclin A
+4OFZ,Trehalose-phosphatase
+1FYT,HLA class II histocompatibility antigen DRB3-1
+2IAE,"Serine/threonine protein phosphatase 2A, 65 kDa regulatory subunit A, alpha isoform"
+2W5A,Serine/threonine-protein kinase NEK2
+4EL9,Ribosomal protein S6 kinase alpha-1/alpha-3
+2QXV,EZH2/SUZ12/EED/RBBP7/RBBP4
+4BOC,"DNA-directed RNA polymerase, mitochondrial"
+5BON,Nucleotide triphosphate diphosphatase NUDT15
+2CAR,Inosine triphosphate pyrophosphatase
+1Q33,"ADP-ribose pyrophosphatase, mitochondrial"
+3Q91,Uridine diphosphate glucose pyrophosphatase
+3U53,Bis(5'-nucleosyl)-tetraphosphatase [asymmetrical]
+2DSB,ADP-sugar pyrophosphatase
+2DW4,LSD1/CoREST complex
+1OSF,Heat shock protein HSP90
+2Q8F,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform/[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial"
+4R3Z,Arginyl-tRNA synthetase
+1X59,Histidyl-tRNA synthetase
+1WWT,Threonyl-tRNA synthetase
+1JIZ,Matrix metalloproteinase 12
+3WKT,Cytochrome P450 Reductase (CPR)
+1H19,Leukotriene A4 hydrolase
+4F9L,Butyrophilin subfamily 3 member A1
+1EAW,Hepatocyte growth factor activator/Serine protease hepsin/Suppressor of tumorigenicity 14 protein
+4I8V,Cytochrome P450 1A
+1EXB,Voltage-gated potassium channel subfamily A member 1/beta-1
+1Y8N,Pyruvate dehydrogenase kinase
+1CDH,T-cell surface antigen CD4
+1H3M,Cytidylyltransferase
+4P8Q,Aminopeptidase
+2HD1,"3',5'-cyclic phosphodiesterase"
+5Y66,Kynurenine 3-monooxygenase
+2C9Y,Adenylate kinase 2
+2AR7,Adenylate kinase 4
+5UEN,Adenosine receptor A1/Alpha-2A adrenergic receptor
+6NT2,Protein arginine N-methyltransferase 1
+2XQB,Interleukin-15
+2XQB,IL15-IL15 receptor
+1M47,Interleukin-2
+1UDT,"3',5'-cyclic phosphodiesterase"
+2IG7,Choline/ethanolamine kinase
+1M8O,Integrin alpha-V/beta-3/alpha-V/beta-5
+3E4U,B-cell lymphoma 6 protein
+1CS3,Zinc finger and BTB domain-containing protein 16
+3E4U,BCoR-BCL6
+6BGI,Anoctamin-1
+3MAX,Histone deacetylase 1/2/3/6
+1NQT,Glutamate dehydrogenase
+4GWM,Meprin A subunit beta
+1D8Z,ELAV-like protein 3
+1F9E,Caspase
+2EQR,Nuclear receptor corepressor 1
+1EM6,Liver glycogen phosphorylase
+1XPA,DNA repair protein complementing XP-A cells
+6DW0,GABA receptor alpha-1 subunit
+2VVZ,Sialidase A
+1CL5,Basic phospholipase A2 VRV-PL-VIIIa
+2WKL,Glucocerebrosidase GBA1/GBA2
+6E5V,Metabotropic glutamate receptor 8
+3TDU,DCN1-like protein 1
+6GV1,Multidrug translocase mdfA
+1OR8,Protein arginine N-methyltransferase 1
+4GQB,PRMT5/MEP50 complex
+6EF5,14-3-3 protein zeta/delta
+1CF7,Transcription factor Dp-2
+1IKN,I-kappa-B-alpha
+1QH3,Glyoxalase II
+1ZKL,"3',5'-cyclic phosphodiesterase"
+2DEB,Carnitine palmitoyltransferase 2
+4B87,DNA cross-link repair 1A protein
+2LCY,Envelope glycoprotein
+4EPP,Poly(ADP-ribose) glycohydrolase
+4TWD,Cys-loop ligand-gated ion channel
+5V3W,Polyketide synthase Pks13
+5FGZ,Bacterial penicillin-binding protein
+1K38,Beta-lactamase OXA-2
+1ZNC,Carbonic anhydrase
+4IM8,Advanced glycosylation end product-specific receptor
+2PW3,Phosphodiesterase 4 and 5 (PDE4 and PDE5)
+1X23,Ubiquitin-conjugating enzyme E2 D3
+5FLV,Homeobox protein Nkx-2.5
+4KM5,Cyclic GMP-AMP synthase
+1DD7,"Nitric oxide synthase, inducible"
+6NSE,"Nitric oxide synthase, endothelial"
+6U9V,P2X purinoceptor 7
+1FW8,Phosphoglycerate kinase 1
+1GXC,Serine/threonine-protein kinase Chk1/2
+1FB5,Ornithine carbamoyltransferase
+4LBM,Galectin-3
+1D0H,Tetanus toxin
+4C8D,Lysine-specific demethylase 3B
+1EM9,Rous sarcoma virus integrase
+2R17,Vacuolar protein sorting-associated protein 35
+1RTS,Thymidylate synthase
+1MO7,Na+/K+ ATPase alpha-1/beta-1
+1PB7,Ionotropic glutamate receptor NMDA1/2B
+2JI4,Phosphoribosyl pyrophosphate synthetase-associated protein 2
+1HAQ,Complement factor H
+5DGO,CDC45-related protein
+6QZH,C-C chemokine receptor type 7
+2RDL,Mast cell protease 3
+2LNL,"Interleukin-8 receptors, CXCR1/CXCR2"
+1PPK,Penicillopepsin
+1DP5,Saccharopepesin
+1TNR,TNF-beta
+4C3B,Matrix M2-1
+2WJ8,Nucleoprotein
+6PZK,Phosphoprotein
+2I2R,Kv channel-interacting protein 2/Potassium voltage-gated channel subfamily D member 3
+2MPF,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+1EE1,NH(3)-dependent NAD(+) synthetase
+1F20,"Nitric Oxide Synthase, brain"
+1YVB,Falcipain 2
+2V40,Adenylosuccinate synthetase 2
+5JSQ,Hypoxanthine-guanine phosphoribosyltransferase
+1DDR,Dihydrofolate reductase
+1KY1,Lysozyme(L99A/M102Q)
+4D01,Neuronal acetylcholine receptor protein alpha-9 subunit
+2KSR,Neuronal acetylcholine receptor protein beta-2 subunit/protein beta-3 subunit/subunit alpha-3/subunit alpha-6
+1Z10,Cytochrome P450 2A5
+1EKM,"Amine oxidase, copper containing"
+1KSI,Amine oxidase
+1F7W,Cell division protein zipA
+1DI9,p38 MAP kinase alpha/beta
+1CJK,Adenylate cyclase type II
+1SL4,CD209 antigen
+1YH2,Ubiquitin-conjugating enzyme E2 T
+5Z62,NADH-ubiquinone oxidoreductase MLRQ subunit
+3SWF,cGMP-gated cation channel alpha 1
+6UV0,Probable ATP-dependent RNA helicase DDX17
+3LN0,Cyclooxygenase
+1EK4,3-oxoacyl-[acyl-carrier-protein] synthase 1
+3J1T,Dynein heavy chain
+3RG2,Enterobactin synthetase component E
+1N3U,Heme oxygenase 1
+3GDK,Orotidine phosphate decarboxylase
+1KS9,Ketopantoate reductase
+1EK5,UDP-glucose 4-epimerase
+1CL1,Cystathionine beta-lyase metC
+1VRP,Creatine kinase M-type
+1NN7,Potassium voltage-gated channel subfamily D member 2
+5E9F,Isocitrate lyase
+3B9G,IAG-nucleoside hydrolase
+4GNO,Phosphoenolpyruvate carboxykinase cytosolic
+1OFU,Cell division protein ftsZ
+1DG9,Low molecular weight phosphotyrosine protein phosphatase
+1QGT,Core antigen
+1E5O,Endothiapepsin
+1ETR,Thrombin
+3SL2,Sensor histidine kinase yycG
+5NJ8,Aryl hydrocarbon receptor
+1CEZ,DNA-directed RNA polymerase
+2TOH,Tyrosine 3-hydroxylase
+2FJ0,Juvenile hormone esterase (JHE)
+4Q9M,Undecaprenyl pyrophosphate synthase
+1HUR,ADP-ribosylation factor 1
+5J03,KCNQ (Kv7) potassium channel
+1LFK,Cytochrome P450 165B3
+3SZT,PhzR
+2OK1,Mitogen-activated protein kinase 8
+1P0I,Cholinesterases; ACHE & BCHE
+6O4W,Acetylcholinesterase and butyrylcholinesterase (AChE and BChE)
+1MAA,Cholinesterases; ACHE & BCHE
+5SUZ,Segment polarity protein dishevelled homolog DVL-3
+1CKP,CDK2/Cyclin O
+1QTR,Proline iminopeptidase
+2HE5,Aldo-keto reductase family 1 member C21
+1DQ8,3-hydroxy-3-methylglutaryl-coenzyme A reductase
+1QND,Non-specific lipid-transfer protein
+5SYT,CAAX prenyl protease 1 homolog
+2XDG,Growth hormone-releasing hormone receptor
+4NNR,Peptidyl-prolyl cis-trans isomerase FKBP2
+1D6O,RyR1/FKBP12
+3OIF,Enoyl-[acyl-carrier-protein] reductase [NADH]
+2CFA,Probable thymidylate synthase
+1HP4,B-N-acetylhexosaminidase
+2ENN,Protein kinase C theta type
+2M1L,Cyclin-dependent kinase 2-associated protein 2
+1IIC,Glycylpeptide N-tetradecanoyltransferase
+1Q14,NAD-dependent deacetylase HST2
+5IKB,Glutamate receptor ionotropic kainate 4
+2GV9,DNA polymerase catalytic subunit
+1DNA,Thymidylate Synthase (TS)
+4CLF,Adenylate cyclase type 10
+2PK9,Pho80/Pho85
+1SP9,4-hydroxyphenylpyruvate dioxygenase
+1JWH,Casein kinase II alpha (prime)
+1PMD,Penicillin-binding protein 2X
+4Z2C,DNA gyrase subunit B
+5MS3,Kallikrein 8
+2MH3,Transcription factor HES-1
+1GX8,Beta-lactoglobulin
+6GQ3,Asparagine synthetase
+1DV8,Asialoglycoprotein receptor 1
+3IC1,Succinyl-diaminopimelate desuccinylase
+2QTR,Nicotinate-nucleotide adenylyltransferase
+1HUL,Interleukin-5
+1L6O,Segment polarity protein dishevelled homolog DVL-2
+3ZFZ,Penicillin binding protein 2'
+4GZO,Neuraminidase
+1TOH,Tyrosine 3-hydroxylase
+6IC5,Dipeptidyl peptidase 1
+2DUN,DNA-directed DNA/RNA polymerase mu
+1LTQ,Polynucleotide kinase
+5ILS,ETS translocation variant 1
+4XVI,DNA polymerase nu
+4XW3,ATP-dependent RNA helicase DDX1
+2UV4,5&#39;-AMP-activated protein kinase subunit gamma-1
+1G74,"Fatty acid-binding protein, adipocyte"
+1TB3,Hydroxyacid oxidase 2
+6GMB,Hydroxyacid oxidase 1
+3WRD,Kinesin heavy chain isoform 5C
+4AWI,JNK1/JNK2
+5II0,"Amylin receptor AMY1, CALCR/RAMP1"
+5II0,Amylin receptor AMY3; CALCR/RAMP3
+3N7P,"Adrenomedullin receptor AM1, CALCRL/RAMP2"
+1LTM,Membrane-bound lytic murein transglycosylase B
+3O9L,Renin
+3VW8,Hepatocyte growth factor receptor
+3UJ6,Phosphoethanolamine N-methyltransferase
+4LVN,Subtilisin-like protease
+1FG5,"N-acetyllactosaminide alpha-1,3-galactosyltransferase"
+2QBV,Intracellular chorismate mutase
+2JJY,Enoyl-[acyl-carrier-protein] reductase [NADH]
+4WGK,Neutral ceramidase
+4CCZ,Methionine synthase
+6IBB,Succinate receptor 1
+1CDB,T-cell surface antigen CD2
+1EZQ,Coagulation factor X/antithrombin III
+5XEZ,Uncharacterized protein
+2IQC,Fanconi anemia group F protein
+3KV5,Lysine-specific demethylase 7
+3KA0,MAP kinase-activated protein kinase 2
+4GOW,KCNQ (Kv7) potassium channel
+2VID,Serine protease SplB
+2VES,UDP-3-O-acyl-N-acetylglucosamine deacetylase
+6H02,ETS-related transcription factor Elf-3/Vitamin D3 receptor-interacting protein (ESX/MED23)
+1EQZ,Histone H4
+2R8Q,Class I phosphodiesterase PDEB1
+4QOX,Calcium-dependent protein kinase 4
+2BFX,Aurora kinase B-A
+3P7F,C-type lectin domain family 4 member K
+3WBP,C-type lectin domain family 4 member C
+1KZN,DNA gyrase subunit B
+2WWF,"Thymidylate kinase, putative"
+3F2K,Histone-lysine N-methyltransferase SETMAR
+4PZI,Histone-lysine N-methyltransferase MLL4
+5F59,Histone-lysine N-methyltransferase MLL3
+1KHC,DNA (cytosine-5)-methyltransferase 3B
+3DUI,Beta-galactoside-binding lectin
+1UVZ,"Thioredoxin, mitochondrial"
+1ERT,Thioredoxin
+4JL9,Serine/threonine-protein kinase TBK1
+1HGD,Influenza A virus Hemagglutinin
+1EAG,Candidapepsin-2
+1FMI,"Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+6B88,Signal peptidase I
+2NZL,Hydroxyacid oxidase 1
+6HFD,Dihydroorotase
+5MKT,Rhizopuspepsin
+3N9Y,Cytochrome P450 11A1
+1KVK,Mevalonate kinase
+2XPG,HLA class I histocompatibility antigen A-3
+1COW,"ATP synthase subunit gamma, mitochondrial"
+6P8H,CDK-interacting protein 1
+5LC5,"Acyl carrier protein, mitochondrial"
+3U6N,Calcium-activated potassium channel subunit alpha-1
+3NAF,Calcium-activated potassium channel alpha/beta 1
+1R0N,Ecdysone receptor
+3I6D,Protoporphyrinogen oxidase
+1CNM,Proteinase K
+2G43,Ubiquitin carboxyl-terminal hydrolase 5
+3U0Z,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1
+3U11,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3
+1DBH,Son of sevenless homolog 1
+1CLU,GTPase NRas
+1U46,Activated CDC42 kinase 1
+1JHN,Calnexin
+5YTA,L-lactate dehydrogenase B chain
+1D8D,geranylgeranyltransferase type-I
+1K5C,Endopolygalactyuronase
+1Y7L,Cysteine synthase
+1G2O,Purine nucleoside phosphorylase
+1CMA,Met repressor
+1NKP,Myc proto-oncogene protein
+1NKP,Protein max
+1CKT,High mobility group protein B1
+3E3P,Putative glycogen synthase kinase
+4E84,D-beta-D-heptose 7-phosphate kinase
+5O9Z,Protein Red
+1YOV,NEDD8-activating enzyme E1 regulatory subunit
+2Q3B,O-acetylserine sulfhydrylase
+1LZ0,Histo-blood group ABO system transferase
+1E3V,Steroid Delta-isomerase
+1D1Z,SH2 domain-containing protein 1A
+1GMN,Hepatocyte growth factor
+1PXE,Myelin transcription factor 1
+5NVL,PERQ amino acid-rich with GYF domain-containing protein 2
+1EH5,Palmitoyl-protein thioesterase 1
+4BPS,FkbO
+3BLH,CDK9/Cyclin K
+1MBG,Transcriptional activator Myb
+6BO8,Transient receptor potential cation channel subfamily V member 6
+1G8Q,CD81 antigen
+2A87,Thioredoxin reductase
+5FUU,Envelope glycoprotein gp160
+1KLF,FimH
+1JI7,Transcription factor ETV6
+2W4M,N-acylneuraminate-9-phosphatase
+1MNH,Myoglobin
+2Y6E,Ubiquitin carboxyl-terminal hydrolase 4
+5VBD,Probable ubiquitin carboxyl-terminal hydrolase FAF-X
+4A69,Histone deacetylase 3/NCoR1
+1N9P,Kir3.1/Kir3.2
+1N9P,G protein-activated inward rectifier potassium channel 1
+1V9V,Microtubule-associated serine/threonine-protein kinase 3
+3OEK,Glutamate [NMDA] receptor subunit epsilon 4
+4JVC,Transcriptional regulator MvfR
+5MQL,Deoxycytidine kinase
+1GZH,Tumor suppressor p53-binding protein 1
+6AQB,Mitogen-activated protein kinase kinase kinase 11
+1G3J,TCF4/beta-catenin
+1FGY,Cytohesin-2
+2DWW,Bromodomain-containing protein 4
+3F0D,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+6E0E,Hexokinase type IV
+1V71,Serine racemase
+1XKW,Fe(3+)-pyochelin receptor
+6BCU,GTP-binding protein Rheb
+2QNK,"3-hydroxyanthranilate 3,4-dioxygenase"
+1UTC,Clathrin heavy chain 1
+6MIX,Transient receptor potential cation channel subfamily M member 2
+1V7P,Integrin alpha2/beta1
+1QC5,Integrin alpha1/beta1 complex
+4OLI,Non-receptor tyrosine-protein kinase TYK2
+3ZM5,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+4U33,"Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase"
+3MJK,Platelet-derived growth factor subunit A
+2QRV,DNA (cytosine-5)-methyltransferase 3-like
+1XSL,DNA polymerase lambda
