@@ -25,5 +25,5 @@
 
 ## Contact 
 > [Akhil Sanker](https://www.linkedin.com/in/akhilsanker) [ ML Developer (Tensorflow)]  <br/>
-> [Ben Geoffrey](https://www.linkedin.com/in/ben-geoffrey-2ab33846/) [ Physics Scholar / Project Lead ] <br/>
+> [Ben Geoffrey](https://www.linkedin.com/in/ben-geoffrey-2ab33846/) [ Scholar / Project Lead ] <br/>
 > [Pavan Preetham](https://www.linkedin.com/in/pavan-preetham-a1928116b/) [ ML Developer (PyTorch) ] <br/>
