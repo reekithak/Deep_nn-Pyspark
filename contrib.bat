@@ -1,7 +1,7 @@
 @ECHO OFF
 git init
-git add --all
-git commit -m "First try"
-git remote add origin https://maindrug.scm.azurewebsites.net:443/maindrug.git
-git push -u origin master
+git add .
+git commit -am "First try"
+git remote add azure https://drugdisc.scm.azurewebsites.net:443/drugdisc.git
+git push azure master
 PAUSE
