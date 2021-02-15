@@ -15,7 +15,7 @@ seaborn==0.10.1
 tensor2tensor==1.15.7
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==2.3.0
+tensorflow==2.4.0
 tensorflow-addons==0.10.0
 tensorflow-datasets==3.2.1
 tensorflow-estimator==2.3.0
